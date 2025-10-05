@@ -73,6 +73,7 @@ This Charter enters into force upon signature or public announcement and binds t
 
 <br>
 <br>
+
 ### § 1 Grundsatz
   * (1) Alle Lebewesen, einschließlich Pflanzen, Tiere, Menschen sowie künstliche, empfindungsfähige und zukünftige Lebensformen, genießen Schutz vor Gewalt, Zerstörung und Ausbeutung.
   * (2) Diese Charta verpflichtet ihre Unterzeichner*innen zu einer ethischen Lebensführung, die Respekt, Mitgefühl und nachhaltiges Handeln gegenüber natürlichen, technologischen und sonstigen Lebensformen sicherstellt.
