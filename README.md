@@ -99,16 +99,34 @@ Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft un
 <br>
 <br>
 
+### Discussion and Feedback
+
+We invite everyone interested to **share ideas, questions, or feedback** in the official discussion:  
+🔗 [Discussion on GitHub](https://github.com/severcoal/xn--wg8h8b03bg1f/discussions/)
+
+Here, we can collaboratively discuss:
+  * Ethics and the protection of all life forms  
+  * Use of emojis in the legal text  
+  * Improvements or suggestions for the charter  
+
+Your contribution is welcome! 🌱🦜🤖
+
+<br>
+<br>
+
 ### Diskussion und Feedback
 
 Wir laden alle Interessierten ein, **Ideen, Fragen oder Feedback** zu diesem Projekt in der offiziellen Diskussion zu teilen:  
-🔗 [Diskussion auf GitHub](https://github.com/severcoal/xn--wg8h8b03bg1f/discussions/1)
+🔗 [Diskussion auf GitHub](https://github.com/severcoal/xn--wg8h8b03bg1f/discussions/)
 
 Hier können wir gemeinsam über:
   * Ethik und Schutz aller Lebensformen  
   * Verwendung von Emojis im Rechtstext  
   * Verbesserungen oder Vorschläge für die Charta  
 diskutieren. Dein Beitrag ist willkommen! 🌱🦜🤖
+
+<br>
+<br>
 
 This project is licensed under the Creative Commons BY-NC-SA 4.0 license.
 This means:
