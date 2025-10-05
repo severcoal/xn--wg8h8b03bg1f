@@ -99,6 +99,17 @@ Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft un
 <br>
 <br>
 
+### Diskussion und Feedback
+
+Wir laden alle Interessierten ein, **Ideen, Fragen oder Feedback** zu diesem Projekt in der offiziellen Diskussion zu teilen:  
+🔗 [Diskussion auf GitHub](https://github.com/severcoal/xn--wg8h8b03bg1f/discussions/1)
+
+Hier können wir gemeinsam über:
+  * Ethik und Schutz aller Lebensformen  
+  * Verwendung von Emojis im Rechtstext  
+  * Verbesserungen oder Vorschläge für die Charta  
+diskutieren. Dein Beitrag ist willkommen! 🌱🦜🤖
+
 This project is licensed under the Creative Commons BY-NC-SA 4.0 license.
 This means:
 <br>
