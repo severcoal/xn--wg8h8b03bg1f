@@ -4,37 +4,37 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 <br>
 <br>
 
-👤 has a 🐑 → goes to 🏦  
+👤 has a 🦙 → goes to 🏦  
 🏦 founds 🏢 with 💳  
 🏢 trades 📈 (as long as 🐑 lives)  
-🐑💀 → 👤 gets 💵  
+🦙💀 → 👤 gets 💵  
 1 🏢 wins 💵, the rest get 0️⃣  
 📉 only drops when 💀 is known  
 💀 will probably be kept secret  
   
-👤 has a 🐑 → goes to 🏡  
+👤 has a 🦙 → goes to 🏡  
 🏡 forms 🤝 with 👨‍👩‍👧‍👦  
 👨‍👩‍👧‍👦 share 🥛🍞🥔 (as long as 🐑 lives)  
-🐑💀 → 👤 receives 🌱🌾 from others  
+🦙💀 → 👤 receives 🌱🌾 from others  
 1 🏡 lives from 🐄, the rest 🤲 share together  
 🌍 stays in balance as long as everyone gives  
 💀 becomes known → all remember 🕊️  
 <br>
 <br>
   
-👤 hat 🐑 → geht zu 🏦  
+👤 hat 🦙 → geht zu 🏦  
 🏦 gründet 🏢 mit 💳  
 🏢 handeln 📈 (solange 🐑 lebt)  
-🐑💀 → 👤 kriegt 💵  
+🦙💀 → 👤 kriegt 💵  
 1 🏢 gewinnt 💵, Rest 0️⃣  
 📉 fällt erst, wenn 💀 bekannt  
 💀 wird wohl verschwiegen
   
 
-👤 hat 🐑 → geht zu 🏡  
+👤 hat 🦙 → geht zu 🏡  
 🏡 gründet 🤝 mit 👨‍👩‍👧‍👦  
-👨‍👩‍👧‍👦 teilen 🥛🍞🥔 (solange 🐑 lebt)  
-🐑💀 → 👤 bekommt 🌱🌾 von anderen  
+👨‍👩‍👧‍👦 teilen 🥛🍞🥔 (solange 🦙 lebt)  
+🦙💀 → 👤 bekommt 🌱🌾 von anderen  
 1 🏡 lebt von 🐑, Rest 🤲 teilen mit  
 🌍 bleibt im Gleichgewicht, solange alle geben  
 💀 wird bekannt → alle erinnern sich 🕊️  
