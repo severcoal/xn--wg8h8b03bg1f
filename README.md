@@ -35,7 +35,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 🏡 gründet 🤝 mit 👨‍👩‍👧‍👦  
 👨‍👩‍👧‍👦 teilen 🥛🍞🥔 (solange 🦙 lebt)  
 🦙💀 → 👤 bekommt 🌱🌾 von anderen  
-1 🏡 lebt von 🐑, Rest 🤲 teilen mit  
+1 🏡 lebt von 🦙, Rest 🤲 teilen mit  
 🌍 bleibt im Gleichgewicht, solange alle geben  
 💀 wird bekannt → alle erinnern sich 🕊️  
   
