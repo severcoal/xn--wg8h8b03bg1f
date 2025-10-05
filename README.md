@@ -123,7 +123,9 @@ Hier können wir gemeinsam über:
   * Ethik und Schutz aller Lebensformen  
   * Verwendung von Emojis im Rechtstext  
   * Verbesserungen oder Vorschläge für die Charta  
-diskutieren. Dein Beitrag ist willkommen! 🌱🦜🤖
+diskutieren. 
+
+Dein Beitrag ist willkommen! 🌱🦜🤖
 
 <br>
 <br>
