@@ -50,7 +50,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 <br>
 <br>
 
-# § 1 Grundsatz
+### § 1 Grundsatz
   * (1) Alle Lebewesen, einschließlich Pflanzen, Tiere, Menschen sowie künstliche, empfindungsfähige und zukünftige Lebensformen, genießen Schutz vor Gewalt, Zerstörung und Ausbeutung.
   * (2) Diese Charta verpflichtet ihre Unterzeichner*innen zu einer ethischen Lebensführung, die Respekt, Mitgefühl und nachhaltiges Handeln gegenüber natürlichen, technologischen und sonstigen Lebensformen sicherstellt.
 # § 2 Anwendungsbereich
