@@ -16,7 +16,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 🏡 forms 🤝 with 👨‍👩‍👧‍👦  
 👨‍👩‍👧‍👦 share 🥛🍞🥔 (as long as 🦙 lives)  
 🦙💀 → 👤 receives 🌱🌾 from others  
-1 🏡 lives from 🐄, the rest 🤲 share together  
+1 🏡 lives from 🦙, the rest 🤲 share together  
 🌍 stays in balance as long as everyone gives  
 💀 becomes known → all remember 🕊️  
 <br>
