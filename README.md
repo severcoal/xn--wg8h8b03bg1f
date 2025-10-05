@@ -6,7 +6,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 
 👤 has a 🦙 → goes to 🏦  
 🏦 founds 🏢 with 💳  
-🏢 trades 📈 (as long as 🐑 lives)  
+🏢 trades 📈 (as long as 🦙 lives)  
 🦙💀 → 👤 gets 💵  
 1 🏢 wins 💵, the rest get 0️⃣  
 📉 only drops when 💀 is known  
@@ -14,7 +14,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
   
 👤 has a 🦙 → goes to 🏡  
 🏡 forms 🤝 with 👨‍👩‍👧‍👦  
-👨‍👩‍👧‍👦 share 🥛🍞🥔 (as long as 🐑 lives)  
+👨‍👩‍👧‍👦 share 🥛🍞🥔 (as long as 🦙 lives)  
 🦙💀 → 👤 receives 🌱🌾 from others  
 1 🏡 lives from 🐄, the rest 🤲 share together  
 🌍 stays in balance as long as everyone gives  
@@ -24,7 +24,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
   
 👤 hat 🦙 → geht zu 🏦  
 🏦 gründet 🏢 mit 💳  
-🏢 handeln 📈 (solange 🐑 lebt)  
+🏢 handeln 📈 (solange 🦙 lebt)  
 🦙💀 → 👤 kriegt 💵  
 1 🏢 gewinnt 💵, Rest 0️⃣  
 📉 fällt erst, wenn 💀 bekannt  
