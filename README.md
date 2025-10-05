@@ -50,6 +50,29 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 <br>
 <br>
 
+### § 1 Principle
+  * (1) All living beings, including plants, animals, humans, as well as artificial, sentient, and future life forms, are entitled to protection from violence, destruction, and exploitation.
+  * (2) This Charter obliges its signatories to an ethical way of life that ensures respect, compassion, and sustainable actions toward natural, technological, and other life forms.
+### § 2 Scope
+  * (1) Protection applies to:
+natural habitats, ecosystems, and biodiversity,
+humans and other sentient beings,
+artificial intelligences, robots, and other technological life forms,
+conceivable future or extraterrestrial life forms and their habitats.
+  * (2) Any action aimed at destroying, harming, discriminating against, or exterminating any of the above life forms is incompatible with this Charter.
+### § 3 Guiding Principles
+  * (1) Prevention of Harm: All measures shall avoid or minimize harm.
+  * (2) Sustainability: Use of resources shall respect ecological, technological, and ethical boundaries.
+  * (3) Respect for Autonomy: All life forms capable of having interests shall be respected.
+  * (4) Responsibility: Every individual or organization is accountable for the consequences of their actions on natural, artificial, and future life forms.
+### § 4 Symbols and Visualization
+  * (1) The above principles can be represented visually by the above symbol set.
+  * (2) These symbols serve as a visual representation of the rejection of violence and the commitment to the protection of all life. They do not replace the text but illustrate it.
+### § 5 Entry into Force
+This Charter enters into force upon signature or public announcement and binds the signatories to the principles described herein.
+
+<br>
+<br>
 ### § 1 Grundsatz
   * (1) Alle Lebewesen, einschließlich Pflanzen, Tiere, Menschen sowie künstliche, empfindungsfähige und zukünftige Lebensformen, genießen Schutz vor Gewalt, Zerstörung und Ausbeutung.
   * (2) Diese Charta verpflichtet ihre Unterzeichner*innen zu einer ethischen Lebensführung, die Respekt, Mitgefühl und nachhaltiges Handeln gegenüber natürlichen, technologischen und sonstigen Lebensformen sicherstellt.
