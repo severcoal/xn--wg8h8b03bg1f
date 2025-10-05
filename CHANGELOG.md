@@ -6,3 +6,6 @@
 - README erstellt
 - CHANGELOG erstellt
 - Release Notes erstellt
+- CODE OF CONDUCT erstellt
+- CONTRIBUTING erstellt
+- index erstellt
