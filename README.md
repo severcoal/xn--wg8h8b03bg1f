@@ -17,7 +17,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 👨‍👩‍👧‍👦 share 🥛🍞🥔 (as long as 🦙 lives)  
 🦙💀 → 👤 receives 🌱🌾 from others  
 1 🏡 lives from 🦙, the rest 🤲 share together  
-🌍 stays in balance as long as everyone gives  
+🌐 stays in balance as long as everyone gives  
 💀 becomes known → all remember 🕊️  
 <br>
 <br>
@@ -36,7 +36,7 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 👨‍👩‍👧‍👦 teilen 🥛🍞🥔 (solange 🦙 lebt)  
 🦙💀 → 👤 bekommt 🌱🌾 von anderen  
 1 🏡 lebt von 🦙, Rest 🤲 teilen mit  
-🌍 bleibt im Gleichgewicht, solange alle geben  
+🌐 bleibt im Gleichgewicht, solange alle geben  
 💀 wird bekannt → alle erinnern sich 🕊️  
   
 <br>
