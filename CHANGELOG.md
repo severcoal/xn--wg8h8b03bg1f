@@ -9,3 +9,4 @@
 - CODE OF CONDUCT erstellt
 - CONTRIBUTING erstellt
 - index erstellt
+- 🗝️👘 erstellt
