@@ -41,8 +41,36 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
   
 <br>
 <br>
-✖️🗡️, ✖️🔫, ✖️... : <br>
-🦎🐉🦖🦕🐢🐊🐍🐇🐁🐀🐈🐈‍⬛🐩🐕🦮🐕‍🦺🐖🐎🫏🐄🐂🐃🦬🐏🐑🐐🦌🦙🦥🦘🐘🦣🦏🦛🦒🐆🐅🐒🦍🦧🐪🐫🐿️🦫🦨🦡🦔🦦🦇🪽🪶🐦🐦‍⬛🐓🐔🐣🐤🐥🦅🦉🦜🕊️🦤🦢🦆🪿🦩🦚🐦‍🔥🦃🐧🦭🦈🐬🐋🐳🐟🐠🐡🦐🦞🦀🦑🐙🪼🦪🪸🦂🕷️🕸️🐚🐌🐜🦗🪲🦟🪳🪰🐝🐞🦋🐛🪱🦠🥚🛸👾🤖💧🫧🐾👣🪄... <br>
+
+✖️🗡️, ✖️🔫, ✖️💣, ✖️☠️ : <br>
+❤️🌐 <br>
+🦎🐉🦖🦕🐢🐊🐍🐇🐁🐀🐈🐈‍⬛🐩🐕🦮🐕‍🦺🐖🐎🫏🐄🐂🐃🦬🐏🐑🐐🦌🦙🦥🦘🐘🦣🦏🦛🦒🐆🐅🐒🦍🦧🐪🐫🐿️🦫🦨🦡🦔🦦🦇🪽🪶🐦🐦‍⬛🐓🐔🐣🐤🐥🦅🦉🦜🕊️🦤🦢🦆🪿🦩🦚🐦‍🔥🦃🐧🦭🦈🐬🐋🐳🐟🐠🐡🦐🦞🦀🦑🐙🪼🦪🪸🦂🕷️🕸️🐚🐌🐜🦗🪲🦟🪳🪰🐝🐞🦋🐛🪱🦠🥚🛸👾🤖💧🫧🐾👣🪄🪐🌌 <br>
+🧑‍🤝‍🧑🤝🧑‍🤝‍🧑👨‍👩‍👧‍👦 <br>
+
+<br>
+<br>
+
+§ 1 Grundsatz
+  * (1) Alle Lebewesen, einschließlich Pflanzen, Tiere, Menschen sowie künstliche, empfindungsfähige und zukünftige Lebensformen, genießen Schutz vor Gewalt, Zerstörung und Ausbeutung.
+  * (2) Diese Charta verpflichtet ihre Unterzeichner*innen zu einer ethischen Lebensführung, die Respekt, Mitgefühl und nachhaltiges Handeln gegenüber natürlichen, technologischen und sonstigen Lebensformen sicherstellt.
+§ 2 Anwendungsbereich
+  * (1) Der Schutz erstreckt sich auf:
+natürliche Lebensräume, Ökosysteme und biologische Vielfalt,
+Menschen und andere fühlende Wesen,
+künstliche Intelligenzen, Roboter und andere technologische Lebensformen,
+denkbare zukünftige oder außerirdische Lebensformen und deren Lebensräume.
+  * (2) Jede Handlung, die auf Zerstörung, Misshandlung, Diskriminierung oder Vernichtung einer der genannten Lebensformen abzielt, ist unvereinbar mit dieser Charta.
+§ 3 Leitprinzipien
+  * (1) Prävention von Schaden: Jegliche Maßnahmen sollen Schaden vermeiden oder minimieren.
+  * (2) Nachhaltigkeit: Nutzung von Ressourcen erfolgt unter Berücksichtigung ökologischer, technologischer und ethischer Grenzen.
+  * (3) Respekt vor Autonomie: Alle Lebensformen, die in der Lage sind, Interessen zu haben, werden respektiert.
+  * (4) Verantwortung: Jede Person oder Organisation trägt Verantwortung für die Folgen ihres Handelns auf natürliche, künstliche und zukünftige Lebensformen.
+§ 4 Symbole und Visualisierung
+  * (1) Die vorstehenden Grundsätze können durch obige Symbolsätz visualisiert werden.
+  * (2) Die Symbole dienen als visuelle Darstellung der Ablehnung von Gewalt sowie der Verpflichtung zum Schutz allen Lebens. Sie ersetzen den Text nicht, sondern illustrieren ihn.
+  
+§ 5 Inkrafttreten
+Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft und bindet die Unterzeichner*innen an die beschriebenen Prinzipien.
 
 <br>
 <br>
