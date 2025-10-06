@@ -1,0 +1,3 @@
+Der vorliegende Text dient ausschließlich als konzeptioneller oder erläuternder Entwurf und begründet keine Rechtsverbindlichkeit.
+Vor seiner Anwendung, Veröffentlichung oder Umsetzung ist der Inhalt zwingend durch eine qualifizierte Rechtsanwältin oder einen qualifizierten Rechtsanwalt zu prüfen. Dabei sind insbesondere die einschlägigen Vorschriften des Zivil-, Gesellschafts-, Steuer- und Aufsichtsrechts zu berücksichtigen.
+Soweit im Zuge dieser Prüfung Anpassungen, Ergänzungen oder Streichungen erforderlich sind, sind diese vorzunehmen, um die rechtliche Wirksamkeit, Gesetzeskonformität und praktische Anwendbarkeit sicherzustellen.
