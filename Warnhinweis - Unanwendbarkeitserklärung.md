@@ -1,0 +1,7 @@
+Das in diesem Repository beschriebene Modell ist so zu gestalten und anzuwenden, dass es grundsätzlich kein Verschweigen, keine Umgehung von Meldepflichten und keine sonstigen rechtswidrigen Handlungen vorsieht oder ermöglicht. Insbesondere ist unzulässig:
+das Verschweigen von für Rechts-, Steuer- oder Aufsichtsbehörden relevanten Tatsachen (z. B. Änderungen wirtschaftlich Berechtigter, Todesfälle, Verdachtsfälle),
+die Umgehung gesetzlicher Meldepflichten (einschließlich der Pflichten nach dem Geldwäschegesetz – GwG, Verdachtsmeldungen an die FIU etc.),
+die Vornahme von Geschäften ohne die erforderlichen aufsichtsrechtlichen Genehmigungen (z. B. nach KWG, WpHG/WpIG) oder ohne steuerliche Klarstellungen, sowie
+jegliche Handlung, die auf eine Täuschung von Vertragspartnern, Banken, Aufsichtsbehörden oder sonstigen Dritten abzielt.
+Eine Verwendung des Modells mit dem Zweck oder der Wirkung, gesetzliche Pflichten zu umgehen, wird ausdrücklich untersagt. Personen und Organisationen, die dieses Modell dennoch zur Verheimlichung oder Rechtsumgehung einsetzen, handeln rechtswidrig und setzen sich zivil-, straf- und aufsichtsrechtlichen Risiken aus.
+Vor einer praktischen Umsetzung ist zwingend eine rechtliche Prüfung durch spezialisierte Rechtsanwältinnen / Rechtsanwälte (Bank-/Kapitalmarkt-/Steuerrecht) sowie, sofern erforderlich, eine Abstimmung mit den zuständigen Aufsichtsbehörden (z. B. BaFin) und Steuerbehörden durchzuführen.
