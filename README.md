@@ -141,6 +141,12 @@ This means:
 <br>
 <br>
 
+Rechtlicher Hinweis: <br>
+Dieser Text stellt keinen rechtsverbindlichen Vertrag dar. Vor einer Verwendung oder Umsetzung ist zwingend eine rechtliche Prüfung durch eine zugelassene Rechtsanwältin oder einen zugelassenen Rechtsanwalt erforderlich. Gegebenenfalls sind Änderungen vorzunehmen, um die Vereinbarkeit mit geltendem Recht sicherzustellen.
+
+
+<br>
+<br>
 Dieses Projekt steht unter der Creative Commons BY-NC-SA 4.0 Lizenz.
 Das bedeutet:
 <br>
