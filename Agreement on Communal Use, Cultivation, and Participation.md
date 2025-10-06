@@ -50,23 +50,23 @@ Place, Date
 
 Emoji Meaning Reference:
 
-👤
-Natural person / Grantor / initiator
-🦙
-The designated animal whose life marks the duration of the grant
-🏡
-The property, house, or land subject to the Agreement
-👨‍👩‍👧‍👦
-The community or collective of participants
-🤝
-The act of founding or agreeing to cooperate
-🥛🍞🥔
-Yields, food, basic agricultural products
-🌱🌾
-Crops, growth, harvest, or natural bounty
-🌐
-Ecological and social balance
-💀
-Death (event triggering contractual change)
-🕊️
-Remembrance, peace, commemoration
+👤 <br>
+Natural person / Grantor / initiator <br>
+🦙 <br>
+The designated animal whose life marks the duration of the grant <br>
+🏡 <br>
+The property, house, or land subject to the Agreement <br>
+👨‍👩‍👧‍👦 <br>
+The community or collective of participants <br>
+🤝 <br>
+The act of founding or agreeing to cooperate <br>
+🥛🍞🥔 <br>
+Yields, food, basic agricultural products <br>
+🌱🌾 <br>
+Crops, growth, harvest, or natural bounty <br>
+🌐 <br>
+Ecological and social balance <br>
+💀 <br>
+Death (event triggering contractual change) <br>
+🕊️ <br>
+Remembrance, peace, commemoration <br>
