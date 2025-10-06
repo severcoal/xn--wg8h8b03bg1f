@@ -1,6 +1,6 @@
 ---
 layout: default
-titele: 🌐🐾🌱🛡️
+title: 🌐🐾🌱🛡️
 ---
 
 {% include_relative README.md %}
