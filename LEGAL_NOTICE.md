@@ -44,7 +44,7 @@ Prior to any implementation or release, it is strongly recommended to:
 
 ---
 
-**© 2025 [Name or Project Name].**  
+**© 2025 🌐🐾🌱🛡️.**  
 All rights reserved.  
 This notice may be reproduced or included in documentation, repositories, or publications, provided the source remains identifiable and unaltered.
 
@@ -97,6 +97,6 @@ Es wird empfohlen, vor einer Umsetzung oder Veröffentlichung:
 
 ---
 
-**© 2025 [Name oder Projektname].**  
+**© 2025 🌐🐾🌱🛡️.**  
 Alle Rechte vorbehalten.  
 Dieser Hinweis darf unverändert in Projektdokumentationen, Repositories oder Veröffentlichungen verwendet werden, sofern die Quelle erkennbar bleibt.
