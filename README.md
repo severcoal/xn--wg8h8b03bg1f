@@ -130,6 +130,12 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 <br>
 <br>
 
+Legal Notice: <br>
+This text does not constitute a legally binding contract. Before any use or implementation, it must be reviewed by a licensed attorney. If necessary, amendments must be made to ensure compliance with applicable law.
+
+<br>
+<br>
+
 Rechtlicher Hinweis: <br>
 Dieser Text stellt keinen rechtsverbindlichen Vertrag dar. Vor einer Verwendung oder Umsetzung ist zwingend eine rechtliche Prüfung durch eine zugelassene Rechtsanwältin oder einen zugelassenen Rechtsanwalt erforderlich. Gegebenenfalls sind Änderungen vorzunehmen, um die Vereinbarkeit mit geltendem Recht sicherzustellen.
 
