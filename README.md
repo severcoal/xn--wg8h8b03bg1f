@@ -175,9 +175,12 @@ Code → Download ZIP
 <br>
 <br>
 
-severcoal
-🌐🐾🌱🛡️
-xn--wg8h8b03bg1f
+severcoal  
+<br>
+🌐🐾🌱🛡️  
+<br>
+xn--wg8h8b03bg1f  
+<br>
 
 <br>
 <br>
