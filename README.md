@@ -175,4 +175,11 @@ Code → Download ZIP
 <br>
 <br>
 
+severcoal
+🌐🐾🌱🛡️
+xn--wg8h8b03bg1f
+
+<br>
+<br>
+
 [![GitHub release](https://img.shields.io/github/v/release/severcoal/xn--wg8h8b03bg1f)](https://github.com/severcoal/xn--wg8h8b03bg1f/releases)
