@@ -169,7 +169,7 @@ Das bedeutet:
  Clone the repository  <br>
  Das Repository klonen  <br>
 
-git clone https://github.com/severcoal/-.git <br>
+git clone https://github.com/severcoal/xn--wg8h8b03bg1f.git <br>
 
 Code → Download ZIP 
 <br>
