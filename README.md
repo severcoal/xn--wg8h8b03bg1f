@@ -168,7 +168,7 @@ Das bedeutet:
 <br>
 <br>
 
- 📥. <br>
+ 📥∆∆∆ <br>
  Clone the repository  <br>
  Das Repository klonen  <br>
 
