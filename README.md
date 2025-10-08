@@ -4,6 +4,11 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 <br>
 <br>
 
+💌
+
+<br>
+<br>
+
 👤 has a 🦙 → goes to 🏦  
 🏦 founds 🏢 with 💳  
 🏢 trades 📈 (as long as 🦙 lives)  
