@@ -4,7 +4,7 @@ subtitle: "Vertrag nach §§ 241 ff. BGB — im Geiste des VVG"
 author: "@severcoal"
 date: "2025-10-09"
 version: "v1.0-CIC-CCEO"
-license: "CC BY-SA 4.0"
+license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "de"
 tags: ["Versicherung", "Kirchenrecht", "CIC", "CCEO", "BGB", "Vertragsrecht", "Gemeinschaft", "Ethik"]
@@ -214,8 +214,8 @@ so gilt der Vertrag als **nicht abgeschlossen und rechtlich unwirksam** (§§ 14
 ---
 
 ### 📄 Lizenz
-Dieses Dokument steht unter der Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
-Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/  
-© 2025 @severcoal (GitHub)  
+Dieses Dokument steht unter der Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).  
+Lizenztext: https://creativecommons.org/licenses/by-nc-sa/4.0/  
+© 2025 @severcoal (GitHub) <br>
 🌐🐾🌱🛡️  
 xn--wg8h8b03bg1f
