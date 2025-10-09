@@ -4,7 +4,7 @@ subtitle: "Agreement under §§ 241 et seq. BGB — in the spirit of the VVG"
 author: "@severcoal"
 date: "2025-10-09"
 version: "v1.0-CIC-CCEO"
-license: "CC BY-SA 4.0"
+license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "en"
 tags: ["Insurance", "Canon Law", "CIC", "CCEO", "BGB", "Civil Law", "Community", "Ethics", "Balance"]
@@ -228,9 +228,8 @@ the agreement is deemed **not concluded and legally invalid** (§§ 145–147, 1
 
 ---
 
-### 📄 License
-This document is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
-License text: https://creativecommons.org/licenses/by-sa/4.0/  
+This document is licensed under the Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).  
+License text: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 © 2025 @severcoal (GitHub)  
 🌐🐾🌱🛡️  
 xn--wg8h8b03bg1f
