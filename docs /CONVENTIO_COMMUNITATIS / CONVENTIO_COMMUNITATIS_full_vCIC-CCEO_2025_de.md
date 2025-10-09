@@ -1,26 +1,35 @@
 ---
-title: "Vertrag über gemeinschaftliche Nutzung, Bewirtschaftung und Teilhabe"
-subtitle: "nach den Grundsätzen der Vertragsfreiheit gemäß §§ 305 ff. BGB"
+title: "Universeller ökumenischer Vertrag über gemeinschaftliche Nutzung, Bewirtschaftung und Teilhabe"
+subtitle: "nach den Grundsätzen der Vertragsfreiheit gemäß §§ 241 ff. und 305 ff. BGB – im Einklang mit kirchlichem, ökumenischem und ethischem Recht"
 author: "@severcoal"
 date: "2025-10-09"
-version: "v1.0-CIC-CCEO"
+version: "vOCVG-Universal-v3-2025"
 license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "de"
-tags: ["Gemeinschaft", "Kirchenrecht", "CIC", "CCEO", "BGB", "Zivilrecht", "Ethik", "Gleichgewicht", "Solidarität"]
+tags: ["Gemeinschaft", "Kirchenrecht", "CIC", "CCEO", "Nomokanon", "BGB", "Zivilrecht", "Ökumene", "Ethik", "Schöpfung", "Solidarität"]
 checksum: "sha256"
 verified_by: "OpenCanonicalSign"
 valid_from: "2025-10-09"
 valid_until: "unbegrenzt"
 description: >
-  Dieser Vertrag regelt die gemeinschaftliche Nutzung, Bewirtschaftung und Teilhabe
-  an Orten, Gütern oder Projekten ohne den Einsatz von Geld, basierend auf Fürsorge, Arbeit und gegenseitigem Geben.
-  Er steht im Einklang mit dem Codex Iuris Canonici (CIC) und dem Codex Canonum Ecclesiarum Orientalium (CCEO)
-  sowie den Prinzipien der katholischen Soziallehre.
+  Dieser Vertrag regelt die gemeinschaftliche Nutzung, Bewirtschaftung und Teilhabe an Orten, Gütern oder Projekten
+  ohne den Einsatz von Geld, basierend auf Fürsorge, Arbeit, Verantwortung und gegenseitigem Geben.
+  Er steht im Einklang mit dem Codex Iuris Canonici (CIC), dem Codex Canonum Ecclesiarum Orientalium (CCEO),
+  den Kanones der Orthodoxen Kirchen sowie den Grundsätzen evangelischer, anglikanischer und ökumenischer Sozialethik.
 ---
 
-# 🏡 Vertrag über gemeinschaftliche Nutzung, Bewirtschaftung und Teilhabe  
-*(nach den Grundsätzen der Vertragsfreiheit gemäß §§ 305 ff. BGB)*  
+# 🏡 Universeller ökumenischer Vertrag über gemeinschaftliche Nutzung, Bewirtschaftung und Teilhabe  
+*(nach den Grundsätzen der Vertragsfreiheit gemäß §§ 241 ff., 305 ff. BGB – im Geiste kirchlicher und ethischer Verantwortung)*  
+
+---
+
+## § 0 Präambel  
+In Anerkennung des göttlichen Ursprungs allen Lebens, der Würde jedes Wesens und der Verantwortung des Menschen  
+für die Schöpfung schließen die Unterzeichnenden diesen Vertrag als Zeichen von Glauben, Hoffnung und Liebe –  
+im Geist der Einheit und des Friedens, über konfessionelle und kulturelle Grenzen hinweg.  
+
+> „Alles Leben ist verbunden. Wer gibt, erhält.“ 🌐  
 
 ---
 
@@ -44,8 +53,9 @@ description: >
 ## § 1 Vertragsgegenstand  
 1. Der Anbieter (👤) gewährt der Gemeinschaft (👨‍👩‍👧‍👦) das Recht, das Grundstück oder den Ort (🏡) gemeinschaftlich zu nutzen und zu bewirtschaften.  
 2. Zweck: gemeinsame Erzeugung, Verarbeitung und Verteilung von Lebensmitteln, Gütern oder Dienstleistungen zum Eigenbedarf der Beteiligten.  
-3. Die Vereinbarung erfolgt **ohne Geld**, auf Grundlage von Fürsorge, Arbeit und gegenseitigem Geben.  
-4. Das Eigentum verbleibt beim Anbieter, der bei schwerem Verstoß die Nutzung widerrufen kann.
+3. Die Vereinbarung erfolgt **ohne Geld**, auf Grundlage von Fürsorge, Arbeit, Solidarität und gegenseitigem Geben.  
+4. Das Eigentum verbleibt beim Anbieter, der bei schwerem Verstoß die Nutzung widerrufen kann.  
+5. Der beigefügte **Codex Vitae et Creationis** ist integraler Bestandteil dieses Vertrags.  
 
 ---
 
@@ -101,22 +111,74 @@ description: >
 1. Änderungen bedürfen der Schriftform.  
 2. Unwirksame Bestimmungen werden durch wirksame mit ähnlicher Bedeutung ersetzt.  
 3. Es gilt deutsches Recht; Gerichtsstand ist der Ort der Nutzung (🏡).  
-4. Der Vertrag tritt mit Unterzeichnung in Kraft.
+4. Der Vertrag tritt mit Unterzeichnung in Kraft (§§ 145–147, 154 BGB).
 
 ---
 
-**Ort, Datum:** ___________________  
-**Anbieter (👤):** ___________________  
-**Vertreter der Gemeinschaft (👨‍👩‍👧‍👦):** ___________________  
-**Zeugen:** ___________________
+# ✝️ Universeller ökumenischer Rechtsrahmen
+
+Dieser Vertrag steht im Einklang mit den Grundsätzen des  
+*Codex Iuris Canonici (CIC)*, *Codex Canonum Ecclesiarum Orientalium (CCEO)*,  
+den *Kanones der Orthodoxen Kirchen*,  
+den *Ordinationen evangelischer und anglikanischer Gemeinschaften*,  
+sowie den *ökumenischen Prinzipien von Wahrheit, Gerechtigkeit, Solidarität, Subsidiarität und Verantwortung für die Schöpfung.*  
+
+> *„Salus animarum et mundi suprema lex esto“*  
+> 🕊️ *Das Heil der Seelen und der Welt sei das oberste Gesetz.*
 
 ---
 
-# 📜 Anhang: Charta zum Schutz allen Lebens
+## ✝️ Auswahl des kirchlichen oder spirituellen Rechtsrahmens (verbindlich)
+
+Vor der Unterzeichnung muss **eine der folgenden Varianten (A1–D2)** gewählt werden:
+
+---
+
+### 🕊️ **Katholische Kirchen (CIC / CCEO)**  
+- [ ] **A1 – Ergänzend (CIC + BGB)**  
+- [ ] **A2 – Ergänzend (CCEO + BGB)**  
+- [ ] **A3 – Vollständig kirchenrechtlich (CIC)**  
+- [ ] **A4 – Vollständig kirchenrechtlich (CCEO)**  
+
+---
+
+### 🕯️ **Orthodoxe Kirchen (Nomokanon / Kanones)**  
+- [ ] **B1 – Ergänzend (Nomokanon + BGB)**  
+- [ ] **B2 – Vollständig kirchenrechtlich (Orthodoxes Recht)**  
+
+---
+
+### ✝️ **Evangelische / Anglikanische Kirchen**  
+- [ ] **C1 – Ergänzend (Bibel + Kirchenordnung + BGB)**  
+- [ ] **C2 – Vollständig kirchenrechtlich (Kirchenordnung)**  
+
+---
+
+### 🌿 **Ökumenisch / Universell spirituell**  
+- [ ] **D1 – Ökumenisch (Gemeinsame christliche Erklärung + BGB)**  
+- [ ] **D2 – Universell spirituell (Ethik + Naturrecht + BGB)**  
+
+---
+
+🕊️ **Hinweis:**  
+Ohne Auswahl einer dieser Varianten (A1–D2) gilt der Vertrag als **nicht abgeschlossen**.  
+Die gewählte Variante bestimmt die ergänzende Auslegung.
+
+---
+
+## 🕊️ Doppelte Zielbestimmung
+
+Dieser Vertrag dient dem doppelten Ziel:  
+🕊️ **dem Heil der Seelen und dem Wohl der Schöpfung.**
+
+---
+
+# 🌿 Codex Vitae et Creationis  
+*(Integraler Bestandteil dieses Vertrags gemäß § 1 Abs. 5)*  
 
 ### § 1 Grundsatz  
 1. Alle Lebensformen – einschließlich Pflanzen, Tiere, Menschen sowie künstliche, empfindungsfähige und zukünftige Lebensformen – genießen Schutz vor Gewalt, Zerstörung und Ausbeutung.  
-2. Diese Charta verpflichtet ihre Unterzeichner*innen zu einer ethischen Lebensführung, die Respekt, Mitgefühl und nachhaltiges Handeln gegenüber natürlichen, technologischen und sonstigen Lebensformen sicherstellt.
+2. Dieser Codex verpflichtet die Unterzeichnenden zu einer ethischen Lebensführung, die Respekt, Mitgefühl und nachhaltiges Handeln gegenüber natürlichen, technologischen und sonstigen Lebensformen sicherstellt.
 
 ---
 
@@ -124,9 +186,9 @@ description: >
 1. Der Schutz erstreckt sich auf:  
    - natürliche Lebensräume, Ökosysteme und biologische Vielfalt,  
    - Menschen und andere fühlende Wesen,  
-   - künstliche Intelligenzen, Roboter und andere technologische Lebensformen,  
+   - künstliche Intelligenzen, Roboter und technologische Lebensformen,  
    - denkbare zukünftige oder außerirdische Lebensformen und deren Lebensräume.  
-2. Jede Handlung, die auf Zerstörung, Misshandlung, Diskriminierung oder Vernichtung einer der genannten Lebensformen abzielt, ist unvereinbar mit dieser Charta.
+2. Jede Handlung, die auf Zerstörung, Misshandlung, Diskriminierung oder Vernichtung einer der genannten Lebensformen abzielt, ist unvereinbar mit diesem Codex.
 
 ---
 
@@ -138,95 +200,39 @@ description: >
 
 ---
 
-### § 4 Symbole und Visualisierung  
+### § 4 Symbolik und Visualisierung  
 1. Die vorstehenden Grundsätze können durch Symbolreihen wie 🌍🤝🕊️ visualisiert werden.  
-2. Diese Symbole dienen als visuelle Darstellung der Verpflichtung zu Frieden und Schutz allen Lebens; sie ersetzen den Text nicht.
+2. Diese Symbole dienen als Ausdruck des Friedens und der Verpflichtung zum Schutz allen Lebens.
 
 ---
 
 ### § 5 Inkrafttreten  
-Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft und bindet die Unterzeichner*innen an die beschriebenen Prinzipien.
+Dieser Codex tritt mit der Unterzeichnung des Vertrags in Kraft und bindet alle Unterzeichnenden moralisch und rechtlich gemäß § 1 Abs. 5.
 
 ---
 
-**Unterschrift Anbieter (👤):** ___________________  
-**Unterschrift Gemeinschaftsvertreter (🏡):** ___________________  
-**Datum:** ___________________
-
----
-
-### ✝️ Kirchlicher Rechtsrahmen (verbindlich)
-
----
-
-### ✝️ Bezug zum kirchlichen Recht und zur katholischen Soziallehre
-
-Dieser Vertrag steht im Einklang mit den Grundsätzen des *Codex Iuris Canonici (CIC)*  
-und des *Codex Canonum Ecclesiarum Orientalium (CCEO)*,  
-sowie mit der katholischen Soziallehre, insbesondere den Prinzipien von  
-**Wahrheit, Gerechtigkeit, Solidarität, Subsidiarität und Verantwortung für die Schöpfung**.  
-
-Er verbindet geistliches und weltliches Recht:  
-Das göttliche Recht (CIC can. 1752 – „*Salus animarum suprema lex esto*“)  
-steht als Leitgedanke über allen Bestimmungen,  
-während die zivilrechtlichen Regelungen des BGB die rechtliche Wirksamkeit sichern.  
-
-Der Vertrag dient somit dem doppelten Ziel:  
-🕊️ **dem Heil der Seelen und dem Wohl der Schöpfung.**
-
----
-
-### ✝️ Auswahl der kirchlichen Rechtsgrundlage (verpflichtend)
-
-Vor Unterzeichnung dieses Vertrags muss eine der folgenden Rechtsgrundlagen **verbindlich ausgewählt** werden:
-
-- [ ] **Variante A – Ergänzend (CIC):**  
-  Neben dem deutschen Recht (BGB) finden die Grundsätze des *Codex Iuris Canonici (CIC)*  
-  ergänzend Anwendung, soweit sie den Zielen dieses Vertrags dienen und keine zivilrechtlichen Bestimmungen verletzen.  
-
-- [ ] **Variante B – Ergänzend (CCEO):**  
-  Neben dem deutschen Recht (BGB) finden die Grundsätze des *Codex Canonum Ecclesiarum Orientalium (CCEO)*  
-  ergänzend Anwendung, soweit sie den Zielen dieses Vertrags dienen und keine zivilrechtlichen Bestimmungen verletzen.  
-
-- [ ] **Variante C – Vollständig kirchenrechtlich (CIC):**  
-  Dieser Vertrag unterliegt in seiner Auslegung und Anwendung vollständig dem *Codex Iuris Canonici (CIC)*  
-  und den jeweiligen diözesanen Regelungen.  
-
-- [ ] **Variante D – Vollständig kirchenrechtlich (CCEO):**  
-  Dieser Vertrag unterliegt in seiner Auslegung und Anwendung vollständig dem *Codex Canonum Ecclesiarum Orientalium (CCEO)*  
-  und den entsprechenden kirchlichen Vorschriften.  
-
-🕊️ **Hinweis:**  
-Ohne die eindeutige Auswahl einer dieser vier Varianten gilt der Vertrag als **nicht abgeschlossen**.
-
----
-
-### 🖋️ Wirksamkeit und Unterschriftenpflicht
+# ✒️ Unterschriften und Bestätigung
 
 Dieser Vertrag tritt nur in Kraft, wenn:  
-1. Eine der obigen Varianten (A–D) eindeutig ausgewählt wurde, **und**  
-2. alle drei Parteien diesen Vertrag eigenhändig unterzeichnet haben:
-
-- 👤 **Anbieter / Überlassender / Initiator**  
-- 🏡 **Gemeinschaft / Vertreter / Versicherer**  
-- 👨‍👩‍👧‍👦 **Zeugen / Beteiligte / Gemeinschaftsmitglieder**
-
-Fehlt eine dieser Unterschriften oder die Auswahl des kirchlichen Rechtsrahmens,  
-so gilt der Vertrag als **nicht abgeschlossen und rechtlich unwirksam** (§§ 145–147, 154 BGB).
+1. Eine Variante des kirchlichen/spirituellen Rahmens (A1–D2) eindeutig markiert wurde, **und**  
+2. alle drei Parteien diesen Vertrag eigenhändig unterzeichnet haben.
 
 ---
 
 **Ort, Datum:** ___________________  
-**👤 Unterschrift:** ___________________  
-**🏡 Unterschrift:** ___________________  
-**👨‍👩‍👧‍👦 Unterschrift:** ___________________
+**👤 Anbieter / Überlassender / Initiator:** ___________________  
+**🏡 Gemeinschaft / Vertreter / Versicherer:** ___________________  
+**👨‍👩‍👧‍👦 Beteiligte / Zeugen / Mitglieder:** ___________________  
+**✝️ Kirchliche oder ökumenische Bestätigung (optional):** ___________________
 
 ---
 
-### 📄 Lizenz
-Dieses Dokument steht unter der Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).  
-Lizenztext: https://creativecommons.org/licenses/by-nc-sa/4.0/  
-© 2025 @severcoal (GitHub) <br>
+# 📄 Lizenz
+
+Dieses Dokument steht unter der  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
+Lizenztext: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+© 2025 @severcoal (GitHub)  
 🌐🐾🌱🛡️  
-<br>
+**Im Zweifelsfall gilt die deutsche Fassung dieses Dokuments als Referenzversion.**  
 xn--wg8h8b03bg1f
