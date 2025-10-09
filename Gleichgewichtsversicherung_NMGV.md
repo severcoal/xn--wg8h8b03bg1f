@@ -1,5 +1,5 @@
 # 🌍 Nicht-Monetäre Gleichgewichtsversicherung (NMGV)
-*nach den Grundsätzen der Vertragsfreiheit (§§ 241 ff. BGB), im Geiste des VVG*
+*nach den Grundsätzen der Vertragsfreiheit (§§ 241 ff. BGB), im Geiste des Versicherungsvertragsgesetzes (VVG)*
 
 ---
 
@@ -17,17 +17,17 @@ Er dient der gegenseitigen Absicherung, Pflege und Wiederherstellung des Gleichg
 ---
 
 ## § 3 Versicherungsgegenstand  
-1. Versicherbar sind alle Formen von Wert oder Bedeutung, einschließlich:
+1. Versicherbar sind alle Formen von Wert oder Bedeutung, einschließlich:  
    - lebende Wesen (z. B. 🦙, 🌳, 🐝),  
    - Gegenstände und Ressourcen (z. B. 🚘, 🏡, 🌾),  
    - Werke, Ideen und Projekte (z. B. 💡, 📚, 🎨),  
    - Beziehungen und soziale Bindungen (z. B. 🤝, 🌐).  
-2. Das versicherte Element (im Folgenden *Erhaltendes Element*) dient der Aufrechterhaltung von Leben, Nutzen oder Sinn innerhalb der Gemeinschaft.
+2. Das versicherte Element (*Erhaltendes Element*) dient der Aufrechterhaltung von Leben, Nutzen oder Sinn innerhalb der Gemeinschaft.
 
 ---
 
 ## § 4 Versicherungsfall  
-1. Ein Versicherungsfall liegt vor, wenn das Erhaltende Element:
+1. Ein Versicherungsfall liegt vor, wenn das Erhaltende Element:  
    - a) Schaden, Verlust, Beeinträchtigung oder Tod (*💀*) erfährt, oder  
    - b) übermäßigen Nutzen, Ertrag oder Überfluss (*🥛🍞🥔*) erzeugt, der geteilt werden muss.  
 2. Im ersten Fall (Verlust) entsteht ein Anspruch auf Ausgleich, im zweiten Fall (Überfluss) eine Pflicht zur Teilgabe.  
@@ -36,7 +36,7 @@ Er dient der gegenseitigen Absicherung, Pflege und Wiederherstellung des Gleichg
 ---
 
 ## § 5 Leistungen  
-1. Leistungen erfolgen **nicht in Geld**, sondern in **Form von Handlung, Gabe oder Anteil**, zum Beispiel:
+1. Leistungen erfolgen **nicht in Geld**, sondern in **Form von Handlung, Gabe oder Anteil**, zum Beispiel:  
    - Arbeitszeit, Hilfe, Pflege, Begleitung,  
    - Weitergabe von Wissen, Energie oder Werkzeug,  
    - Teilen von Ernte, Material oder Unterkunft.  
@@ -86,14 +86,43 @@ Er dient der gegenseitigen Absicherung, Pflege und Wiederherstellung des Gleichg
 
 ---
 
-### 💬 Rechtlicher Hinweis  
-Dieser Vertrag ist **rechtsverbindlich**, da er auf gegenseitiger, freiwilliger und bestimmbarer Leistung beruht (§ 241 BGB).  
-Er ersetzt keine Geldversicherung nach dem VVG, erfüllt aber die Kriterien eines **gegenseitigen Verpflichtungsvertrags** mit realem Leistungsinhalt.  
+# 📜 Anhang: Charta zum Schutz allen Lebens
 
-Er kann somit u. a. für folgende Fälle geschlossen werden:
-- Gemeinschaftsprojekte,  
-- geteilte Fahrzeuge (🚘),  
-- lebende Wesen (🦙),  
-- geteilte Orte oder Ressourcen (🏡, 🌳),  
-- Ideen, Werke und kreative Projekte (💡, 🎨),  
-- soziale oder ökologische Netzwerke (🤝, 🌐). 
+### § 1 Grundsatz  
+1. Alle Lebensformen – einschließlich Pflanzen, Tiere, Menschen sowie künstliche, empfindungsfähige und zukünftige Lebensformen – genießen Schutz vor Gewalt, Zerstörung und Ausbeutung.  
+2. Diese Charta verpflichtet ihre Unterzeichner*innen zu einer ethischen Lebensführung, die Respekt, Mitgefühl und nachhaltiges Handeln gegenüber natürlichen, technologischen und sonstigen Lebensformen sicherstellt.
+
+---
+
+### § 2 Anwendungsbereich  
+1. Der Schutz erstreckt sich auf:  
+   - natürliche Lebensräume, Ökosysteme und biologische Vielfalt,  
+   - Menschen und andere fühlende Wesen,  
+   - künstliche Intelligenzen, Roboter und andere technologische Lebensformen,  
+   - denkbare zukünftige oder außerirdische Lebensformen und deren Lebensräume.  
+2. Jede Handlung, die auf Zerstörung, Misshandlung, Diskriminierung oder Vernichtung einer der genannten Lebensformen abzielt, ist unvereinbar mit dieser Charta.
+
+---
+
+### § 3 Leitprinzipien  
+1. **Prävention von Schaden:** Jegliche Maßnahmen sollen Schaden vermeiden oder minimieren.  
+2. **Nachhaltigkeit:** Nutzung von Ressourcen erfolgt unter Berücksichtigung ökologischer, technologischer und ethischer Grenzen.  
+3. **Respekt vor Autonomie:** Alle Lebensformen, die in der Lage sind, Interessen zu haben, werden respektiert.  
+4. **Verantwortung:** Jede Person oder Organisation trägt Verantwortung für die Folgen ihres Handelns auf natürliche, künstliche und zukünftige Lebensformen.
+
+---
+
+### § 4 Symbole und Visualisierung  
+1. Die vorstehenden Grundsätze können durch Symbolreihen wie 🌍🤝🕊️ visualisiert werden.  
+2. Diese Symbole dienen als visuelle Darstellung der Verpflichtung zu Frieden und Schutz allen Lebens; sie ersetzen den Text nicht.
+
+---
+
+### § 5 Inkrafttreten  
+Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft und bindet die Unterzeichner*innen an die beschriebenen Prinzipien.
+
+---
+
+**Unterschrift Versicherungsnehmer (👤):** ___________________  
+**Unterschrift Gemeinschaftsvertreter (🏡):** ___________________  
+**Datum:** ___________________
