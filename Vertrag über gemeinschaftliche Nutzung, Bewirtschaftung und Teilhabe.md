@@ -134,7 +134,7 @@ Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft un
 
 ---
 
-### ✝️ Kirchlicher Rechtsrahmen
+### ✝️ Kirchlicher Rechtsrahmen (verbindlich)
 
 ---
 
@@ -154,7 +154,9 @@ Der Vertrag dient somit dem doppelten Ziel:
 
 ---
 
-Bitte ankreuzen, welche Auslegung für diesen Vertrag gelten soll:
+### ✝️ Auswahl der kirchlichen Rechtsgrundlage (verpflichtend)
+
+Vor Unterzeichnung dieses Vertrags muss eine der folgenden Rechtsgrundlagen **verbindlich ausgewählt** werden:
 
 - [ ] **Variante A – Ergänzend:**  
   Neben dem deutschen Recht (BGB) finden die Grundsätze des katholischen Kirchenrechts  
@@ -165,21 +167,39 @@ Bitte ankreuzen, welche Auslegung für diesen Vertrag gelten soll:
   Dieser Vertrag unterliegt in seiner Auslegung und Anwendung den Bestimmungen des  
   *Codex Iuris Canonici (CIC)* und den jeweiligen diözesanen Regelungen,  
   soweit diese für kirchliche Einrichtungen oder kirchlich anerkannte Projekte verbindlich sind.  
-  Zivilrechtliche Vorschriften des BGB gelten subsidiär, soweit sie dem Kirchenrecht nicht widersprechen.
+  Zivilrechtliche Vorschriften des BGB gelten subsidiär, soweit sie dem Kirchenrecht nicht widersprechen.  
+
+🕊️ **Hinweis:**  
+Ohne die eindeutige Auswahl einer dieser beiden Varianten gilt der Vertrag als **nicht abgeschlossen**.
+
+---
+
+### 🖋️ Wirksamkeit und Unterschriftenpflicht
+
+Dieser Vertrag tritt nur in Kraft, wenn:  
+1. Eine der obigen Varianten (A oder B) eindeutig ausgewählt wurde, **und**  
+2. alle drei Parteien diesen Vertrag eigenhändig unterzeichnet haben:
+
+- 👤 **Anbieter / Überlassender / Initiator**  
+- 🏡 **Gemeinschaft / Vertreter / Versicherer**  
+- 👨‍👩‍👧‍👦 **Zeugen / Beteiligte / Gemeinschaftsmitglieder**
+
+Fehlt eine dieser Unterschriften oder die Auswahl des kirchlichen Rechtsrahmens,  
+so gilt der Vertrag als **nicht abgeschlossen und rechtlich unwirksam** (§§ 145–147, 154 BGB).
 
 ---
 
 **Ort, Datum:** ___________________  
-**Unterschrift (👤 / 🏡):** ___________________
-
-*(Ohne Auswahl gilt Variante B – Ergänzend – als vereinbart.)*
+**👤 Unterschrift:** ___________________  
+**🏡 Unterschrift:** ___________________  
+**👨‍👩‍👧‍👦 Unterschrift:** ___________________
 
 ---
 
 ### 📄 Lizenz
 Dieses Dokument steht unter der Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
-Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
+Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/  
 © 2025 @severcoal (GitHub) <br>
- 🌐🐾🌱🛡️
+🌐🐾🌱🛡️  
 <br>
- xn--wg8h8b03bg1f
+xn--wg8h8b03bg1f
