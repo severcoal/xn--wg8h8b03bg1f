@@ -134,6 +134,28 @@ Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft un
 
 ---
 
+### ✝️ Kirchlicher Rechtsrahmen
+
+Bitte ankreuzen, welche Auslegung für diesen Vertrag gelten soll:
+
+- [ ] **Variante A – Ergänzend:**  
+  Neben dem deutschen Recht (BGB) finden die Grundsätze des katholischen Kirchenrechts  
+  (*Codex Iuris Canonici*, CIC, in der jeweils gültigen Fassung) ergänzend Anwendung,  
+  soweit sie den Zielen dieses Vertrags dienen und keine zivilrechtlichen Bestimmungen verletzen.  
+
+- [ ] **Variante B – Vollständig kirchenrechtlich:**  
+  Dieser Vertrag unterliegt in seiner Auslegung und Anwendung den Bestimmungen des  
+  *Codex Iuris Canonici (CIC)* und den jeweiligen diözesanen Regelungen,  
+  soweit diese für kirchliche Einrichtungen oder kirchlich anerkannte Projekte verbindlich sind.  
+  Zivilrechtliche Vorschriften des BGB gelten subsidiär, soweit sie dem Kirchenrecht nicht widersprechen.
+
+---
+
+**Ort, Datum:** ___________________  
+**Unterschrift (👤 / 🏡):** ___________________
+
+---
+
 ### 📄 Lizenz
 Dieses Dokument steht unter der Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
 Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
