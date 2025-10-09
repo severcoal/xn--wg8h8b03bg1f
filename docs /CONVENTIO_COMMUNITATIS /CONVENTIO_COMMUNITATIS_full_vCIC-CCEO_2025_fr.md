@@ -4,7 +4,7 @@ subtitle: "Basée sur les principes de la liberté contractuelle (§§ 305 et su
 author: "@severcoal"
 date: "2025-10-09"
 version: "v1.0-CIC-CCEO"
-license: "CC BY-SA 4.0"
+license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "fr"
 tags: ["Communauté", "CIC", "CCEO", "BGB", "Droit civil", "Droit canonique", "Solidarité", "Éthique", "Subsidiarité"]
@@ -220,8 +220,8 @@ L’absence d’une signature ou du choix canonique rend le contrat **juridiquem
 ---
 
 ### 📄 Licence  
-Ce document est sous licence *Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)*.  
-Texte de la licence : https://creativecommons.org/licenses/by-sa/4.0/  
+Ce document est sous licence Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0).  
+Texte de la licence : [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 © 2025 @severcoal (GitHub) <br>
 🌐🐾🌱🛡️  
 <br>
