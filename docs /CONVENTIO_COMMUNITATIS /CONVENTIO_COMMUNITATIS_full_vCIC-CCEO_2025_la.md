@@ -4,7 +4,7 @@ subtitle: "secundum principia libertatis contractus (§§ 305 et seq. BGB)"
 author: "@severcoal"
 date: "2025-10-09"
 version: "v1.0-CIC-CCEO"
-license: "CC BY-SA 4.0"
+license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "la"
 tags: ["Communitas", "Ius Canonicum", "CIC", "CCEO", "BGB", "Ius Civile", "Ethica", "Aequilibrium", "Solidaritas"]
@@ -223,8 +223,8 @@ conventio **invalida** est secundum §§ 145–147, 154 BGB.
 ---
 
 ### 📄 Licentia  
-Hoc documentum sub licentia *Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)* stat.  
-Textus licentiae: https://creativecommons.org/licenses/by-sa/4.0/  
+Hoc documentum sub licentia Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0) editum est.  
+Textus licentiae: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 © 2025 @severcoal (GitHub) <br>
 🌐🐾🌱🛡️  
 <br>
