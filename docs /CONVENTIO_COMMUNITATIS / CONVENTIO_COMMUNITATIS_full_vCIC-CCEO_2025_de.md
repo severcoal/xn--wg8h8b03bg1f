@@ -2,7 +2,7 @@
 title: "Universeller ökumenischer Vertrag über gemeinschaftliche Nutzung, Bewirtschaftung und Teilhabe"
 subtitle: "nach den Grundsätzen der Vertragsfreiheit gemäß §§ 241 ff. und 305 ff. BGB – im Einklang mit kirchlichem, ökumenischem und ethischem Recht"
 author: "@severcoal"
-date: "2025-10-09"
+date: "2025-10-10"
 version: "vOCVG-Universal-v3-2025"
 license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
