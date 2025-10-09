@@ -126,3 +126,13 @@ This Charter takes effect upon signature or public declaration and binds its sig
 **Signature of Policyholder (👤):** ___________________  
 **Signature of Community Representative (🏡):** ___________________  
 **Date:** ___________________
+
+---
+
+### 📄 License
+This document is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
+License text: https://creativecommons.org/licenses/by-sa/4.0/  
+© 2025 @severcoal (GitHub) <br>
+ 🌐🐾🌱🛡️
+<br>
+ xn--wg8h8b03bg1f
