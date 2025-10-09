@@ -4,7 +4,7 @@ subtitle: "Based on the principles of contractual freedom (§§ 305 et seq. BGB)
 author: "@severcoal"
 date: "2025-10-09"
 version: "v1.0-CIC-CCEO"
-license: "CC BY-SA 4.0"
+license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "en"
 tags: ["Community", "Canon Law", "CIC", "CCEO", "BGB", "Civil Law", "Ethics", "Balance", "Social Doctrine"]
@@ -224,8 +224,8 @@ the agreement is **legally invalid** under §§ 145–147, 154 BGB.
 ---
 
 ### 📄 License  
-This document is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
-License text: https://creativecommons.org/licenses/by-sa/4.0/  
+Dieses Dokument steht unter der Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0).  
+Lizenztext: https://creativecommons.org/licenses/by-nc-sa/4.0/  
 © 2025 @severcoal (GitHub) <br>
 🌐🐾🌱🛡️  
 <br>
