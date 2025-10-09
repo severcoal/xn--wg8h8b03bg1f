@@ -96,4 +96,4 @@ Er kann somit u. a. für folgende Fälle geschlossen werden:
 - lebende Wesen (🦙),  
 - geteilte Orte oder Ressourcen (🏡, 🌳),  
 - Ideen, Werke und kreative Projekte (💡, 🎨),  
-- soziale oder ökologische Netzwerke (🤝, 🌐).
+- soziale oder ökologische Netzwerke (🤝, 🌐). 
