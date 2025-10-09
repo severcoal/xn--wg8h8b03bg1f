@@ -131,6 +131,24 @@ This Charter takes effect upon signature or public declaration and binds its sig
 
 ### ✝️ Ecclesiastical Legal Framework
 
+---
+
+### ✝️ Reference to Canon Law and Catholic Social Teaching
+
+This agreement is in harmony with the principles of the *Codex Iuris Canonici*  
+and the Catholic Social Teaching, particularly the values of  
+**truth, justice, solidarity, subsidiarity, and responsibility for creation**.  
+
+It unites spiritual and civil law:  
+Divine law (*CIC* can. 1752 – “*Salus animarum suprema lex esto*” – *The salvation of souls shall be the supreme law*)  
+serves as the guiding principle above all provisions,  
+while the civil regulations of the German Civil Code (*BGB*) ensure legal validity.  
+
+Thus, the agreement serves a dual purpose:  
+🕊️ **the salvation of souls and the well-being of creation.**
+
+---
+
 Please check which interpretation shall apply to this agreement:
 
 - [ ] **Option A – Supplementary:**  
