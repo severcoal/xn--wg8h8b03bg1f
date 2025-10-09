@@ -4,7 +4,7 @@ subtitle: "На основе принципов свободы договора 
 author: "@severcoal"
 date: "2025-10-09"
 version: "v1.0-CIC-CCEO"
-license: "CC BY-SA 4.0"
+license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "ru"
 tags: ["Сообщество", "Каноническое право", "CIC", "CCEO", "BGB", "Гражданское право", "Этика", "Баланс", "Социальная доктрина"]
@@ -224,8 +224,8 @@ description: >
 ---
 
 ### 📄 Лицензия  
-Настоящий документ распространяется по лицензии *Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)*.  
-Текст лицензии: https://creativecommons.org/licenses/by-sa/4.0/  
+Этот документ распространяется на условиях лицензии Creative Commons «Attribution – NonCommercial – ShareAlike 4.0 International» (CC BY-NC-SA 4.0).  
+Текст лицензии: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 © 2025 @severcoal (GitHub) <br>
 🌐🐾🌱🛡️  
 <br>
