@@ -178,11 +178,11 @@ Code → Download ZIP
 <br>
 <br>
 
-© 2025 @severcoal  
+© 2025 @severcoal (GitHub)
 <br>
-🌐🐾🌱🛡️  
+🌐🐾🌱🛡️
 <br>
-xn--wg8h8b03bg1f  
+xn--wg8h8b03bg1f
 <br>
 
 <br>
