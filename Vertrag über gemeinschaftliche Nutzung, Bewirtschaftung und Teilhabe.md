@@ -136,6 +136,24 @@ Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft un
 
 ### ✝️ Kirchlicher Rechtsrahmen
 
+---
+
+### ✝️ Bezug zum kirchlichen Recht und zur katholischen Soziallehre
+
+Dieser Vertrag steht im Einklang mit den Grundsätzen des *Codex Iuris Canonici*  
+und der katholischen Soziallehre, insbesondere den Prinzipien von  
+**Wahrheit, Gerechtigkeit, Solidarität, Subsidiarität und Verantwortung für die Schöpfung**.  
+
+Er verbindet geistliches und weltliches Recht:  
+Das göttliche Recht (CIC can. 1752 – „*Salus animarum suprema lex esto*“)  
+steht als Leitgedanke über allen Bestimmungen,  
+während die zivilrechtlichen Regelungen des BGB die rechtliche Wirksamkeit sichern.  
+
+Der Vertrag dient somit dem doppelten Ziel:  
+🕊️ **dem Heil der Seelen und dem Wohl der Schöpfung.**
+
+---
+
 Bitte ankreuzen, welche Auslegung für diesen Vertrag gelten soll:
 
 - [ ] **Variante A – Ergänzend:**  
