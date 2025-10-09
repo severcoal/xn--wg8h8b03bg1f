@@ -154,6 +154,8 @@ Bitte ankreuzen, welche Auslegung für diesen Vertrag gelten soll:
 **Ort, Datum:** ___________________  
 **Unterschrift (👤 / 🏡):** ___________________
 
+*(Ohne Auswahl gilt Variante B – Ergänzend – als vereinbart.)*
+
 ---
 
 ### 📄 Lizenz
