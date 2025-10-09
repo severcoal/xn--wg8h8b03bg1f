@@ -131,3 +131,13 @@ Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft un
 **Unterschrift Anbieter (👤):** ___________________  
 **Unterschrift Gemeinschaftsvertreter (🏡):** ___________________  
 **Datum:** ___________________
+
+---
+
+### 📄 Lizenz
+Dieses Dokument steht unter der Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
+Lizenztext: https://creativecommons.org/licenses/by-sa/4.0/
+© 2025 @severcoal (GitHub) <br>
+ 🌐🐾🌱🛡️
+<br>
+ xn--wg8h8b03bg1f
