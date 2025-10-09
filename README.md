@@ -178,7 +178,7 @@ Code → Download ZIP
 <br>
 <br>
 
-severcoal  
+© 2025 @severcoal  
 <br>
 🌐🐾🌱🛡️  
 <br>
