@@ -8,79 +8,79 @@
 | Symbol | Meaning |
 |:-------|:---------|
 | 👤 | natural person / provider / owner / initiator |
-| 🦙 | the being, object, or element whose existence or condition forms the basis of the relationship (e.g. animal, vehicle, work, project, idea) |
-| 🏡 | property, dwelling, estate, plot, or site of shared activity |
-| 👨‍👩‍👧‍👦 | community or group of participants |
-| 🤝 | cooperation, founding, collaboration |
-| 🥛🍞🥔 | produce, basic goods, daily provisions |
-| 🌱🌾 | plants, harvests, agricultural or creative yield |
-| 🌐 | ecological, social, or symbolic balance |
-| 🕊️ | remembrance, honoring, preservation of memory |
-| 💀 | death, loss, or end of the central element |
+| 🦙 | being, object, or element whose existence forms the basis of the relationship (e.g. animal, vehicle, project, or idea) |
+| 🏡 | property, dwelling, estate, or site of shared activity |
+| 👨‍👩‍👧‍👦 | community of participants |
+| 🤝 | cooperation, alliance, mutual undertaking |
+| 🥛🍞🥔 | produce, basic goods, shared yield |
+| 🌱🌾 | plants, harvests, creative or agricultural outcomes |
+| 🌐 | ecological or social balance |
+| 🕊️ | remembrance, peace, or symbolic continuity |
+| 💀 | death, loss, or termination of the central element |
 
 ---
 
 ## § 1 Subject Matter of the Agreement  
-1. The Provider (👤) grants the Community (👨‍👩‍👧‍👦) the right to jointly use and cultivate the property (🏡).  
-2. The purpose is communal production, processing, and sharing of food, yields, or other goods for the members’ own needs.  
-3. Use is **non-monetary**, based on mutual effort, care, and sharing.  
-4. Ownership remains with the Provider, who may terminate the right of use in case of serious breach.
+1. The Provider (👤) grants the Community (👨‍👩‍👧‍👦) the right to use and cultivate the property (🏡) communally.  
+2. Purpose: shared production, processing, and distribution of food, goods, or services for the members’ own use.  
+3. The arrangement functions **without money**, relying on care, effort, and mutual giving.  
+4. Ownership remains with the Provider, who may revoke use in the event of serious breach.
 
 ---
 
-## § 2 Communal Cultivation and Participation  
-1. The Community manages the property autonomously and responsibly.  
-2. All generated products — 🥛🍞🥔, 🌱🌾, or others — are shared collectively.  
-3. Damage or crop failure shall be compensated through communal labor or equivalent contributions.  
-4. Permanent structural changes require the Provider’s consent.
+## § 2 Communal Management and Sharing  
+1. The Community manages the site responsibly.  
+2. All yields — 🥛🍞🥔, 🌱🌾 — are shared among members.  
+3. Damage or shortage shall be compensated through shared work or agreed acts.  
+4. Lasting structural changes require the Provider’s consent.
 
 ---
 
-## § 3 Duration of Use / Loss of Element (🦙💀)  
-1. Use continues as long as the central element (🦙) exists or remains functional.  
-2. Upon its loss or death (💀), the gratuitous right of use terminates automatically.  
-3. From that moment:
-   - a) the Provider receives a fair share of remaining yields (🌱🌾),  
-   - b) the remainder is shared among community members.  
-4. The loss must be reported immediately.  
-5. Concealment or deceit constitutes a serious breach of contract.
+## § 3 Duration / Loss of Element (🦙💀)  
+1. The agreement lasts as long as the sustaining element (🦙) exists.  
+2. Upon its loss or end (💀), the right of use ceases automatically.  
+3. Remaining yields (🌱🌾) shall be divided:  
+   - a) A share to the Provider,  
+   - b) The remainder to the Community.  
+4. Loss must be promptly reported.  
+5. Concealment of loss constitutes a breach.
 
 ---
 
-## § 4 Balance, Reciprocity, and Transparency (🌐)  
-1. The relationship is based on equilibrium: whoever takes, must also give.  
-2. Each party contributes to maintaining the place, the element, and the community.  
-3. The Community provides regular reports on conditions, yields, and challenges.  
-4. Both parties may inspect records or inventories upon request.
+## § 4 Balance and Transparency (🌐)  
+1. Relations are governed by reciprocity: giving sustains balance.  
+2. All parties contribute to maintaining the site and community.  
+3. The Community reports regularly on condition and outcomes.  
+4. Both sides have the right to review records and inventories.
 
 ---
 
-## § 5 Liability and Breach of Duty  
-1. The Community is liable for damage caused by intent or gross negligence.  
-2. Slight negligence leads to liability only for typical, foreseeable damages.  
-3. If the loss (💀) is concealed, the Provider may terminate immediately and seek compensation.
+## § 5 Liability  
+1. The Community is liable for intentional or grossly negligent damage.  
+2. Minor negligence entails liability only for typical, foreseeable harm.  
+3. Concealment of loss entitles the Provider to immediate termination.
 
 ---
 
-## § 6 Remembrance and Commemoration (🕊️)  
-1. After the loss of the element, all parties commit to a dignified act of remembrance.  
-2. Forms may include planting, a symbol, inscription, ritual, or communal gathering.  
-3. This act is symbolic and does not establish property rights or claims.
+## § 6 Remembrance (🕊️)  
+1. Upon the end of the element (💀), all parties engage in an act of remembrance.  
+2. Forms: symbolic planting, inscription, ritual, or gathering.  
+3. This act is symbolic, not financial.
 
 ---
 
-## § 7 Withdrawal, Termination, Return  
-1. The Provider may terminate for persistent breaches.  
-2. Upon termination, goods or yields must be returned within one month.  
-3. Claims for damages or compensation remain unaffected.
+## § 7 Termination  
+1. The Provider may terminate for material breach.  
+2. Goods or yields must be returned within one month.  
+3. Damage claims remain valid.
 
 ---
 
 ## § 8 Final Provisions  
-1. Amendments or additions must be in writing.  
-2. Invalid clauses shall be replaced by provisions closest in intent.  
-3. German law applies. Jurisdiction is the location of the property (🏡).  
-4. The agreement takes effect upon signing by all parties.
+1. Changes must be in writing.  
+2. Invalid terms shall be replaced by similar lawful provisions.  
+3. German law applies; jurisdiction is the location of the property (🏡).  
+4. The agreement takes effect upon signature.
 
 ---
 
@@ -91,4 +91,43 @@
 
 ---
 
-> “As long as all give, everything remains in balance.” 🌐
+# 📜 Annex: Universal Life Protection Charter
+
+### § 1 Principle  
+1. All life forms — including plants, animals, humans, as well as artificial, sentient, and future life forms — are entitled to protection from harm, destruction, and exploitation.  
+2. This Charter binds its signatories to an ethical lifestyle based on respect, compassion, and sustainability toward all natural, technological, and other life forms.
+
+---
+
+### § 2 Scope  
+1. Protection extends to:  
+   - natural habitats, ecosystems, and biodiversity,  
+   - humans and other sentient beings,  
+   - artificial intelligences, robots, and technological life forms,  
+   - potential future or extraterrestrial life and their habitats.  
+2. Any act aimed at harm, mistreatment, or annihilation of such life forms contradicts this Charter.
+
+---
+
+### § 3 Guiding Principles  
+1. **Prevention of harm:** All actions must aim to avoid or reduce harm.  
+2. **Sustainability:** Resource use must respect ecological, technological, and ethical limits.  
+3. **Respect for autonomy:** All beings capable of having interests must be respected.  
+4. **Responsibility:** Every individual or organization is responsible for the effects of their actions on natural, artificial, and future life.
+
+---
+
+### § 4 Symbols and Visualization  
+1. The above principles may be represented through symbolic icons such as 🌍🤝🕊️.  
+2. These icons visualize the Charter’s commitment to nonviolence and respect for life; they do not replace the text.
+
+---
+
+### § 5 Entry into Force  
+This Charter becomes effective upon signature or public declaration and binds its signatories to the above principles.
+
+---
+
+**Signature of Provider (👤):** ___________________  
+**Signature of Community Representative (🏡):** ___________________  
+**Date:** ___________________
