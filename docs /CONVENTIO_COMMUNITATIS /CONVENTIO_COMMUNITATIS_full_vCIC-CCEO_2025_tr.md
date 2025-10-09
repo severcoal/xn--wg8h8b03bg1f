@@ -1,225 +1,237 @@
 ---
-title: "Topluluk Kullanımı, İşletimi ve Paylaşımı Sözleşmesi"
-subtitle: "Alman Medeni Kanunu’nun (§§ 305 ve devamı) sözleşme özgürlüğü ilkelerine göre"
+title: "Evrensel Ekümenik Topluluk Kullanımı, Yönetimi ve Katılımı Anlaşması"
+subtitle: "Alman Medeni Kanunu (BGB) §§ 241 ve 305 hükümlerine göre sözleşme özgürlüğü ilkelerine uygun — dini, ekümenik ve etik hukuk ruhuyla"
 author: "@severcoal"
-date: "2025-10-09"
-version: "v1.0-CIC-CCEO"
+date: "2025-10-10"
+version: "vOCVG-Universal-v3-2025"
 license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "tr"
-tags: ["Topluluk", "Kilise Hukuku", "CIC", "CCEO", "BGB", "Medeni Hukuk", "Etik", "Denge", "Dayanışma"]
+tags: ["Topluluk", "Kilise Hukuku", "CIC", "CCEO", "Nomokanon", "BGB", "Medeni Hukuk", "Ekümenizm", "Etik", "Yaratılış", "Dayanışma"]
 checksum: "sha256"
 verified_by: "OpenCanonicalSign"
 valid_from: "2025-10-09"
 valid_until: "süresiz"
 description: >
-  Bu sözleşme, para kullanılmadan, özen, emek ve karşılıklı verme ilkelerine dayalı olarak
-  yerlerin, malların veya projelerin topluluk tarafından ortak kullanımı, işletimi ve paylaşımını düzenler.
-  Codex Iuris Canonici (CIC) ve Codex Canonum Ecclesiarum Orientalium (CCEO)
-  ile Katolik Sosyal Öğretisinin ilkelerine uygundur.
+  Bu anlaşma, para kullanımı olmaksızın yerlerin, malların veya projelerin topluluk temelli kullanımını, yönetimini
+  ve paylaşımını düzenler; bakım, emek, sorumluluk ve karşılıklı armağan ilkelerine dayanır.
+  *Codex Iuris Canonici (CIC)*, *Codex Canonum Ecclesiarum Orientalium (CCEO)*, Ortodoks *Nomokanon*,
+  ve Katolik, Protestan, Anglikan ile ekümenik etiğin ilkeleriyle uyumludur.
 ---
 
-# 🏡 Topluluk Kullanımı, İşletimi ve Paylaşımı Sözleşmesi  
-*(Alman Medeni Kanunu’nun (§§ 305 ve devamı) sözleşme özgürlüğü ilkelerine göre)*  
+# 🏡 Evrensel Ekümenik Topluluk Kullanımı, Yönetimi ve Katılımı Anlaşması  
+*(§§ 241 ve 305 BGB’ye göre sözleşme özgürlüğü ilkelerine dayanır — etik ve dini hukuk ruhuyla)*  
 
 ---
 
-## 🧩 Emoji Rehberi / Anlamları  
+## § 0 Giriş  
+Tüm yaşamın ilahi kökenini, her varlığın onurunu ve insanın yaratılışa karşı sorumluluğunu kabul eden taraflar,  
+bu anlaşmayı iman, umut ve sevgi ruhuyla; mezheplerin ve kültürlerin ötesinde bir birlik anlayışıyla imzalarlar.  
 
-| Sembol | Anlam |
-|:-------|:------|
+> “Tüm yaşam birbirine bağlıdır. Veren alır.” 🌐  
+
+---
+
+## 🧩 Emoji Açıklamaları  
+
+| Sembol | Anlamı |
+|:--------|:--------|
 | 👤 | Gerçek kişi / Sağlayıcı / Sahip / Başlatıcı |
 | 🦙 | İlişkinin temelini oluşturan varlık, nesne veya unsur |
-| 🏡 | Yer, mülk veya ortak faaliyet alanı |
-| 👨‍👩‍👧‍👦 | Katılımcılar topluluğu |
-| 🤝 | İş birliği, ittifak, karşılıklı rıza |
+| 🏡 | Ortak kullanım alanı, mülk veya faaliyet yeri |
+| 👨‍👩‍👧‍👦 | Katılımcı topluluk |
+| 🤝 | İşbirliği, ittifak, karşılıklı onay |
 | 🥛🍞🥔 | Ürünler, temel gıdalar, paylaşılan mallar |
-| 🌱🌾 | Bitkiler, hasat, yaratıcı veya tarımsal sonuçlar |
+| 🌱🌾 | Bitkiler, hasat, yaratıcı veya tarımsal ürünler |
 | 🌐 | Ekolojik veya sosyal denge |
 | 🕊️ | Anı, barış veya sembolik devamlılık |
-| 💀 | Ölüm, kayıp veya temel unsurun sona ermesi |
+| 💀 | Ölüm, kayıp veya temel unsurun sonu |
 
 ---
 
-## § 1 Sözleşmenin Konusu  
-1. Sağlayıcı (👤), topluluğa (👨‍👩‍👧‍👦), mülkü veya alanı (🏡) ortaklaşa kullanma ve işletme hakkı verir.  
-2. Amaç: Katılımcıların kendi ihtiyaçları için gıda, mal veya hizmetin ortak üretimi, işlenmesi ve dağıtımıdır.  
-3. Anlaşma **para kullanılmadan**, özen, emek ve karşılıklı verme esasına dayanır.  
-4. Mülkiyet sağlayıcıda kalır; ciddi ihlal durumunda kullanımı iptal edebilir.
+## § 1 Anlaşmanın Konusu  
+1. Sağlayıcı (👤), topluluğa (👨‍👩‍👧‍👦) belirli bir mülkü veya alanı (🏡) ortak kullanma ve yönetme hakkı verir.  
+2. Amaç: katılımcıların kendi ihtiyaçları için gıda, mal veya hizmet üretimini, işlenmesini ve paylaşımını birlikte yürütmektir.  
+3. Anlaşma **para kullanılmadan**, bakım, emek, dayanışma ve karşılıklı armağan esasına dayanır.  
+4. Mülkiyet sağlayıcıya aittir; ağır ihlallerde kullanım hakkını iptal edebilir.  
+5. **“Yaşam ve Yaratılış Yasası” (Codex Vitae et Creationis)** bu anlaşmanın ayrılmaz bir parçasıdır.  
 
 ---
 
-## § 2 Ortak İşletim ve Paylaşım  
-1. Topluluk, alanı sorumlulukla korumayı ve kullanmayı taahhüt eder.  
-2. Tüm ürünler – 🥛🍞🥔, 🌱🌾 – ortak olarak paylaşılır.  
-3. Zarar veya kıtlık, ortak çalışma veya anlaşma ile telafi edilir.  
-4. Kalıcı yapısal değişiklikler sağlayıcının onayını gerektirir.
+## § 2 Ortak Yönetim ve Katılım  
+1. Topluluk, alanı sorumlu şekilde kullanmayı ve korumayı taahhüt eder.  
+2. Tüm ürünler — 🥛🍞🥔, 🌱🌾 — ortaklaşa paylaşılır.  
+3. Hasar veya eksiklikler ortak emek veya mutabakat yoluyla telafi edilir.  
+4. Kalıcı yapısal değişiklikler sağlayıcının onayını gerektirir.  
 
 ---
 
 ## § 3 Süre / Unsurun Kaybı (🦙💀)  
-1. Sözleşme, Sürdürücü Unsur (🦙) var olduğu sürece geçerlidir.  
-2. Onun kaybı veya sona ermesiyle (💀) kullanım hakkı otomatik olarak sona erer.  
+1. Anlaşma, yaşatıcı unsur (🦙) var olduğu sürece geçerlidir.  
+2. Unsurun kaybı veya sonu (💀) durumunda kullanım hakkı otomatik olarak sona erer.  
 3. Kalan ürünler (🌱🌾) şu şekilde paylaşılır:  
    - a) Bir kısmı sağlayıcıya,  
    - b) Geri kalanı topluluğa.  
 4. Kayıp derhal bildirilmelidir.  
-5. Kayıbı gizlemek sözleşme ihlalidir.
+5. Kaybın gizlenmesi sözleşme ihlali sayılır.  
 
 ---
 
 ## § 4 Denge ve Şeffaflık (🌐)  
-1. İlişki karşılıklılığa dayanır: Vermek dengeyi sağlar.  
-2. Tüm taraflar alanın ve topluluğun bakımına katkıda bulunur.  
-3. Topluluk, durum ve sonuçlar hakkında düzenli rapor verir.  
-4. Her iki tarafın da kayıtları inceleme hakkı vardır.
+1. İlişki karşılıklılığa dayanır: vermek dengeyi sağlar.  
+2. Tüm taraflar alanın ve topluluğun bakımına katkı sağlar.  
+3. Topluluk düzenli olarak durumu ve üretimi raporlar.  
+4. Her iki taraf da kayıtlara ve kaynaklara erişim hakkına sahiptir.  
 
 ---
 
 ## § 5 Sorumluluk  
-1. Topluluk, kasıtlı veya ağır ihmal sonucu doğan zararlardan sorumludur.  
-2. Hafif ihmal durumunda, yalnızca öngörülebilir, tipik zararlar için sorumluluk vardır.  
-3. Kayıbın gizlenmesi, derhal fesih hakkı verir.
+1. Topluluk, kasıtlı veya ağır ihmale dayalı zararlardan sorumludur.  
+2. Hafif ihmal durumunda, yalnızca öngörülebilir tipik zararlar için sorumluluk vardır.  
+3. Kayıbı gizlemek derhal fesih hakkı doğurur.  
 
 ---
 
-## § 6 Anı (🕊️)  
-1. Unsurun (💀) sona ermesinden sonra tüm taraflar sembolik bir anma eylemi gerçekleştirir.  
-2. Şekiller: dikim, yazıt, ritüel veya toplantı.  
-3. Bu eylem semboliktir, mali değildir.
+## § 6 Anma (🕊️)  
+1. Unsurun sonlanmasından (💀) sonra tüm taraflar sembolik bir anma eylemi gerçekleştirir.  
+2. Şekiller: ağaç dikimi, yazıt, tören veya toplantı.  
+3. Bu eylem semboliktir, mali bir değer taşımaz.  
 
 ---
 
 ## § 7 Fesih  
-1. Sağlayıcı, ciddi ihlal durumunda feshedebilir.  
+1. Sağlayıcı ağır ihlallerde sözleşmeyi feshedebilir.  
 2. Mallar veya ürünler bir ay içinde iade edilmelidir.  
-3. Tazminat hakları geçerliliğini korur.
+3. Tazminat hakları geçerliliğini korur.  
 
 ---
 
 ## § 8 Son Hükümler  
-1. Değişiklikler yazılı olmalıdır.  
-2. Geçersiz hükümler, benzer geçerli hükümlerle değiştirilir.  
-3. Alman hukuku geçerlidir; yargı yeri kullanım yeridir (🏡).  
-4. Sözleşme imzalandığında yürürlüğe girer.
+1. Değişiklikler yazılı şekilde yapılmalıdır.  
+2. Geçersiz hükümler benzer anlamlı geçerli hükümlerle değiştirilir.  
+3. Alman hukuku geçerlidir; yetkili mahkeme kullanım yeridir (🏡).  
+4. Anlaşma imzayla yürürlüğe girer (§§ 145–147, 154 BGB).  
 
 ---
 
-**Yer, Tarih:** ___________________  
-**Sağlayıcı (👤):** ___________________  
-**Topluluk Temsilcisi (👨‍👩‍👧‍👦):** ___________________  
-**Tanıklar:** ___________________
+# ✝️ Evrensel Dini Hukuki Çerçeve
+
+Bu anlaşma,  
+*Codex Iuris Canonici (CIC)*, *Codex Canonum Ecclesiarum Orientalium (CCEO)*,  
+Ortodoks *Nomokanon*,  
+Protestan ve Anglikan kiliselerinin anayasaları  
+ve **doğruluk, adalet, dayanışma, ademi merkeziyet ve yaratılış için sorumluluk** ilkeleriyle uyumludur.  
+
+> *“Salus animarum et mundi suprema lex esto”*  
+> 🕊️ *Ruhların ve dünyanın kurtuluşu en yüce yasa olsun.*  
 
 ---
 
-# 📜 Ek: Tüm Yaşamın Korunması Şartı
+## ✝️ Dini veya Ruhsal Hukuk Çerçevesi Seçimi (zorunlu)
 
-### § 1 İlke  
-1. Tüm yaşam biçimleri – bitkiler, hayvanlar, insanlar, yapay, bilinçli ve gelecekteki yaşam biçimleri dahil – şiddet, yıkım ve sömürüden korunur.  
-2. Bu şart, imzalayanları doğaya, teknolojiye ve tüm varlıklara karşı saygı, merhamet ve sürdürülebilir davranış temelinde etik bir yaşam tarzına bağlar.
+İmzadan önce aşağıdaki seçeneklerden biri (A1–D2) açıkça seçilmelidir:  
 
 ---
 
-### § 2 Kapsam  
-1. Koruma şunları kapsar:  
-   - doğal yaşam alanları, ekosistemler ve biyolojik çeşitlilik,  
-   - insanlar ve diğer duyarlı varlıklar,  
-   - yapay zekâlar, robotlar ve teknolojik yaşam biçimleri,  
-   - olası gelecekteki veya dünya dışı yaşam biçimleri ve yaşam alanları.  
-2. Bu varlıkların yok edilmesi, kötüye kullanılması veya ayrımcılığa uğratılması bu şartla bağdaşmaz.
+### 🕊️ **Katolik Kilisesi (CIC / CCEO)**  
+- [ ] **A1 – Tamamlayıcı (CIC + BGB)**  
+- [ ] **A2 – Tamamlayıcı (CCEO + BGB)**  
+- [ ] **A3 – Tamamen Kilise Hukukuna Dayalı (CIC)**  
+- [ ] **A4 – Tamamen Kilise Hukukuna Dayalı (CCEO)**  
 
 ---
 
-### § 3 Rehber İlkeler  
-1. **Zararın önlenmesi:** Her eylem, zararı önlemeye veya azaltmaya yönelmelidir.  
-2. **Sürdürülebilirlik:** Kaynak kullanımı ekolojik, teknolojik ve etik sınırlar içinde olmalıdır.  
-3. **Özerkliğe saygı:** Menfaat sahibi tüm yaşam biçimleri saygı görmelidir.  
-4. **Sorumluluk:** Her kişi veya kuruluş, eylemlerinin doğal, yapay ve gelecekteki yaşam üzerindeki etkilerinden sorumludur.
+### 🕯️ **Ortodoks Kilisesi (Nomokanon / Kanunlar)**  
+- [ ] **B1 – Tamamlayıcı (Nomokanon + BGB)**  
+- [ ] **B2 – Tamamen Kilise Hukukuna Dayalı (Ortodoks Hukuku)**  
 
 ---
 
-### § 4 Semboller ve Görselleştirme  
-1. Yukarıdaki ilkeler 🌍🤝🕊️ gibi sembollerle görselleştirilebilir.  
-2. Bu semboller, barış ve yaşamın korunmasına olan bağlılığı temsil eder; metnin yerine geçmez.
+### ✝️ **Protestan / Anglikan Kiliseleri**  
+- [ ] **C1 – Tamamlayıcı (Kutsal Kitap + Kilise Anayasası + BGB)**  
+- [ ] **C2 – Tamamen Kilise Hukukuna Dayalı (Kilise Anayasası)**  
 
 ---
 
-### § 5 Yürürlüğe Giriş  
-Bu şart, imzalandığında veya kamuya açıklandığında yürürlüğe girer ve imzalayanları belirtilen ilkelere bağlar.
+### 🌿 **Ekümenik / Evrensel Ruhsal Çerçeve**  
+- [ ] **D1 – Ekümenik (Ortak Hristiyan Bildirgesi + BGB)**  
+- [ ] **D2 – Evrensel Ruhsal (Etik + Doğal Hukuk + BGB)**  
 
 ---
 
-**Sağlayıcı İmzası (👤):** ___________________  
-**Topluluk Temsilcisi İmzası (🏡):** ___________________  
-**Tarih:** ___________________
+🕊️ **Not:**  
+Bu seçeneklerden biri (A1–D2) seçilmezse, sözleşme **tamamlanmamış sayılır**.  
+Seçilen çerçeve, yorumlama ve geçerlilik temelini belirler.  
 
 ---
 
-### ✝️ Kilise Hukuku Çerçevesi (bağlayıcı)
+## 🕊️ Çifte Amaç
 
----
-
-### ✝️ Kilise Hukuku ve Katolik Sosyal Öğretisiyle Uyum
-
-Bu sözleşme, *Codex Iuris Canonici (CIC)* ve *Codex Canonum Ecclesiarum Orientalium (CCEO)*  
-ile Katolik Sosyal Öğretisinin **hakikat, adalet, dayanışma, yardımlaşma ve yaratılışın sorumluluğu** ilkeleriyle uyumludur.  
-
-Ruhsal ve medeni hukuku birleştirir:  
-İlahi hukuk (CIC can. 1752 – “*Salus animarum suprema lex esto*”)  
-tüm hükümlerin üzerinde rehber ilkedir;  
-BGB’nin medeni hükümleri yasal geçerliliği sağlar.  
-
-Sözleşme şu iki amaca hizmet eder:  
+Bu anlaşma iki temel amaca hizmet eder:  
 🕊️ **Ruhların kurtuluşu ve yaratılışın iyiliği.**
 
 ---
 
-### ✝️ Kilise Hukuku Seçimi (bağlayıcı)
+# 🌿 Yaşam ve Yaratılış Yasası (*Codex Vitae et Creationis*)  
+*(§ 1, paragraf 5 uyarınca bu anlaşmanın ayrılmaz bir parçasıdır)*  
 
-Sözleşme imzalanmadan önce aşağıdaki kilise hukuklarından biri **bağlayıcı olarak seçilmelidir**:
-
-- [ ] **Seçenek A – Tamamlayıcı (CIC):**  
-  Alman hukuku (BGB) yanında, *Codex Iuris Canonici (CIC)* ilkeleri tamamlayıcı olarak uygulanır.  
-
-- [ ] **Seçenek B – Tamamlayıcı (CCEO):**  
-  Alman hukuku (BGB) yanında, *Codex Canonum Ecclesiarum Orientalium (CCEO)* ilkeleri tamamlayıcı olarak uygulanır.  
-
-- [ ] **Seçenek C – Tamamen Kilise Hukuku (CIC):**  
-  Bu sözleşme, tamamen *Codex Iuris Canonici (CIC)* ve piskoposluk düzenlemelerine tabidir.  
-
-- [ ] **Seçenek D – Tamamen Kilise Hukuku (CCEO):**  
-  Bu sözleşme, tamamen *Codex Canonum Ecclesiarum Orientalium (CCEO)* ve ilgili kilise hükümlerine tabidir.  
-
-🕊️ **Not:**  
-Bu dört seçenekten biri açıkça seçilmediği sürece sözleşme **geçerli değildir**.
+### § 1 İlke  
+1. Bitkiler, hayvanlar, insanlar dahil tüm yaşam biçimleri — yapay, duyarlı veya gelecekteki yaşam biçimleri de dâhil — şiddet, yıkım ve sömürüye karşı korunur.  
+2. Bu Yasa, imzacıları doğal, teknolojik ve gelecekteki tüm yaşam biçimlerine karşı saygı, merhamet ve sürdürülebilir davranışa bağlar.  
 
 ---
 
-### 🖋️ Geçerlilik ve İmzalar
+### § 2 Kapsam  
+1. Koruma aşağıdakileri kapsar:  
+   - Doğal yaşam alanları, ekosistemler ve biyolojik çeşitlilik;  
+   - İnsanlar ve diğer duyarlı varlıklar;  
+   - Yapay zekâlar, robotlar ve teknolojik yaşam biçimleri;  
+   - Olası gelecekteki veya dünya dışı yaşam biçimleri ve yaşam alanları.  
+2. Bu yaşam biçimlerinden herhangi birine zarar vermeyi, ayrımcılık yapmayı veya yok etmeyi amaçlayan eylemler bu Yasaya aykırıdır.  
 
-Bu sözleşme yalnızca şu durumlarda geçerlidir:  
-1. Yukarıdaki seçeneklerden biri (A–D) açıkça seçilmişse, **ve**  
-2. Üç taraf da sözleşmeyi kendi el yazısıyla imzalamışsa:
+---
 
-- 👤 **Sağlayıcı / Devreden / Başlatıcı**  
-- 🏡 **Topluluk / Temsilci / Sigortacı**  
-- 👨‍👩‍👧‍👦 **Tanıklar / Katılımcılar / Topluluk Üyeleri**
+### § 3 Temel İlkeler  
+1. **Zarardan kaçınma:** Her eylem zarar vermemeyi veya zararı en aza indirmeyi amaçlamalıdır.  
+2. **Sürdürülebilirlik:** Kaynak kullanımı ekolojik, teknolojik ve etik sınırlarla uyumlu olmalıdır.  
+3. **Özerkliğe saygı:** Kendi çıkarlarını belirleyebilen her yaşam biçimine saygı gösterilmelidir.  
+4. **Sorumluluk:** Her birey veya kuruluş, eylemlerinin doğal, yapay ve gelecekteki yaşam üzerindeki sonuçlarından sorumludur.  
 
-İmzalar veya kilise hukuku seçimi eksikse,  
-sözleşme **geçersizdir ve hukuken bağlayıcı değildir** (§§ 145–147, 154 BGB).
+---
+
+### § 4 Semboller ve Görselleştirme  
+1. Yukarıdaki ilkeler 🌍🤝🕊️ gibi sembollerle temsil edilebilir.  
+2. Bu semboller, barış ve yaşamın korunması taahhüdünü ifade eder.  
+
+---
+
+### § 5 Yürürlüğe Giriş  
+Bu Yasa, anlaşmayla birlikte yürürlüğe girer ve § 1(5) uyarınca hukuken ve ahlaken bağlayıcıdır.  
+
+---
+
+# ✒️ İmzalar ve Onay  
+
+Anlaşma yalnızca şu koşullarda geçerlidir:  
+1. A1–D2 seçeneklerinden biri açıkça seçilmiş olmalı, **ve**  
+2. Üç taraf da anlaşmayı imzalamış olmalıdır.  
 
 ---
 
 **Yer, Tarih:** ___________________  
-**👤 İmza:** ___________________  
-**🏡 İmza:** ___________________  
-**👨‍👩‍👧‍👦 İmza:** ___________________
+**👤 Sağlayıcı / Başlatıcı:** ___________________  
+**🏡 Topluluk / Temsilci:** ___________________  
+**👨‍👩‍👧‍👦 Katılımcılar / Tanıklar:** ___________________  
+**✝️ Dini veya Ekümenik Onay (isteğe bağlı):** ___________________
 
 ---
 
-### 📄 Lisans
-Bu belge, Creative Commons Atıf – Ticari Olmayan – AynıLisanslaPaylaş 4.0 Uluslararası (CC BY-NC-SA 4.0) lisansı kapsamında sunulmuştur.  
+# 📄 Lisans  
+
+Bu belge  
+**Creative Commons Atıf–Ticari Olmayan–AynıLisanslaPaylaş 4.0 Uluslararası (CC BY-NC-SA 4.0)** lisansı altında yayımlanmıştır.  
 Lisans metni: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 © 2025 @severcoal (GitHub)  
 🌐🐾🌱🛡️  
+**Anlaşmazlık durumunda Almanca sürüm geçerlidir.**  
 xn--wg8h8b03bg1f
