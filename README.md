@@ -178,8 +178,8 @@ Code → Download ZIP
 <br>
 <br>
 
-© 2025 @severcoal (GitHub)
-Licensed under CC BY-NC-SA 4.0
+© 2025 @severcoal (GitHub) <br>
+Licensed under CC BY-NC-SA 4.0 <br>
 Lizenziert unter CC BY-NC-SA 4.0
 <br>
 🌐🐾🌱🛡️
