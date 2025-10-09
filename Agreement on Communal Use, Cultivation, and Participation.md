@@ -154,25 +154,45 @@ Thus, the agreement serves a dual purpose:
 
 ---
 
-Please check which interpretation shall apply to this agreement:
+### ✝️ Selection of Ecclesiastical Legal Framework (Mandatory)
+
+Before signing this agreement, one of the following legal frameworks **must** be explicitly selected:  
 
 - [ ] **Option A – Supplementary:**  
   In addition to German civil law (BGB), the principles of Catholic Canon Law  
-  (*Codex Iuris Canonici*, CIC, in its current version) shall apply **supplementarily**,  
+  (*Codex Iuris Canonici*, CIC, in its current version) shall apply supplementarily,  
   insofar as they serve the purpose of this agreement and do not conflict with civil provisions.  
 
 - [ ] **Option B – Fully Canonical:**  
-  This agreement is to be interpreted and applied under the provisions of the  
+  This agreement shall be interpreted and applied according to the  
   *Codex Iuris Canonici (CIC)* and the respective diocesan regulations,  
   insofar as they are binding for ecclesiastical institutions or recognized Church projects.  
-  Civil law provisions (BGB) apply **subsidiarily**, insofar as they do not contradict Canon Law.  
+  Civil law provisions (BGB) apply subsidiarily, insofar as they do not contradict Canon Law.  
+
+🕊️ **Note:**  
+Without the explicit selection of one of these two options, this agreement shall be considered **not concluded**.
+
+---
+
+### 🖋️ Validity and Signature Requirement
+
+This agreement shall enter into force only when:  
+1. One of the above options (A or B) has been clearly selected, **and**  
+2. all three parties have personally signed this agreement:
+
+- 👤 **Provider / Initiator / Owner**  
+- 🏡 **Community / Representative / Participants**  
+- 👨‍👩‍👧‍👦 **Witnesses / Co-participants**
+
+If any of these signatures, or the selection of the ecclesiastical legal framework, is missing,  
+the agreement shall be deemed **not concluded and legally void** (cf. §§ 145–147, 154 BGB).
 
 ---
 
 **Place, Date:** ___________________  
-**Signature (👤 / 🏡):** ___________________  
-
-*(If no option is selected, Option B – Supplementary – shall apply by default.)*
+**👤 Signature:** ___________________  
+**🏡 Signature:** ___________________  
+**👨‍👩‍👧‍👦 Signature:** ___________________
 
 ---
 
@@ -180,6 +200,6 @@ Please check which interpretation shall apply to this agreement:
 This document is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
 License text: https://creativecommons.org/licenses/by-sa/4.0/  
 © 2025 @severcoal (GitHub) <br>
- 🌐🐾🌱🛡️
+🌐🐾🌱🛡️  
 <br>
- xn--wg8h8b03bg1f
+xn--wg8h8b03bg1f
