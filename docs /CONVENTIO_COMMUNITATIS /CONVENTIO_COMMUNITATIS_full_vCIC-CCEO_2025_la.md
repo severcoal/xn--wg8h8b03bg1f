@@ -1,231 +1,238 @@
 ---
-title: "Conventio Communitatis"
-subtitle: "secundum principia libertatis contractus (§§ 305 et seq. BGB)"
+title: "Conventio Oecumenica Universalis de Usu Communi, Administratione et Participatione"
+subtitle: "Ex principiis libertatis contractus iuxta §§ 241 ss. et 305 ss. BGB — secundum ius canonicum, oecumenicum et ethicum"
 author: "@severcoal"
-date: "2025-10-09"
-version: "v1.0-CIC-CCEO"
+date: "2025-10-10"
+version: "vOCVG-Universal-v3-2025"
 license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "la"
-tags: ["Communitas", "Ius Canonicum", "CIC", "CCEO", "BGB", "Ius Civile", "Ethica", "Aequilibrium", "Solidaritas"]
+tags: ["Communitas", "Ius Canonicum", "CIC", "CCEO", "Nomocanon", "BGB", "Ius Civile", "Oecumenismus", "Ethica", "Creatio", "Solidaritas"]
 checksum: "sha256"
 verified_by: "OpenCanonicalSign"
 valid_from: "2025-10-09"
-valid_until: "in perpetuum"
+valid_until: "sine termino"
 description: >
-  Haec conventio regit usum, culturam et participationem communem locorum, bonorum vel inceptorum,
-  sine usu pecuniae, in fundamento curae, laboris et mutuae donationis.
-  Concordat cum Codice Iuris Canonici (CIC) et Codice Canonum Ecclesiarum Orientalium (CCEO),
-  necnon principiis doctrinae socialis catholicae.
+  Haec conventio ordinat usum communem, administrationem et participationem locorum, bonorum vel inceptorum
+  sine pecunia, innixam curae, labore, responsabilitate et mutuo dono.
+  Convenit cum Codice Iuris Canonici (CIC), Codice Canonum Ecclesiarum Orientalium (CCEO),
+  canonibus Ecclesiarum Orthodoxarum atque principiis ethicis catholicis, protestanticis, anglicanis et oecumenicis.
 ---
 
-# 🏡 Conventio Communitatis  
-*(secundum principia libertatis contractus, conformiter §§ 305 sqq. BGB)*  
-
----
-
-## 🧩 Signorum Interpretatio  
-
-| Signum | Significatio |
-|:-------|:--------------|
-| 👤 | persona naturalis / praebitor / possessor / initiator |
-| 🦙 | ens, res vel elementum quod fundamentum relationis constituit |
-| 🏡 | locus, praedium vel situs operis communis |
-| 👨‍👩‍👧‍👦 | communitas participantium |
-| 🤝 | cooperatio, foedus, consensus mutuus |
-| 🥛🍞🥔 | fructus, bona primaria, res participatae |
-| 🌱🌾 | plantae, messis, effectus creativi vel agricoli |
-| 🌐 | aequilibrium oecologicum vel sociale |
-| 🕊️ | memoria, pax, continuatio symbolica |
-| 💀 | mors, amissio vel finis elementi centralis |
+# 🏡 Conventio Oecumenica Universalis de Usu Communi, Administratione et Participatione  
+*(ex principiis libertatis contractus iuxta §§ 241 ss. et 305 ss. BGB, in spiritu responsabilitatis ecclesialis et ethicae)*  
 
 ---
 
-## § 1 Obiectum Conventonis  
-1. Praebitor (👤) concedit Communitati (👨‍👩‍👧‍👦) ius locum vel praedium (🏡) communiter uti et colere.  
-2. Propositum: communis productio, elaboratio et distributio ciborum, bonorum vel servitiorum ad proprium usum membrorum.  
-3. Conventio fit **sine pecunia**, in fundamento curae, laboris et mutuae donationis.  
-4. Proprietas apud praebitorem manet, qui in casu gravi violationis usum revocare potest.
+## § 0 Praefatio  
+Agnoscendo divinam originem omnis vitae, dignitatem cuiusque entis et officium hominis  
+erga creationem, subscriptores hanc conventionem ineunt fide, spe et caritate moti —  
+in spiritu unitatis et pacis, ultra fines confessionum et culturarum.  
+
+> “Omnis vita coniuncta est. Qui dat, accipit.” 🌐  
 
 ---
 
-## § 2 Cultura et Participatio Communis  
+## 🧩 Legenda Emoji / Significationes  
+
+| Symbolum | Significatio |
+|:----------|:-------------|
+| 👤 | Persona naturalis / Praebens / Possessor / Initiator |
+| 🦙 | Ens, obiectum vel elementum fundamentum relationis |
+| 🏡 | Locus, praedium, vel area operis communis |
+| 👨‍👩‍👧‍👦 | Communitas participantium |
+| 🤝 | Cooperatio, foedus, consensus mutuus |
+| 🥛🍞🥔 | Fructus, bona primaria, res communes |
+| 🌱🌾 | Plantae, messis, opera creata vel agricola |
+| 🌐 | Aequilibrium oecologicum vel sociale |
+| 🕊️ | Memoria, pax, vel continuatio symbolica |
+| 💀 | Mors, amissio, vel finis elementi centralis |
+
+---
+
+## § 1 De materia conventionis  
+1. Praebens (👤) concedit communitati (👨‍👩‍👧‍👦) ius locum aut praedium (🏡) communiter uti et administrare.  
+2. Propositum: productio, tractatio et distributio bonorum, ciborum vel officiorum ad usum participantium proprium.  
+3. Pactum fit **sine pecunia**, innixum curae, labore, solidaritati et dono mutuo.  
+4. Proprietas manet apud praebentem, qui in casu gravi ius usus revocare potest.  
+5. **Codex Vitae et Creationis** pars integralis huius conventionis est.  
+
+---
+
+## § 2 De administratione communi et participatione  
 1. Communitas se obligat ad curam et usum responsabilem.  
-2. Omnes fructus – 🥛🍞🥔, 🌱🌾 – inter membra communiter dividuntur.  
-3. Damna vel inopiae per laborem communem vel conventionem compensantur.  
-4. Mutationes structurae permanentes consensu praebitoris indigent.
+2. Omnes fructus – 🥛🍞🥔, 🌱🌾 – communiter dividuntur.  
+3. Damna vel inopia compensantur opere communi vel pacto.  
+4. Mutationes structurae permanentes consensu praebentis indigent.
 
 ---
 
-## § 3 Duratio / Amissio Elementi (🦙💀)  
-1. Conventio valet quamdiu elementum conservans (🦙) exsistit.  
-2. Cum amissione vel fine eius (💀) ius usus statim desinit.  
+## § 3 De duratione / amissione elementi (🦙💀)  
+1. Conventio valet, quamdiu elementum conservans (🦙) exsistit.  
+2. Eius amissione vel fine (💀), ius usus statim cessat.  
 3. Fructus residui (🌱🌾) sic dividuntur:  
-   - a) pars pro praebitore,  
-   - b) reliqua pars pro communitate.  
+   - a) Pars praebenti,  
+   - b) Reliqua communitati.  
 4. Amissio statim nuntianda est.  
-5. Occultatio amissionis violatio conventonis habetur.
+5. Silentium de amissione violatio conventionis habetur.
 
 ---
 
-## § 4 Aequilibrium et Transparentia (🌐)  
-1. Relatio super reciprocitate fundatur: dare aequilibrium servat.  
-2. Omnes partes ad curam loci et communitatis conferunt.  
+## § 4 De aequilibrio et claritate (🌐)  
+1. Relatio fundatur in mutua donatione: dare aequilibrium servat.  
+2. Omnes participant curam loci et communitatis.  
 3. Communitas statum et fructus regulariter refert.  
-4. Utraque pars ius inspectionis in documenta et bona habet.
+4. Utraque pars inspectionem documentorum et bonorum petere potest.
 
 ---
 
-## § 5 Responsabilitas  
-1. Communitas tenetur pro damnis voluntariis aut graviter negligentibus.  
-2. In leviori negligentia tantum pro damnis praevisis et typicis respondet.  
-3. Occultatio amissionis dat ius statim rescindendi.
+## § 5 De responsabilitate  
+1. Communitas respondet de damno voluntario vel graviter negligenti.  
+2. In leviori negligentia, responsalitas limitatur ad damna praevisa et typica.  
+3. Silentium de amissione ius dat ad solutionem immediatam.
 
 ---
 
-## § 6 Memoria (🕊️)  
-1. Post finem elementi (💀), omnes partes actionem memorialem symbolicam peragunt.  
+## § 6 De memoria (🕊️)  
+1. Post finem elementi (💀), omnes participant actionem symbolicam memoriae.  
 2. Formae: plantatio, inscriptio, ritus vel conventus.  
 3. Actio haec symbolica est, non pecuniaria.
 
 ---
 
-## § 7 Resolutio  
-1. Praebitor conventum rescindere potest in casu gravi violationis.  
-2. Bona vel fructus intra unum mensem reddenda sunt.  
-3. Iura ad indemnitatem permanent.
+## § 7 De solutione  
+1. Praebens conventum dissolvere potest in casu gravi violationis.  
+2. Bona aut fructus intra unum mensem reddenda sunt.  
+3. Iura ad compensationem damni manent.
 
 ---
 
-## § 8 Clausulae Finales  
-1. Mutationes scripto tantum valent.  
-2. Clausulae invalidae per validas similis sensus substituuntur.  
-3. Ius Germanicum valet; forum loci usus (🏡).  
-4. Conventio subscriptio valida fit.
+## § 8 De clausulis finalibus  
+1. Mutationes scripturae forma indigent.  
+2. Clausulae invalidae substituuntur validis similis sensus.  
+3. Applicatur ius Germanicum; forum est locus usus (🏡).  
+4. Conventio vires habet a die subscriptionis (§§ 145–147, 154 BGB).
 
 ---
 
-**Locus, Dies:** ___________________  
-**Praebitor (👤):** ___________________  
-**Repraesentans Communitatis (👨‍👩‍👧‍👦):** ___________________  
-**Testes:** ___________________
+# ✝️ De structura legali oecumenica universali
+
+Haec conventio congruit principiis  
+*Codicis Iuris Canonici (CIC)*, *Codicis Canonum Ecclesiarum Orientalium (CCEO)*,  
+*Canonum Ecclesiarum Orthodoxarum*,  
+*Constitutionum Ecclesiarum Protestanticarum et Anglicanorum*,  
+necnon *principiis oecumenicis veritatis, iustitiae, solidaritatis, subsidiarietatis et responsabilitatis pro creatione.*  
+
+> *“Salus animarum et mundi suprema lex esto.”*  
+> 🕊️ *Salus animarum et mundi sit lex suprema.*
 
 ---
 
-# 📜 Appendix: Charta de Tutela Universa Vitae  
+## ✝️ De electione basis iuridicae vel spiritualis (necessaria)
 
-### § 1 Principium  
-1. Omnes formae vitae — plantae, animalia, homines necnon artificiosa, sensibilia et futura — tutela fruuntur contra vim, destructionem et exploitationem.  
-2. Haec Charta subscriptores suos ad vitam ethicam obligat, quae reverentiam, misericordiam et actionem sustinendam erga omnes formas vitae praestat.
+Ante subscriptionem **una ex sequentibus optionibus (A1–D2)** eligenda est:
 
 ---
 
-### § 2 Ambitus Applicationis  
-1. Tutela extenditur ad:  
-   - habitacula naturalia, oecosystemata et biodiversitatem,  
-   - homines et alia entia sensibilia,  
-   - intelligentias artificiosas, robots et alias formas technicas vitae,  
-   - futuras vel extraterrestras formas vitae earumque habitacula.  
-2. Actus ad destructionem, iniuriam, discriminationem vel extinctionem harum formarum directus huic Chartae adversatur.
+### 🕊️ **Ecclesiae Catholicae (CIC / CCEO)**  
+- [ ] **A1 – Complementaria (CIC + BGB)**  
+- [ ] **A2 – Complementaria (CCEO + BGB)**  
+- [ ] **A3 – Plene canonica (CIC)**  
+- [ ] **A4 – Plene canonica (CCEO)**  
 
 ---
 
-### § 3 Principia Ducentia  
-1. **Praeventio damni:** actus omnes damnum vitare aut minuere debent.  
-2. **Sustentabilitas:** usus rerum naturalium fines oecologicos, technologicos et ethicos observet.  
-3. **Respectus autonomiae:** formae vitae quae interest habere possunt, reverendae sunt.  
-4. **Responsabilitas:** quisque homo vel institutio pro effectibus actuum suorum erga naturam, artem et futuram vitam respondet.
+### 🕯️ **Ecclesiae Orthodoxae (Nomocanon / Canones)**  
+- [ ] **B1 – Complementaria (Nomocanon + BGB)**  
+- [ ] **B2 – Plene canonica (Ius Orthodoxum)**  
 
 ---
 
-### § 4 Symbola et Visibilitas  
-1. Principia praedicta per symbola ut 🌍🤝🕊️ exprimi possunt.  
-2. Symbola haec commitmentum ad pacem et custodiam vitae ostendunt; textum non substituunt.
+### ✝️ **Ecclesiae Protestantes / Anglicanae**  
+- [ ] **C1 – Complementaria (Biblia + Ordinatio Ecclesiastica + BGB)**  
+- [ ] **C2 – Plene ecclesiastica (Ordinatio Ecclesiastica)**  
 
 ---
 
-### § 5 Initium Vigoris  
-Haec Charta vi subscriptio vel declaratione publica vigere incipit et subscriptores ad praedicta principia ligat.
+### 🌿 **Oecumenica / Universalis spiritualis**  
+- [ ] **D1 – Oecumenica (Declaratio Christiana Communis + BGB)**  
+- [ ] **D2 – Universalis spiritualis (Ethica + Ius Naturale + BGB)**  
 
 ---
-
-**Subscriptio Praebitoris (👤):** ___________________  
-**Subscriptio Repraesentantis Communitatis (🏡):** ___________________  
-**Dies:** ___________________
-
----
-
-### ✝️ Regimen Iuris Ecclesiastici (obligatorium)
-
----
-
-### ✝️ Relatio ad Ius Canonicum et Doctrinam Socialem Catholicam  
-
-Haec conventio concordat cum principiis *Codicis Iuris Canonici (CIC)*  
-et *Codicis Canonum Ecclesiarum Orientalium (CCEO)*,  
-necnon cum doctrina sociali catholica, praesertim principiis  
-**Veritatis, Iustitiae, Solidaritatis, Subsidiarietatis et Responsabilitatis pro Creatione.**  
-
-Lex divina (CIC can. 1752 – *Salus animarum suprema lex esto*)  
-super omnes dispositiones stat,  
-dum normae civiles Codicis Civilis Germanici (BGB) validitatem iuridicam praestant.  
-
-Conventio igitur duplex finem habet:  
-🕊️ **Salutem animarum et bonum creationis.**
-
----
-
-### ✝️ Electio Fundamenti Iuris Canonici (obligatoria)
-
-Ante subscriptionem eligenda est una ex sequentibus fundamentis **obligatoriis**:
-
-- [ ] **Varietas A – Complementaria (CIC):**  
-  Praeter ius Germanicum (BGB), principia *Codicis Iuris Canonici (CIC)*  
-  applicanda sunt quatenus huic conventioni prosunt et iuri civili non adversantur.  
-
-- [ ] **Varietas B – Complementaria (CCEO):**  
-  Praeter ius Germanicum (BGB), principia *Codicis Canonum Ecclesiarum Orientalium (CCEO)*  
-  applicanda sunt quatenus huic conventioni prosunt et iuri civili non adversantur.  
-
-- [ ] **Varietas C – Plene Canonica (CIC):**  
-  Haec conventio secundum *Codicem Iuris Canonici (CIC)*  
-  et normas dioecesanas plene interpretatur et applicatur.  
-
-- [ ] **Varietas D – Plene Canonica (CCEO):**  
-  Haec conventio secundum *Codicem Canonum Ecclesiarum Orientalium (CCEO)*  
-  et normas ecclesiasticas pertinentes plene interpretatur et applicatur.  
 
 🕊️ **Nota:**  
-Si nulla varietas eligitur, conventio **non perfecta et invalida** habetur.
+Sine clara electione harum optionum (A1–D2) conventio habetur **non conclusa**.  
+Optio electa interpretationem supplementariam determinat.
 
 ---
 
-### 🖋️ Validitas et Subscriptio Necessaria  
+## 🕊️ Finis duplex
 
-Conventio tantum tunc vim habet, si:  
-1. Una varietas (A–D) clare electa est, **et**  
-2. Tres partes subscripserunt:  
+Haec conventio servit duplici fini:  
+🕊️ **saluti animarum et bono creationis.**
 
-- 👤 **Praebitor / Initiator / Concessor**  
-- 🏡 **Communitas / Repraesentans / Assecurator**  
-- 👨‍👩‍👧‍👦 **Testes / Socii / Participes**
+---
 
-Deficiente una harum subscriptionum vel electione iuris canonici,  
-conventio **invalida** est secundum §§ 145–147, 154 BGB.
+# 🌿 Codex Vitae et Creationis  
+*(Pars integralis huius conventionis secundum § 1, n. 5)*  
+
+### § 1 Principium  
+1. Omnes formae vitae — plantae, animalia, homines, necnon artificiales, sensientes et futurae — ab iniuria, destructione et abusu proteguntur.  
+2. Hic Codex subscriptores obligat ad vitam ethicam, plenam reverentiae, misericordiae et actionis sustentabilis erga omnes formas vitae naturales, technologicas et futuras.
+
+---
+
+### § 2 Ambitus  
+1. Tutela extenditur ad:  
+   - Habitata naturalia, oecosystemata et biodiversitatem,  
+   - Homines et alia entia sensientia,  
+   - Intelligentias artificiales, robots et formas technicas vitae,  
+   - Possibiles futuras vel extraterrestres formas vitae et eorum habitationes.  
+2. Quaelibet actio destructionem, iniuriam, discriminationem vel interitum horum entium intendens, huic Codici repugnat.
+
+---
+
+### § 3 Principia directiva  
+1. **Praeventio damni:** Omnia consilia tendant ad damnum vitandum vel minuendum.  
+2. **Sustentabilitas:** Usus bonorum fiat intra limites oecologicos, technologicos et ethicos.  
+3. **Respectus autonomiae:** Omnia entia quae suos fines habere possunt, honoranda sunt.  
+4. **Responsabilitas:** Quisque homo vel institutio de effectibus suarum actionum erga naturam, technologiam et futura entia respondet.
+
+---
+
+### § 4 Symbolica et visualizatio  
+1. Principia praedicta symbolis ut 🌍🤝🕊️ repraesentari possunt.  
+2. Haec symbola pacem et obligationem ad tuendam vitam universam exprimunt.
+
+---
+
+### § 5 Initium validitatis  
+Hic Codex vim habet una cum subscriptione huius conventionis et omnes subscriptores moraliter ac iuridice obligat secundum § 1 n. 5.
+
+---
+
+# ✒️ Subscriptiones et confirmatio
+
+Conventio vim obtinet tantum si:  
+1. Una optio (A1–D2) clare electa est, **et**  
+2. Tres partes documentum subscripserunt.
 
 ---
 
 **Locus, Dies:** ___________________  
-**👤 Subscriptio:** ___________________  
-**🏡 Subscriptio:** ___________________  
-**👨‍👩‍👧‍👦 Subscriptio:** ___________________
+**👤 Praebens / Initiator:** ___________________  
+**🏡 Communitas / Repraesentans:** ___________________  
+**👨‍👩‍👧‍👦 Participes / Testes:** ___________________  
+**✝️ Confirmatio Ecclesiastica vel Oecumenica (optativa):** ___________________
 
 ---
 
-### 📄 Licentia  
-Hoc documentum sub licentia Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0) editum est.  
+# 📄 Licentia
+
+Hoc documentum sub licentia  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)** divulgatur.  
 Textus licentiae: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-© 2025 @severcoal (GitHub) <br>
+© 2025 @severcoal (GitHub)  
 🌐🐾🌱🛡️  
-<br>
+**In dubio, versio Germanica huius documenti praevalet.**  
 xn--wg8h8b03bg1f
