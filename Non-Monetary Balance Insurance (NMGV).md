@@ -129,6 +129,30 @@ This Charter takes effect upon signature or public declaration and binds its sig
 
 ---
 
+### ✝️ Ecclesiastical Legal Framework
+
+Please check which interpretation shall apply to this agreement:
+
+- [ ] **Option A – Supplementary:**  
+  In addition to German civil law (BGB), the principles of Catholic Canon Law  
+  (*Codex Iuris Canonici*, CIC, in its current version) shall apply **supplementarily**,  
+  insofar as they serve the purpose of this agreement and do not conflict with civil provisions.  
+
+- [ ] **Option B – Fully Canonical:**  
+  This agreement is to be interpreted and applied under the provisions of the  
+  *Codex Iuris Canonici (CIC)* and the respective diocesan regulations,  
+  insofar as they are binding for ecclesiastical institutions or recognized Church projects.  
+  Civil law provisions (BGB) apply **subsidiarily**, insofar as they do not contradict Canon Law.  
+
+---
+
+**Place, Date:** ___________________  
+**Signature (👤 / 🏡):** ___________________  
+
+*(If no option is selected, Option B – Supplementary – shall apply by default.)*
+
+---
+
 ### 📄 License
 This document is licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).  
 License text: https://creativecommons.org/licenses/by-sa/4.0/  
