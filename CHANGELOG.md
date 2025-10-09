@@ -13,10 +13,10 @@
 - LEGAL NOTICE erstellt
 - Warning - Non-Applicability Declaration.md erstellt
 - Warnhinweis - Unanwendbarkeitserklärung.md erstellt
-- Vertrag über gemeinschaftliche Nutzung, Bewirtschaftung und Teilhabe erstellt
+- CONVENTIO COMMUNITATIS erstellt mit Dokumenten
 - EXPLANATION erstellt
 - ERKLAERUNG erstellt
-- Agreement on Communal Use, Cultivation, and Participation erstellt
+- ASSICURATIO erstellt mit Dokumenten
 - 🗝️👘🐟 erstellt
 - 🏠🚘 erstellt 
 - 🏠🚤🚘 erstellt
