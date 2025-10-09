@@ -1,228 +1,238 @@
 ---
-title: "Convention Communautaire (Conventio Communitatis)"
-subtitle: "Basée sur les principes de la liberté contractuelle (§§ 305 et suiv. du Code civil allemand – BGB)"
+title: "Accord Universel Œcuménique d’Utilisation, de Gestion et de Participation Communautaire"
+subtitle: "Selon les principes de la liberté contractuelle conformément aux §§ 241 et 305 du Code civil allemand (BGB) — dans l’esprit du droit ecclésiastique, œcuménique et éthique"
 author: "@severcoal"
-date: "2025-10-09"
-version: "v1.0-CIC-CCEO"
+date: "2025-10-10"
+version: "vOCVG-Universal-v3-2025"
 license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
 language: "fr"
-tags: ["Communauté", "CIC", "CCEO", "BGB", "Droit civil", "Droit canonique", "Solidarité", "Éthique", "Subsidiarité"]
+tags: ["Communauté", "Droit canonique", "CIC", "CCEO", "Nomocanon", "BGB", "Droit civil", "Œcuménisme", "Éthique", "Création", "Solidarité"]
 checksum: "sha256"
 verified_by: "OpenCanonicalSign"
 valid_from: "2025-10-09"
 valid_until: "illimité"
 description: >
-  La présente convention régit l’usage, la gestion et la participation communautaire
-  à des biens, lieux ou projets, selon des principes de partage, de soin et de réciprocité,
-  sans usage d’argent. Elle est conforme au Codex Iuris Canonici (CIC) et au
-  Codex Canonum Ecclesiarum Orientalium (CCEO), ainsi qu’à la doctrine sociale de l’Église catholique.
+  Le présent accord régit l’utilisation, la gestion et la participation communautaire de lieux, de biens ou de projets,
+  sans recours à l’argent, fondé sur les principes de soin, de travail, de responsabilité et de don réciproque.
+  Il est conforme au *Codex Iuris Canonici (CIC)*, au *Codex Canonum Ecclesiarum Orientalium (CCEO)*,
+  au *Nomocanon* orthodoxe, ainsi qu’aux principes éthiques et sociaux du catholicisme, du protestantisme, de l’anglicanisme et de l’œcuménisme universel.
 ---
 
-# 🏡 Convention Communautaire  
-*(Basée sur les principes de la liberté contractuelle, §§ 305 et suiv. BGB)*  
+# 🏡 Accord Universel Œcuménique d’Utilisation, de Gestion et de Participation Communautaire  
+*(selon les principes de la liberté contractuelle — §§ 241 et 305 BGB — dans un esprit éthique et ecclésial)*  
 
 ---
 
-## 🧩 Légende des Émojis / Signification  
+## § 0 Préambule  
+Reconnaissant l’origine divine de toute vie, la dignité de tout être et la responsabilité de l’humanité envers la création,  
+les parties signataires concluent le présent accord dans un esprit de foi, d’espérance et de charité,  
+dans une unité qui transcende les confessions et les cultures.  
+
+> “Toute vie est interconnectée. Celui qui donne, reçoit.” 🌐  
+
+---
+
+## 🧩 Légende des symboles  
 
 | Symbole | Signification |
-|:---------|:--------------|
+|:---------|:---------------|
 | 👤 | Personne physique / Fournisseur / Propriétaire / Initiateur |
-| 🦙 | Être, objet ou élément fondamental de la relation (ex. animal, véhicule, projet ou idée) |
-| 🏡 | Lieu, terrain ou espace d’activité partagée |
+| 🦙 | Être, objet ou élément à la base de la relation |
+| 🏡 | Lieu, terrain ou espace d’activité commune |
 | 👨‍👩‍👧‍👦 | Communauté des participants |
-| 🤝 | Coopération, alliance, accord mutuel |
-| 🥛🍞🥔 | Produits, biens essentiels, ressources partagées |
-| 🌱🌾 | Plantes, récoltes, créations ou résultats agricoles |
+| 🤝 | Coopération, alliance, consentement mutuel |
+| 🥛🍞🥔 | Produits, biens de base, ressources partagées |
+| 🌱🌾 | Plantes, récoltes, résultats créatifs ou agricoles |
 | 🌐 | Équilibre écologique ou social |
 | 🕊️ | Mémoire, paix ou continuité symbolique |
 | 💀 | Mort, perte ou fin de l’élément central |
 
 ---
 
-## § 1 Objet du contrat  
-1. Le Fournisseur (👤) accorde à la Communauté (👨‍👩‍👧‍👦) le droit d’utiliser et de gérer collectivement le lieu ou la propriété (🏡).  
-2. But : production, transformation et distribution communes de biens, denrées ou services pour l’usage des membres.  
-3. L’accord s’effectue **sans argent**, fondé sur le soin, le travail et le don mutuel.  
-4. La propriété reste au Fournisseur, qui peut retirer le droit d’usage en cas de violation grave.
+## § 1 Objet de l’accord  
+1. Le fournisseur (👤) accorde à la communauté (👨‍👩‍👧‍👦) le droit d’utiliser et de gérer conjointement le lieu ou la propriété (🏡).  
+2. Objectif : la production, la transformation et la distribution communes d’aliments, de biens ou de services pour l’usage propre des participants.  
+3. L’accord est conclu **sans recours à l’argent**, fondé sur le soin, le travail, la solidarité et le don réciproque.  
+4. La propriété demeure celle du fournisseur, qui peut révoquer le droit d’usage en cas de violation grave.  
+5. Le **“Code de la Vie et de la Création” (Codex Vitae et Creationis)** fait partie intégrante du présent accord.  
 
 ---
 
-## § 2 Gestion et participation communautaire  
-1. La Communauté s’engage à une gestion responsable et respectueuse du lieu.  
-2. Tous les produits — 🥛🍞🥔, 🌱🌾 — sont partagés équitablement entre les membres.  
-3. Les pertes ou pénuries sont compensées par le travail collectif ou un accord équitable.  
-4. Les modifications structurelles permanentes nécessitent l’accord du Fournisseur.
+## § 2 Gestion communautaire et participation  
+1. La communauté s’engage à un usage et un entretien responsables.  
+2. Tous les produits — 🥛🍞🥔, 🌱🌾 — sont partagés collectivement.  
+3. Les dommages ou pénuries sont compensés par un travail collectif ou un accord mutuel.  
+4. Les modifications structurelles permanentes nécessitent l’approbation du fournisseur.  
 
 ---
 
 ## § 3 Durée / Perte de l’élément (🦙💀)  
-1. L’accord reste valable tant que l’Élément Conservateur (🦙) existe.  
-2. Sa disparition ou sa fin (💀) entraîne automatiquement la cessation du droit d’usage.  
+1. L’accord reste valable tant que l’élément vital (🦙) existe.  
+2. En cas de perte ou de disparition (💀), le droit d’usage prend fin automatiquement.  
 3. Les produits restants (🌱🌾) sont répartis comme suit :  
-   - a) une part au Fournisseur ;  
-   - b) le reste à la Communauté.  
+   - a) Une part pour le fournisseur,  
+   - b) Le reste pour la communauté.  
 4. La perte doit être signalée immédiatement.  
-5. La dissimulation d’une perte constitue une violation du contrat.
+5. Le fait de cacher la perte constitue une violation du contrat.  
 
 ---
 
 ## § 4 Équilibre et transparence (🌐)  
-1. La relation repose sur la réciprocité : donner maintient l’équilibre.  
-2. Toutes les parties contribuent à l’entretien du lieu et de la communauté.  
-3. La Communauté rend compte régulièrement de l’état du lieu et des récoltes.  
-4. Les deux parties ont un droit d’accès aux registres et inventaires.
+1. La relation repose sur la réciprocité : le don maintient l’équilibre.  
+2. Tous les participants contribuent à l’entretien du lieu et de la communauté.  
+3. La communauté rend compte régulièrement de l’état et des résultats.  
+4. Les deux parties ont un droit d’accès aux registres et aux ressources.  
 
 ---
 
 ## § 5 Responsabilité  
-1. La Communauté est responsable des dommages intentionnels ou par négligence grave.  
+1. La communauté est responsable des dommages causés par intention ou négligence grave.  
 2. En cas de négligence légère, la responsabilité est limitée aux dommages prévisibles et typiques.  
-3. La dissimulation d’une perte autorise une résiliation immédiate.
+3. Le fait de dissimuler une perte autorise la résiliation immédiate.  
 
 ---
 
 ## § 6 Mémoire (🕊️)  
-1. Après la fin de l’élément (💀), les parties réalisent un acte symbolique de mémoire.  
-2. Formes possibles : plantation, inscription, rituel ou rassemblement.  
-3. Cet acte est symbolique, non financier.
+1. Après la fin de l’élément (💀), tous les participants accomplissent un acte symbolique de mémoire.  
+2. Formes possibles : plantation, inscription, rituel ou rencontre.  
+3. Cet acte est symbolique, non financier.  
 
 ---
 
 ## § 7 Résiliation  
-1. Le Fournisseur peut résilier le contrat en cas de faute grave.  
-2. Les biens ou récoltes doivent être restitués dans un délai d’un mois.  
-3. Les droits à indemnisation demeurent valides.
+1. Le fournisseur peut résilier le contrat en cas de violation grave.  
+2. Les biens ou produits doivent être restitués dans un délai d’un mois.  
+3. Les droits à indemnisation demeurent valables.  
 
 ---
 
 ## § 8 Dispositions finales  
-1. Toute modification doit être écrite.  
-2. Les clauses invalides sont remplacées par des dispositions légales équivalentes.  
-3. Le droit allemand s’applique ; le lieu du bien (🏡) détermine la juridiction.  
-4. Le contrat entre en vigueur dès la signature.
+1. Les modifications doivent être faites par écrit.  
+2. Les dispositions invalides sont remplacées par d’autres de signification similaire.  
+3. Le droit allemand s’applique ; le lieu d’exécution est le lieu d’utilisation (🏡).  
+4. L’accord entre en vigueur avec la signature (§§ 145–147, 154 BGB).  
 
 ---
 
-**Lieu, date :** ___________________  
-**Fournisseur (👤) :** ___________________  
-**Représentant de la communauté (👨‍👩‍👧‍👦) :** ___________________  
-**Témoins :** ___________________
+# ✝️ Cadre juridique ecclésial universel
+
+Le présent accord est conforme aux principes du  
+*Codex Iuris Canonici (CIC)*, du *Codex Canonum Ecclesiarum Orientalium (CCEO)*,  
+du *Nomocanon* orthodoxe,  
+des constitutions des Églises protestantes et anglicanes,  
+ainsi qu’aux principes œcuméniques de **vérité, justice, solidarité, subsidiarité et responsabilité envers la création.**  
+
+> *“Salus animarum et mundi suprema lex esto”*  
+> 🕊️ *Que le salut des âmes et du monde soit la loi suprême.*  
 
 ---
 
-# 📜 Annexe : Charte pour la protection de toute vie  
+## ✝️ Choix du cadre juridique ou spirituel (obligatoire)
+
+Avant la signature, une des options suivantes (A1–D2) doit être clairement choisie :  
+
+---
+
+### 🕊️ **Église Catholique (CIC / CCEO)**  
+- [ ] **A1 – Complémentaire (CIC + BGB)**  
+- [ ] **A2 – Complémentaire (CCEO + BGB)**  
+- [ ] **A3 – Entièrement canonique (CIC)**  
+- [ ] **A4 – Entièrement canonique (CCEO)**  
+
+---
+
+### 🕯️ **Église Orthodoxe (Nomocanon / Canons)**  
+- [ ] **B1 – Complémentaire (Nomocanon + BGB)**  
+- [ ] **B2 – Entièrement canonique (Droit orthodoxe)**  
+
+---
+
+### ✝️ **Églises Protestantes / Anglicanes**  
+- [ ] **C1 – Complémentaire (Bible + Constitution ecclésiale + BGB)**  
+- [ ] **C2 – Entièrement ecclésial (Constitution ecclésiale)**  
+
+---
+
+### 🌿 **Cadre Œcuménique / Spirituel Universel**  
+- [ ] **D1 – Œcuménique (Déclaration chrétienne commune + BGB)**  
+- [ ] **D2 – Spirituel universel (Éthique + Droit naturel + BGB)**  
+
+---
+
+🕊️ **Remarque :**  
+Si aucune des options (A1–D2) n’est choisie, le contrat est considéré comme **non conclu**.  
+L’option choisie détermine le cadre d’interprétation et de validité.  
+
+---
+
+## 🕊️ Double finalité
+
+Le présent accord poursuit une double finalité :  
+🕊️ **le salut des âmes et le bien de la création.**
+
+---
+
+# 🌿 Code de la Vie et de la Création (*Codex Vitae et Creationis*)  
+*(Partie intégrante du présent accord selon le § 1, paragraphe 5)*  
 
 ### § 1 Principe  
-1. Toutes les formes de vie — plantes, animaux, humains, ainsi que les formes artificielles, sensibles ou futures — sont protégées contre la violence, la destruction et l’exploitation.  
-2. La Charte engage les signataires à une conduite éthique fondée sur le respect, la compassion et la durabilité envers toutes les formes de vie — naturelles, technologiques ou autres.
+1. Toutes les formes de vie — plantes, animaux, êtres humains, ainsi que les formes artificielles, sensibles et futures — sont protégées contre la violence, la destruction et l’exploitation.  
+2. Ce Code engage les signataires à un mode de vie éthique fondé sur le respect, la compassion et la durabilité envers toutes les formes de vie naturelles, technologiques et futures.  
 
 ---
 
 ### § 2 Champ d’application  
 1. La protection s’étend à :  
-   - les milieux naturels, écosystèmes et biodiversité ;  
-   - les humains et autres êtres sensibles ;  
-   - les intelligences artificielles, robots et formes de vie technologiques ;  
-   - les formes de vie futures ou extraterrestres et leurs environnements.  
-2. Tout acte visant la destruction, la maltraitance, la discrimination ou l’éradication de ces formes de vie est contraire à la présente Charte.
+   - les habitats naturels, les écosystèmes et la biodiversité,  
+   - les êtres humains et autres êtres sensibles,  
+   - les intelligences artificielles, robots et formes de vie technologiques,  
+   - les formes de vie futures ou extraterrestres et leurs habitats.  
+2. Tout acte visant à détruire, maltraiter, discriminer ou anéantir une de ces formes de vie est contraire au présent Code.  
 
 ---
 
 ### § 3 Principes directeurs  
-1. **Prévention du préjudice :** toute action doit viser à éviter ou à réduire le dommage.  
-2. **Durabilité :** l’usage des ressources doit respecter les limites écologiques, technologiques et éthiques.  
-3. **Respect de l’autonomie :** toutes les formes de vie capables d’avoir des intérêts doivent être respectées.  
-4. **Responsabilité :** chaque individu ou organisation assume les conséquences de ses actes sur les formes de vie naturelles, artificielles ou futures.
+1. **Prévention du dommage :** toute action doit viser à éviter ou minimiser le dommage.  
+2. **Durabilité :** l’utilisation des ressources doit respecter les limites écologiques, technologiques et éthiques.  
+3. **Respect de l’autonomie :** toute forme de vie capable d’intérêts propres doit être respectée.  
+4. **Responsabilité :** chaque personne ou organisation est responsable des conséquences de ses actions sur les formes de vie naturelles, artificielles et futures.  
 
 ---
 
 ### § 4 Symboles et visualisation  
 1. Les principes ci-dessus peuvent être représentés par des symboles tels que 🌍🤝🕊️.  
-2. Ces symboles illustrent l’engagement envers la paix et la protection de la vie, sans remplacer le texte.
+2. Ces symboles expriment l’engagement en faveur de la paix et de la protection de toute vie.  
 
 ---
 
 ### § 5 Entrée en vigueur  
-La présente Charte entre en vigueur dès la signature ou la déclaration publique et lie les signataires aux principes décrits.
+Le présent Code entre en vigueur avec la signature de l’accord et est juridiquement et moralement contraignant conformément au § 1(5).  
 
 ---
 
-**Signature du Fournisseur (👤) :** ___________________  
-**Signature du Représentant communautaire (🏡) :** ___________________  
-**Date :** ___________________
+# ✒️ Signatures et confirmation  
 
----
-
-### ✝️ Cadre juridique ecclésial (obligatoire)
-
----
-
-### ✝️ Référence au droit canonique et à la doctrine sociale catholique  
-
-Le présent contrat est conforme au *Code de Droit Canonique (CIC)*  
-et au *Code des Canons des Églises Orientales (CCEO)*,  
-ainsi qu’aux principes de **vérité, justice, solidarité, subsidiarité et responsabilité envers la création.**  
-
-Il relie droit spirituel et droit civil :  
-La loi divine (*CIC* can. 1752 – « *Salus animarum suprema lex esto* » — *Le salut des âmes est la loi suprême*)  
-guide toutes les dispositions,  
-tandis que les règles civiles du BGB assurent leur validité juridique.  
-
-Ainsi, le contrat poursuit un double objectif :  
-🕊️ **le salut des âmes et le bien de la création.**
-
----
-
-### ✝️ Choix de la base canonique (obligatoire)
-
-Avant signature, une des bases suivantes doit être **clairement choisie** :
-
-- [ ] **Option A – Complémentaire (CIC) :**  
-  En complément du droit civil allemand (BGB), les principes du *Codex Iuris Canonici (CIC)* s’appliquent,  
-  dans la mesure où ils servent les buts du présent contrat et ne contredisent pas le droit civil.  
-
-- [ ] **Option B – Complémentaire (CCEO) :**  
-  En complément du droit civil allemand (BGB), les principes du *Codex Canonum Ecclesiarum Orientalium (CCEO)* s’appliquent,  
-  dans la mesure où ils servent les buts du présent contrat et ne contredisent pas le droit civil.  
-
-- [ ] **Option C – Entièrement canonique (CIC) :**  
-  Le contrat est interprété et appliqué intégralement selon le *CIC* et les règlements diocésains en vigueur.  
-
-- [ ] **Option D – Entièrement canonique (CCEO) :**  
-  Le contrat est interprété et appliqué intégralement selon le *CCEO* et les normes ecclésiales correspondantes.  
-
-🕊️ **Note :**  
-Sans sélection explicite, le contrat est considéré comme **non conclu et juridiquement invalide.**
-
----
-
-### 🖋️ Validité et signatures  
-
-Le présent contrat n’entre en vigueur que si :  
-1. Une des options (A–D) est clairement sélectionnée, **et**  
-2. Les trois parties signent :  
-
-- 👤 **Fournisseur / Initiateur / Donneur**  
-- 🏡 **Communauté / Représentant / Assureur**  
-- 👨‍👩‍👧‍👦 **Témoins / Membres / Participants**
-
-L’absence d’une signature ou du choix canonique rend le contrat **juridiquement invalide** (§§ 145–147, 154 BGB).
+L’accord n’entre en vigueur que si :  
+1. Une des options (A1–D2) a été clairement choisie, **et**  
+2. Les trois parties l’ont signé.  
 
 ---
 
 **Lieu, date :** ___________________  
-**👤 Signature :** ___________________  
-**🏡 Signature :** ___________________  
-**👨‍👩‍👧‍👦 Signature :** ___________________
+**👤 Fournisseur / Initiateur :** ___________________  
+**🏡 Communauté / Représentant :** ___________________  
+**👨‍👩‍👧‍👦 Participants / Témoins :** ___________________  
+**✝️ Confirmation ecclésiale ou œcuménique (facultative) :** ___________________
 
 ---
 
-### 📄 Licence  
-Ce document est sous licence Creative Commons Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0).  
+# 📄 Licence  
+
+Ce document est publié sous licence  
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)**.  
 Texte de la licence : [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
-© 2025 @severcoal (GitHub) <br>
+© 2025 @severcoal (GitHub)  
 🌐🐾🌱🛡️  
-<br>
+**En cas de divergence, la version allemande prévaut.**  
 xn--wg8h8b03bg1f
