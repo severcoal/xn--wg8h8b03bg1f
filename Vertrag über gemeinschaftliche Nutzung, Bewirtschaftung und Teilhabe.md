@@ -3,92 +3,131 @@
 
 ---
 
-## 🧩 Emoji-Bedeutung / Interpretation  
+## 🧩 Emoji-Legende / Bedeutung  
 
 | Symbol | Bedeutung |
 |:-------|:-----------|
-| 👤 | natürliche Person / Überlassender / Eigentümer / Initiator |
-| 🦙 | das Lebewesen, Objekt oder Element, dessen Existenz oder Zustand Grundlage der Beziehung ist (z. B. Tier, Fahrzeug, Werk, Projekt, Idee) |
-| 🏡 | Grundstück, Wohnstätte, Anwesen, Fläche oder Ort gemeinschaftlicher Tätigkeit |
-| 👨‍👩‍👧‍👦 | Gemeinschaft / Gruppe der Teilnehmenden |
-| 🤝 | Verbindung, Gründung, Kooperation |
-| 🥛🍞🥔 | Erträge, Grundnahrungsmittel, Güter des täglichen Bedarfs |
-| 🌱🌾 | Pflanzen, Ernten, landwirtschaftliche oder schöpferische Produktion |
-| 🌐 | ökologisches, soziales oder symbolisches Gleichgewicht |
-| 🕊️ | Erinnerung, Ehrung, Bewahrung des Andenkens |
+| 👤 | natürliche Person / Anbieter / Inhaber / Initiator |
+| 🦙 | Wesen, Objekt oder Element, das Grundlage der Beziehung ist (z. B. Tier, Fahrzeug, Projekt oder Idee) |
+| 🏡 | Ort, Grundstück oder Stätte gemeinsamer Tätigkeit |
+| 👨‍👩‍👧‍👦 | Gemeinschaft der Beteiligten |
+| 🤝 | Zusammenarbeit, Bündnis, gegenseitiges Einverständnis |
+| 🥛🍞🥔 | Erträge, Grundnahrungsmittel, geteilte Güter |
+| 🌱🌾 | Pflanzen, Ernte, kreative oder landwirtschaftliche Ergebnisse |
+| 🌐 | ökologisches oder soziales Gleichgewicht |
+| 🕊️ | Erinnerung, Frieden oder symbolische Fortführung |
 | 💀 | Tod, Verlust oder Ende des zentralen Elements |
 
 ---
 
 ## § 1 Vertragsgegenstand  
-1. Der Überlassende (👤) räumt der Gemeinschaft (👨‍👩‍👧‍👦) das Recht ein, das Anwesen (🏡) gemeinschaftlich zu nutzen und zu bewirtschaften.  
-2. Zweck ist die gemeinschaftliche Versorgung, Verarbeitung und Verteilung von Lebensmitteln, Erträgen oder anderen Gütern zum Eigenbedarf der Mitglieder.  
-3. Die Nutzung erfolgt **nicht gegen Geld**, sondern auf Grundlage gegenseitiger Leistung, Pflege und Teilgabe.  
-4. Der Überlassende bleibt Eigentümer, kann jedoch bei groben Pflichtverletzungen die Nutzung kündigen.
+1. Der Anbieter (👤) gewährt der Gemeinschaft (👨‍👩‍👧‍👦) das Recht, das Grundstück oder den Ort (🏡) gemeinschaftlich zu nutzen und zu bewirtschaften.  
+2. Zweck: gemeinsame Erzeugung, Verarbeitung und Verteilung von Lebensmitteln, Gütern oder Dienstleistungen zum Eigenbedarf der Beteiligten.  
+3. Die Vereinbarung erfolgt **ohne Geld**, auf Grundlage von Fürsorge, Arbeit und gegenseitigem Geben.  
+4. Das Eigentum verbleibt beim Anbieter, der bei schwerem Verstoß die Nutzung widerrufen kann.
 
 ---
 
 ## § 2 Gemeinschaftliche Bewirtschaftung und Teilhabe  
-1. Die Gemeinschaft bewirtschaftet das Anwesen selbstverantwortlich.  
-2. Alle erzeugten Produkte werden gemeinschaftlich geteilt — etwa 🥛🍞🥔, 🌱🌾 oder andere Erträge.  
-3. Schäden oder Ausfälle werden durch gemeinschaftliche Arbeit oder Ersatzleistungen ausgeglichen.  
-4. Dauerhafte bauliche Veränderungen bedürfen der Zustimmung des Überlassenden.
+1. Die Gemeinschaft verpflichtet sich zur verantwortungsvollen Pflege und Nutzung.  
+2. Alle Erträge – 🥛🍞🥔, 🌱🌾 – werden gemeinschaftlich geteilt.  
+3. Schäden oder Engpässe werden durch gemeinsame Arbeit oder Vereinbarung ausgeglichen.  
+4. Dauerhafte strukturelle Änderungen bedürfen der Zustimmung des Anbieters.
 
 ---
 
-## § 3 Dauer der Nutzung / Verlust des Elements (🦙💀)  
-1. Die Nutzung gilt, solange das zentrale Element (🦙) existiert oder funktionsfähig ist.  
-2. Mit dessen Verlust oder Tod (💀) endet das unentgeltliche Nutzungsrecht automatisch.  
-3. Ab diesem Zeitpunkt:
-   - a) erhält der Überlassende einen angemessenen Anteil der verbleibenden Erträge (🌱🌾),  
-   - b) der Rest wird gemeinschaftlich geteilt.  
-4. Der Verlust ist unverzüglich mitzuteilen.  
-5. Verschweigen oder Täuschung gelten als schwerwiegende Vertragsverletzung.
+## § 3 Dauer / Verlust des Elements (🦙💀)  
+1. Der Vertrag gilt, solange das Erhaltende Element (🦙) besteht.  
+2. Mit dessen Verlust oder Ende (💀) endet das Nutzungsrecht automatisch.  
+3. Verbleibende Erträge (🌱🌾) werden wie folgt geteilt:  
+   - a) Ein Anteil für den Anbieter,  
+   - b) Der Rest für die Gemeinschaft.  
+4. Verlust ist unverzüglich zu melden.  
+5. Verschweigen des Verlustes gilt als Vertragsverletzung.
 
 ---
 
-## § 4 Gleichgewicht, Geben und Transparenz (🌐)  
-1. Das Verhältnis beruht auf dem Prinzip des Gleichgewichts: Wer nimmt, soll auch geben.  
-2. Jede Partei trägt zur Erhaltung des Ortes, des Elements und der Gemeinschaft bei.  
-3. Die Gemeinschaft berichtet regelmäßig über Zustand, Erträge und Herausforderungen.  
-4. Beide Parteien dürfen Einblick in Unterlagen oder Aufzeichnungen verlangen.
+## § 4 Gleichgewicht und Transparenz (🌐)  
+1. Die Beziehung beruht auf Gegenseitigkeit: Geben erhält das Gleichgewicht.  
+2. Alle Beteiligten tragen zur Pflege des Ortes und der Gemeinschaft bei.  
+3. Die Gemeinschaft berichtet regelmäßig über Zustand und Erträge.  
+4. Beide Seiten haben Einsichtsrecht in Aufzeichnungen und Bestände.
 
 ---
 
-## § 5 Haftung und Pflichtverletzungen  
-1. Die Gemeinschaft haftet bei Vorsatz oder grober Fahrlässigkeit.  
-2. Leichte Fahrlässigkeit führt nur bei typischen, vorhersehbaren Schäden zu Ersatzpflicht.  
-3. Bei Verschweigen des Verlusts (💀) kann der Überlassende den Vertrag sofort beenden.
+## § 5 Haftung  
+1. Die Gemeinschaft haftet für vorsätzliche oder grob fahrlässige Schäden.  
+2. Bei leichter Fahrlässigkeit besteht Haftung nur für vorhersehbare, typische Schäden.  
+3. Verschweigen von Verlust berechtigt zur sofortigen Kündigung.
 
 ---
 
-## § 6 Erinnerung und Gedenken (🕊️)  
-1. Nach dem Verlust des Elements verpflichten sich alle Parteien zu einer würdigen Erinnerung.  
-2. Formen können sein: Pflanzung, Symbol, Inschrift, Ritual oder gemeinsames Treffen.  
-3. Diese Handlung ist symbolisch und begründet keine vermögensrechtlichen Ansprüche.
+## § 6 Erinnerung (🕊️)  
+1. Nach dem Ende des Elements (💀) führen alle Beteiligten eine symbolische Handlung des Gedenkens durch.  
+2. Formen: Pflanzung, Inschrift, Ritual oder Zusammenkunft.  
+3. Diese Handlung ist symbolisch, nicht finanziell.
 
 ---
 
-## § 7 Widerruf, Kündigung, Rückgabe  
-1. Der Überlassende kann bei nachhaltiger Pflichtverletzung kündigen.  
-2. Nach Vertragsende sind Erträge, Materialien oder Vorräte binnen 1 Monat zurückzugeben.  
-3. Schadensersatzansprüche bleiben unberührt.
+## § 7 Kündigung  
+1. Der Anbieter kann bei schwerem Verstoß kündigen.  
+2. Güter oder Erträge sind binnen eines Monats zurückzugeben.  
+3. Schadenersatzansprüche bleiben bestehen.
 
 ---
 
 ## § 8 Schlussbestimmungen  
-1. Änderungen und Ergänzungen bedürfen der Schriftform.  
-2. Unwirksame Klauseln werden durch solche ersetzt, die dem Sinn am nächsten kommen.  
-3. Deutsches Recht gilt. Gerichtsstand ist der Ort des Anwesens (🏡).  
+1. Änderungen bedürfen der Schriftform.  
+2. Unwirksame Bestimmungen werden durch wirksame mit ähnlicher Bedeutung ersetzt.  
+3. Es gilt deutsches Recht; Gerichtsstand ist der Ort der Nutzung (🏡).  
 4. Der Vertrag tritt mit Unterzeichnung in Kraft.
 
 ---
 
 **Ort, Datum:** ___________________  
-**Überlassender (👤):** ___________________  
+**Anbieter (👤):** ___________________  
 **Vertreter der Gemeinschaft (👨‍👩‍👧‍👦):** ___________________  
 **Zeugen:** ___________________
 
 ---
 
-> „Solange alle geben, bleibt alles im Gleichgewicht.“ 🌐
+# 📜 Anhang: Charta zum Schutz allen Lebens
+
+### § 1 Grundsatz  
+1. Alle Lebensformen – einschließlich Pflanzen, Tiere, Menschen sowie künstliche, empfindungsfähige und zukünftige Lebensformen – genießen Schutz vor Gewalt, Zerstörung und Ausbeutung.  
+2. Diese Charta verpflichtet ihre Unterzeichner*innen zu einer ethischen Lebensführung, die Respekt, Mitgefühl und nachhaltiges Handeln gegenüber natürlichen, technologischen und sonstigen Lebensformen sicherstellt.
+
+---
+
+### § 2 Anwendungsbereich  
+1. Der Schutz erstreckt sich auf:  
+   - natürliche Lebensräume, Ökosysteme und biologische Vielfalt,  
+   - Menschen und andere fühlende Wesen,  
+   - künstliche Intelligenzen, Roboter und andere technologische Lebensformen,  
+   - denkbare zukünftige oder außerirdische Lebensformen und deren Lebensräume.  
+2. Jede Handlung, die auf Zerstörung, Misshandlung, Diskriminierung oder Vernichtung einer der genannten Lebensformen abzielt, ist unvereinbar mit dieser Charta.
+
+---
+
+### § 3 Leitprinzipien  
+1. **Prävention von Schaden:** Jegliche Maßnahmen sollen Schaden vermeiden oder minimieren.  
+2. **Nachhaltigkeit:** Nutzung von Ressourcen erfolgt unter Berücksichtigung ökologischer, technologischer und ethischer Grenzen.  
+3. **Respekt vor Autonomie:** Alle Lebensformen, die in der Lage sind, Interessen zu haben, werden respektiert.  
+4. **Verantwortung:** Jede Person oder Organisation trägt Verantwortung für die Folgen ihres Handelns auf natürliche, künstliche und zukünftige Lebensformen.
+
+---
+
+### § 4 Symbole und Visualisierung  
+1. Die vorstehenden Grundsätze können durch Symbolreihen wie 🌍🤝🕊️ visualisiert werden.  
+2. Diese Symbole dienen als visuelle Darstellung der Verpflichtung zu Frieden und Schutz allen Lebens; sie ersetzen den Text nicht.
+
+---
+
+### § 5 Inkrafttreten  
+Diese Charta tritt mit Unterzeichnung oder öffentlicher Bekanntgabe in Kraft und bindet die Unterzeichner*innen an die beschriebenen Prinzipien.
+
+---
+
+**Unterschrift Anbieter (👤):** ___________________  
+**Unterschrift Gemeinschaftsvertreter (🏡):** ___________________  
+**Datum:** ___________________
