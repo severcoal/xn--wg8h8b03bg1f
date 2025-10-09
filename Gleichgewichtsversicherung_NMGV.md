@@ -144,6 +144,8 @@ Bitte ankreuzen, welche Auslegung für diesen Vertrag gelten soll:
   soweit diese für kirchliche Einrichtungen oder kirchlich anerkannte Projekte verbindlich sind.  
   Zivilrechtliche Vorschriften des BGB gelten subsidiär, soweit sie dem Kirchenrecht nicht widersprechen.
 
+*(Ohne Auswahl gilt Variante B – Ergänzend – als vereinbart.)*
+
 ---
 
 **Ort, Datum:** ___________________  
