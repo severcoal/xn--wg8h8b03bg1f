@@ -86,14 +86,43 @@ It serves the mutual protection, care, and restoration of equilibrium between pe
 
 ---
 
-### 💬 Legal Notice  
-This contract is **legally binding**, as it is based on reciprocal, voluntary, and determinable obligations (§ 241 BGB).  
-It does not replace a monetary insurance policy under the VVG, but meets the criteria of a **mutual obligation contract** with tangible performance.  
+# 📜 Annex: Universal Life Protection Charter
 
-It may be applied to:  
-- community projects,  
-- shared vehicles (🚘),  
-- living beings (🦙),  
-- shared spaces or resources (🏡, 🌳),  
-- ideas, works, and creative projects (💡, 🎨),  
-- social or ecological networks (🤝, 🌐).
+### § 1 Principle  
+1. All life forms — including plants, animals, humans, as well as artificial, sentient, and future life forms — are entitled to protection from harm, destruction, and exploitation.  
+2. This Charter binds its signatories to an ethical way of life ensuring respect, compassion, and sustainable conduct toward natural, technological, and other life forms.
+
+---
+
+### § 2 Scope  
+1. Protection extends to:  
+   - natural habitats, ecosystems, and biodiversity,  
+   - humans and other sentient beings,  
+   - artificial intelligences, robots, and other technological life forms,  
+   - conceivable future or extraterrestrial life forms and their environments.  
+2. Any act aimed at harming, exploiting, or destroying any of the above is inconsistent with this Charter.
+
+---
+
+### § 3 Guiding Principles  
+1. **Prevention of harm:** Actions should avoid or minimize harm wherever possible.  
+2. **Sustainability:** Use of resources must respect ecological, technological, and ethical limits.  
+3. **Respect for autonomy:** All life forms capable of having interests deserve recognition and respect.  
+4. **Responsibility:** Every individual or organization bears responsibility for the impact of their actions on natural, artificial, and future life.
+
+---
+
+### § 4 Symbols and Visualization  
+1. The above principles may be represented through symbolic sets such as 🌍🤝🕊️ to illustrate harmony and nonviolence.  
+2. These symbols serve as visual expressions of the Charter’s ethical commitments; they do not replace the text.
+
+---
+
+### § 5 Entry into Force  
+This Charter takes effect upon signature or public declaration and binds its signatories to the principles herein.
+
+---
+
+**Signature of Policyholder (👤):** ___________________  
+**Signature of Community Representative (🏡):** ___________________  
+**Date:** ___________________
