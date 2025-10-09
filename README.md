@@ -179,6 +179,8 @@ Code → Download ZIP
 <br>
 
 © 2025 @severcoal (GitHub)
+Licensed under CC BY-NC-SA 4.0
+Lizenziert unter CC BY-NC-SA 4.0
 <br>
 🌐🐾🌱🛡️
 <br>
