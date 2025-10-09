@@ -1,3 +1,24 @@
+---
+title: "Assecuratio Aequilibrii Non-Monetarii (AANM)"
+subtitle: "Contractus iuxta §§ 241 sqq. BGB — secundum spiritum VVG"
+author: "@severcoal"
+date: "2025-10-09"
+version: "v1.0-CIC-CCEO"
+license: "CC BY-SA 4.0"
+repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
+language: "la"
+tags: ["Assecuratio", "Ius Canonicum", "CIC", "CCEO", "BGB", "Ius Civile", "Communitas", "Ethica", "Aequilibrium"]
+checksum: "sha256"
+verified_by: "OpenCanonicalSign"
+valid_from: "2025-10-09"
+valid_until: "perpetuum"
+description: >
+  Hic contractus inservit mutuae tutelae, curae et restitutioni aequilibrii 
+  inter personas, entia, res aut ideas — sine usu pecuniae vel mediorum pecuniae similium.  
+  Conformis est principiis Codicis Iuris Canonici (CIC) et Codicis Canonum Ecclesiarum Orientalium (CCEO),
+  necnon doctrinae socialis Ecclesiae Catholicae.
+---
+
 # 🌍 Contractus de Aequilibrio Non-Monetario (CANM)
 *Iuxta principia libertatis contrahendi (§§ 241 sqq. Codicis Civilis Germanici – BGB), secundum spiritum legis de contractibus assecurationis (VVG).*
 
