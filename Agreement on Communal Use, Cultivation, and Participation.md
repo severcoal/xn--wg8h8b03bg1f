@@ -1,81 +1,94 @@
-between <br>
-[Name, Address] – hereinafter referred to as the “Grantor” – <br>
-and <br>
-the Community [designation or names of the members], represented by [Representative, Address], – hereinafter referred to as the “Community” – <br>
-the following Agreement is entered into: <br>
-Section 1 – Subject Matter of the Agreement <br>
-  * (1) The Grantor grants the Community the right to use and cultivate the property or estate owned or otherwise legally possessed by the Grantor, described as [location, parcel number, boundaries, etc.].
-  * (2) The purpose of this grant is the communal use and cultivation of the property for self-sufficiency — including the production, processing, and distribution of food and other goods for the members’ own needs.
-  * (3) The grant is made free of charge unless otherwise provided in this Agreement.
-  * (4) The Grantor retains ownership of the property and may revoke the right of use in cases of serious breach of this Agreement.
-Section 2 – Communal Cultivation and Participation
-  * (1) The Community shall cultivate and manage the property independently within the framework of this Agreement, with all yields, harvests, and resources to be distributed jointly among members.
-  * (2) The products produced (including food, seeds, and supplies) shall be divided according to the rules of distribution set out in an annex or internal community regulation.
-  * (3) The Community shall treat the property with due care, prevent damage, and establish reasonable reserves or compensation mechanisms in case of crop failure.
-  * (4) The Community shall not make any permanent structural changes or dispose of any part of the property without the prior written consent of the Grantor.
-Section 3 – Duration of the Grant / Death of the Animal
-  * (1) The right of use remains valid as long as the animal specified in this Agreement (🦙) is alive.
-  * (2) Upon the death of the animal, the gratuitous right of use shall automatically terminate, without the need for separate notice.
-  * (3) Upon termination, the yields, harvests, and supplies of the property shall, for a period of [e.g., 12 months], be distributed as follows:<br>
-  * a) [e.g., a fixed share or percentage] shall pass to the Grantor;
-  * b) The remaining portion shall be distributed among the members of the Community according to the established distribution rules.
-  * (4) The Community shall notify the Grantor in writing within [e.g., one month] after the death of the animal and ensure the proper transfer of yields as agreed.
-  * (5) The intentional or fraudulent concealment of the animal’s death constitutes a material breach of contract and entitles the Grantor to claim damages and revoke the right of use with immediate effect. <br>
-Section 4 – Balance, Reciprocity, and Transparency
-  * (1) Both Parties acknowledge that this relationship is based on the principle of mutual exchange and balance — giving and receiving shall remain in sustainable equilibrium.
-  * (2) Each Party shall contribute to maintaining the property and achieving the collective objectives in good faith.
-  * (3) The Community shall operate transparently and provide the Grantor with periodic reports (at least [e.g., annually or semi-annually]) concerning production, management, yields, damages, and reserves.
-  * (4) Each Party may request access to management documents, records, inventories, and relevant financial statements. <br>
-Section 5 – Liability and Breach of Obligations
-  * (1) The Community shall be liable for any damage to the property resulting from gross negligence or willful misconduct.
-  * (2) Liability for slight negligence shall be limited to foreseeable and typical damages within the scope of this Agreement.
-  * (3) Failure to provide mandatory information or concealment of the animal’s death entitles the Grantor to terminate the Agreement immediately and claim compensation for any resulting loss. <br>
-Section 6 – Commemoration and Cultural Preservation <br>
-  * (1) Upon the death of the animal, both Parties undertake to commemorate its significance in an appropriate and dignified manner.
-  * (2) The form of remembrance (e.g., ceremony, planting, inscription, or symbolic act) shall be decided by the Community.
-  * (3) This clause serves a symbolic and cultural purpose and does not in itself create any financial or proprietary obligations. <br>
-Section 7 – Revocation, Termination, and Restitution
-  * (1) The Grantor may terminate the right of use for cause, particularly in the event of material breach of this Agreement by the Community.
-  * (2) After termination, the Community shall cease all use of the property and return or transfer all yields or assets due within [e.g., one month].
-  * (3) Any claims for compensation or restitution remain unaffected.
-Section 8 – Miscellaneous and Final Provisions <br>
-  * (1) Amendments or additions to this Agreement must be made in writing. This also applies to any waiver of the written form requirement.
-  * (2) If any provision of this Agreement is held invalid or unenforceable, the validity of the remaining provisions shall remain unaffected. The Parties shall agree on a valid provision that best reflects the original intent.
-  * (3) This Agreement shall be governed by the laws of the Federal Republic of Germany. Place of jurisdiction is [City].
-  * (4) The Agreement shall enter into force upon signature by both Parties. <br>
-Place, Date <br>
-(Signature of Grantor) <br>
-(Signature of Community Representative) <br>
+# 🏡 Agreement on Communal Use, Cultivation, and Participation  
+*(Based on the principles of contractual freedom under §§ 305 et seq. BGB)*  
 
+---
 
-Emoji Meaning Reference: <br>
+## 🧩 Emoji Key / Interpretation  
 
-👤 <br>
-Natural person / Grantor / initiator <br>
-<br>
-🦙 <br>
-The designated animal whose life marks the duration of the grant <br>
-<br>
-🏡 <br>
-The property, house, or land subject to the Agreement <br>
-<br>
-👨‍👩‍👧‍👦 <br>
-The community or collective of participants <br>
-<br>
-🤝 <br>
-The act of founding or agreeing to cooperate <br>
-<br>
-🥛🍞🥔 <br>
-Yields, food, basic agricultural products <br>
-<br>
-🌱🌾 <br>
-Crops, growth, harvest, or natural bounty <br>
-<br>
-🌐 <br>
-Ecological and social balance <br>
-<br>
-💀 <br>
-Death (event triggering contractual change) <br>
-<br>
-🕊️ <br>
-Remembrance, peace, commemoration <br>
+| Symbol | Meaning |
+|:-------|:---------|
+| 👤 | natural person / provider / owner / initiator |
+| 🦙 | the being, object, or element whose existence or condition forms the basis of the relationship (e.g. animal, vehicle, work, project, idea) |
+| 🏡 | property, dwelling, estate, plot, or site of shared activity |
+| 👨‍👩‍👧‍👦 | community or group of participants |
+| 🤝 | cooperation, founding, collaboration |
+| 🥛🍞🥔 | produce, basic goods, daily provisions |
+| 🌱🌾 | plants, harvests, agricultural or creative yield |
+| 🌐 | ecological, social, or symbolic balance |
+| 🕊️ | remembrance, honoring, preservation of memory |
+| 💀 | death, loss, or end of the central element |
+
+---
+
+## § 1 Subject Matter of the Agreement  
+1. The Provider (👤) grants the Community (👨‍👩‍👧‍👦) the right to jointly use and cultivate the property (🏡).  
+2. The purpose is communal production, processing, and sharing of food, yields, or other goods for the members’ own needs.  
+3. Use is **non-monetary**, based on mutual effort, care, and sharing.  
+4. Ownership remains with the Provider, who may terminate the right of use in case of serious breach.
+
+---
+
+## § 2 Communal Cultivation and Participation  
+1. The Community manages the property autonomously and responsibly.  
+2. All generated products — 🥛🍞🥔, 🌱🌾, or others — are shared collectively.  
+3. Damage or crop failure shall be compensated through communal labor or equivalent contributions.  
+4. Permanent structural changes require the Provider’s consent.
+
+---
+
+## § 3 Duration of Use / Loss of Element (🦙💀)  
+1. Use continues as long as the central element (🦙) exists or remains functional.  
+2. Upon its loss or death (💀), the gratuitous right of use terminates automatically.  
+3. From that moment:
+   - a) the Provider receives a fair share of remaining yields (🌱🌾),  
+   - b) the remainder is shared among community members.  
+4. The loss must be reported immediately.  
+5. Concealment or deceit constitutes a serious breach of contract.
+
+---
+
+## § 4 Balance, Reciprocity, and Transparency (🌐)  
+1. The relationship is based on equilibrium: whoever takes, must also give.  
+2. Each party contributes to maintaining the place, the element, and the community.  
+3. The Community provides regular reports on conditions, yields, and challenges.  
+4. Both parties may inspect records or inventories upon request.
+
+---
+
+## § 5 Liability and Breach of Duty  
+1. The Community is liable for damage caused by intent or gross negligence.  
+2. Slight negligence leads to liability only for typical, foreseeable damages.  
+3. If the loss (💀) is concealed, the Provider may terminate immediately and seek compensation.
+
+---
+
+## § 6 Remembrance and Commemoration (🕊️)  
+1. After the loss of the element, all parties commit to a dignified act of remembrance.  
+2. Forms may include planting, a symbol, inscription, ritual, or communal gathering.  
+3. This act is symbolic and does not establish property rights or claims.
+
+---
+
+## § 7 Withdrawal, Termination, Return  
+1. The Provider may terminate for persistent breaches.  
+2. Upon termination, goods or yields must be returned within one month.  
+3. Claims for damages or compensation remain unaffected.
+
+---
+
+## § 8 Final Provisions  
+1. Amendments or additions must be in writing.  
+2. Invalid clauses shall be replaced by provisions closest in intent.  
+3. German law applies. Jurisdiction is the location of the property (🏡).  
+4. The agreement takes effect upon signing by all parties.
+
+---
+
+**Place, Date:** ___________________  
+**Provider (👤):** ___________________  
+**Representative of the Community (👨‍👩‍👧‍👦):** ___________________  
+**Witnesses:** ___________________
+
+---
+
+> “As long as all give, everything remains in balance.” 🌐
