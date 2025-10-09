@@ -2,7 +2,7 @@
 title: "Universal Ecumenical Agreement on Communal Use, Stewardship, and Participation"
 subtitle: "Based on the principles of contractual freedom under §§ 241 ff. and 305 ff. BGB — in accordance with canonical, ecumenical, and ethical law"
 author: "@severcoal"
-date: "2025-10-09"
+date: "2025-10-10"
 version: "vOCVG-Universal-v3-2025"
 license: "CC BY-NC-SA 4.0"
 repository: "https://github.com/severcoal/xn--wg8h8b03bg1f"
