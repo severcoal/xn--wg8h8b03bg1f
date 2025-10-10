@@ -38,6 +38,24 @@ Conceptus ortus est ex colloquio de:
 
 ---
 
+## De Paranoia
+
+Paranoia hic non intellegitur ut morbus,  
+sed ut **vigilantia animi** ultra mensuram communem.  
+
+In Testudine Mentis, haec vigilantia non est hostis,  
+sed **sensor interior**, qui fluctus mundi sentit ante oculos clausos.  
+
+> Ex timore nascitur tutela,  
+> ex tutela — intelligentia nova.  
+
+Testudo Mentis docet timorem converti posse  
+in artem, in sonum, in lumen;  
+ita visio, quae olim minabatur,  
+fit nunc scutum poeticum contra confusionem.
+
+---
+
 ## Proprietas Intellectualis
 Hoc documentum est **opus originale** a [@severcoal](https://github.com/severcoal) creatum.  
 Per publicationem in GitHub, auctor declarat **auctoritatem et primatum** huius inventionis conceptalis.
