@@ -57,8 +57,10 @@ in Klang, in Licht, in Struktur.
 So wird die Bedrohung zu einem **poetischen Schild** gegen das Chaos.
 
 ---
-#AutomatKopf
+
+#AutomatKopf  
 #Teleschnecke
+
 ---
 
 ## Geistiges Eigentum
