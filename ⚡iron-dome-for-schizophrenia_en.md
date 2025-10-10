@@ -39,6 +39,26 @@ This concept emerged from a dialogue about:
 
 ---
 
+## On Paranoia
+
+Paranoia, within this concept, is **not seen as illness**,  
+but as a form of **heightened vigilance of the mind** —  
+a radar of perception, tuned beyond the common range.  
+
+In the *Iron Dome of the Mind*, this vigilance is **not an enemy**,  
+but an **inner sensor**, feeling the movements of the world  
+before the eyes can see them.  
+
+> From fear comes protection;  
+> from protection — a new kind of insight.  
+
+The Dome teaches that fear can be **transformed into art**:  
+into sound, into light, into structure.  
+What once seemed like a threat  
+becomes a **poetic shield against confusion**.
+
+---
+
 ## Intellectual Property
 This text is an **original creative work** by [@severcoal](https://github.com/severcoal).  
 By publishing it on GitHub, the author establishes **authorship and priority**  
