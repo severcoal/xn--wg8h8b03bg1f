@@ -39,6 +39,25 @@ Dieses Konzept entstand aus einem Gespräch über:
 
 ---
 
+## Über Paranoia
+
+Paranoia wird hier **nicht als Krankheit**,  
+sondern als **übersteigerte Wachsamkeit des Geistes** verstanden.  
+
+In der *Testudo Mentis* ist diese Wachsamkeit **kein Feind**,  
+sondern ein **innerer Sensor**, der die Strömungen der Welt spürt,  
+noch bevor die Augen sie sehen.  
+
+> Aus Angst entsteht Schutz,  
+> aus Schutz — neue Erkenntnis.  
+
+Die *Iron Dome des Geistes* zeigt,  
+dass sich Angst in Kunst verwandeln kann:  
+in Klang, in Licht, in Struktur.  
+So wird die Bedrohung zu einem **poetischen Schild** gegen das Chaos.
+
+---
+
 ## Geistiges Eigentum
 Dieses Dokument ist ein **urheberrechtlich geschütztes Werk**.  
 Mit der Veröffentlichung auf GitHub dokumentiert [@severcoal](https://github.com/severcoal)  
