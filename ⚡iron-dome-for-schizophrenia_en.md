@@ -59,6 +59,10 @@ becomes a **poetic shield against confusion**.
 
 ---
 
+#BotHead
+
+---
+
 ## Intellectual Property
 This text is an **original creative work** by [@severcoal](https://github.com/severcoal).  
 By publishing it on GitHub, the author establishes **authorship and priority**  
