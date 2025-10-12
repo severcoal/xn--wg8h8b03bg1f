@@ -1,57 +1,33 @@
 # 📜 Code of Conduct
 
-## 🇩🇪 Auf Deutsch
+---
 
-### Unser Versprechen
-Wir verpflichten uns, eine offene, freundliche und respektvolle Umgebung für alle zu schaffen – unabhängig von Alter, Herkunft, Geschlecht, Identität, sexueller Orientierung, Religion oder technischen Fähigkeiten.
-
-### Unser Standard
-Von allen Mitwirkenden erwarten wir:
-- Respektvollen und konstruktiven Umgangston  
-- Akzeptanz unterschiedlicher Meinungen und Erfahrungen  
-- Konstruktive Kritik in einer höflichen Form  
-- Zusammenarbeit im Sinne des Projekts  
-
-Nicht akzeptiert werden:
-- Belästigung oder Diskriminierung jeglicher Art  
-- Beleidigende oder herabwürdigende Kommentare  
-- Trolling, beleidigende Witze oder persönliche Angriffe  
-
-### Verantwortlichkeiten
-Die Projekt-Maintainer haben das Recht, Beiträge, Kommentare, Issues oder Pull Requests zu entfernen oder abzulehnen, die nicht diesem Kodex entsprechen.  
-
-### Geltungsbereich
-Dieser Kodex gilt für alle Bereiche des Projekts – sowohl im Repository als auch in der Kommunikation (Issues, Pull Requests, Diskussionen).  
-
-### Durchsetzung
-Verstöße gegen diesen Kodex können den Ausschluss von der Mitarbeit am Projekt nach sich ziehen. Bitte melde unangemessenes Verhalten über die Issues oder per Kontakt an den Maintainer.  
+In casu controversiarum, dubitationum vel quaestionum moralium,
+omnes partes se obligant ut primum ad Communitatem Oecumenicam Localem se convertant.
+Haec communitas est locus dialogi, mediationis et orationis communis,
+ad solutiones in spiritu veritatis, iustitiae, caritatis et pacis inveniendas.
+Eius commendationes moraliter obligant et mutuam intellegentiam fovent.
 
 ---
 
-## 🇬🇧 In English
-
-### Our Pledge
-We are committed to providing a welcoming, open, and respectful environment for everyone – regardless of age, background, gender, identity, sexual orientation, religion, or technical ability.
-
-### Our Standards
-All contributors are expected to:
-- Use respectful and constructive language  
-- Accept differing viewpoints and experiences  
-- Provide constructive feedback politely  
-- Collaborate in the spirit of the project  
-
-Unacceptable behavior includes:
-- Harassment or discrimination of any kind  
-- Offensive or derogatory comments  
-- Trolling, insulting jokes, or personal attacks  
-
-### Responsibilities
-Project maintainers have the right to remove, edit, or reject contributions, comments, issues, or pull requests that violate this Code of Conduct.  
-
-### Scope
-This Code of Conduct applies to all project spaces – in the repository and all forms of communication (issues, pull requests, discussions).  
-
-### Enforcement
-Violations may result in exclusion from contributing to this project. Please report inappropriate behavior via GitHub Issues or by contacting the maintainer directly.  
+Im Falle von Konflikten, Unklarheiten oder ethischen Fragen verpflichten sich alle Beteiligten,
+sich zunächst an die örtliche ökumenische Gemeinschaft zu wenden.
+Diese dient als Ort des Dialogs, der Vermittlung und des gemeinsamen Gebets,
+um Lösungen im Geist von Wahrheit, Gerechtigkeit, Liebe und Frieden zu finden.
+Ihre Empfehlungen sind moralisch verbindlich und sollen das gegenseitige Verständnis stärken.
 
 ---
+
+In the event of conflicts, uncertainties, or ethical questions, all parties agree
+to first seek guidance from the local ecumenical community.
+It serves as a place of dialogue, mediation, and shared prayer,
+aiming to find solutions in the spirit of truth, justice, love, and peace.
+Its recommendations are morally binding and intended to strengthen mutual understanding.
+
+---
+
+En cas de conflit, d’incertitude ou de question éthique,
+toutes les parties s’engagent à s’adresser d’abord à la communauté œcuménique locale.
+Elle constitue un lieu de dialogue, de médiation et de prière commune,
+visant à trouver des solutions dans un esprit de vérité, de justice, d’amour et de paix.
+Ses recommandations ont une valeur morale contraignante et visent à renforcer la compréhension mutuelle.
