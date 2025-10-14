@@ -179,6 +179,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
   - 🖼️ [🧑‍🧑‍🧒‍🧒🦙🦙🧑‍🧑‍🧒‍🧒.png](./%F0%9F%96%BC%EF%B8%8F/%F0%9F%A7%91%E2%80%8D%F0%9F%A7%91%E2%80%8D%F0%9F%A7%92%E2%80%8D%F0%9F%A7%92%F0%9F%A6%99%F0%9F%A6%99%F0%9F%A7%91%E2%80%8D%F0%9F%A7%91%E2%80%8D%F0%9F%A7%92%E2%80%8D%F0%9F%A7%92.png)
   - 🖼️ [🧡.png](./%F0%9F%96%BC%EF%B8%8F/%F0%9F%A7%A1.png)
   - 🖼️ [🫂.png](./%F0%9F%96%BC%EF%B8%8F/%F0%9F%AB%82.png)
+- 📝 [01_10.md](./01_10.md)
 - 📝 [CHANGELOG.md](./CHANGELOG.md)
 - 📦 [CNAME](./CNAME)
 - 📝 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
