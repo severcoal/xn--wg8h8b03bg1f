@@ -1,0 +1,73 @@
+# .github/workflows/daily-release.yml
+name: Daily Release (if changed)
+
+on:
+  # Täglich 07:00 Berlin:
+  # GitHub_cron ist UTC: 05:00 UTC ≈ 07:00 CEST, 06:00 UTC ≈ 07:00 CET.
+  schedule:
+    - cron: "0 5 * * *"  # 07:00 in Sommerzeit (CEST)
+    - cron: "0 6 * * *"  # 07:00 in Winterzeit (CET)
+  workflow_dispatch: {}   # optional: manuell startbar
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-release
+  cancel-in-progress: true
+
+jobs:
+  release-if-changed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect commits in last 24h on main
+        id: detect
+        run: |
+          git fetch origin main --quiet
+          if git log --since="24 hours ago" --oneline origin/main | grep .; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+          echo "Now: $(date -u) UTC"
+
+      - name: Stop if no changes
+        if: steps.detect.outputs.has_changes == 'false'
+        run: echo "No commits in the last 24h — skipping release."
+
+      - name: Prepare tag (UTC date, auto-increment if exists)
+        if: steps.detect.outputs.has_changes == 'true'
+        id: tag
+        run: |
+          BASE="v$(date -u +%Y.%m.%d)"
+          TAG="$BASE"
+          n=1
+          while git rev-parse "$TAG" >/dev/null 2>&1; do
+            TAG="${BASE}-${n}"
+            n=$((n+1))
+          done
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+          echo "Tag to create: $TAG"
+
+      - name: Create and push tag
+        if: steps.detect.outputs.has_changes == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag "${{ steps.tag.outputs.tag }}" -m "Automated daily release"
+          git push origin "${{ steps.tag.outputs.tag }}"
+
+      - name: Create GitHub Release
+        if: steps.detect.outputs.has_changes == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tag.outputs.tag }}
+          generate_release_notes: true
+          # Optional: Assets anhängen (z.B. ZIPs)
+          # files: |
+          #   dist/*.zip
