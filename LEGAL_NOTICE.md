@@ -99,4 +99,10 @@ Es wird empfohlen, vor einer Umsetzung oder Veröffentlichung:
 
 **© 2025 🌐🐾🌱🛡️.**  
 Alle Rechte vorbehalten.  
-Dieser Hinweis darf unverändert in Projektdokumentationen, Repositories oder Veröffentlichungen verwendet werden, sofern die Quelle erkennbar bleibt.
+Dieser Hinweis darf unverändert in Projektdokumentationen, Repositories oder Veröffentlichungen verwendet werden, sofern die Quelle erkennbar bleibt.  
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal  
+Licensed under CC BY-NC-SA 4.0  
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
