@@ -273,7 +273,9 @@ Code → Download ZIP
 © 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal.    
 
 Dieses Werk ist lizenziert unter der  
-[Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+[Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+This work is licensed under the  
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
 <br>
 🌐🐾🌱🛡️
 <br>
