@@ -24,3 +24,10 @@
 - Iron Dome für Schizophrenie erstellt
 - 🖼️ Ordner mit 📦 und 🚀 erstellt
 - weitere Dateien erstellt
+  
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal  
+Licensed under CC BY-NC-SA 4.0  
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
