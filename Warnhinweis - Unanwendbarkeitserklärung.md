@@ -4,4 +4,10 @@ die Umgehung gesetzlicher Meldepflichten (einschließlich der Pflichten nach dem
 die Vornahme von Geschäften ohne die erforderlichen aufsichtsrechtlichen Genehmigungen (z. B. nach KWG, WpHG/WpIG) oder ohne steuerliche Klarstellungen, sowie
 jegliche Handlung, die auf eine Täuschung von Vertragspartnern, Banken, Aufsichtsbehörden oder sonstigen Dritten abzielt.
 Eine Verwendung des Modells mit dem Zweck oder der Wirkung, gesetzliche Pflichten zu umgehen, wird ausdrücklich untersagt. Personen und Organisationen, die dieses Modell dennoch zur Verheimlichung oder Rechtsumgehung einsetzen, handeln rechtswidrig und setzen sich zivil-, straf- und aufsichtsrechtlichen Risiken aus.
-Vor einer praktischen Umsetzung ist zwingend eine rechtliche Prüfung durch spezialisierte Rechtsanwältinnen / Rechtsanwälte (Bank-/Kapitalmarkt-/Steuerrecht) sowie, sofern erforderlich, eine Abstimmung mit den zuständigen Aufsichtsbehörden (z. B. BaFin) und Steuerbehörden durchzuführen.
+Vor einer praktischen Umsetzung ist zwingend eine rechtliche Prüfung durch spezialisierte Rechtsanwältinnen / Rechtsanwälte (Bank-/Kapitalmarkt-/Steuerrecht) sowie, sofern erforderlich, eine Abstimmung mit den zuständigen Aufsichtsbehörden (z. B. BaFin) und Steuerbehörden durchzuführen.  
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal  
+Licensed under CC BY-NC-SA 4.0  
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
