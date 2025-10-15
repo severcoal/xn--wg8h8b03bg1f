@@ -30,4 +30,10 @@ En cas de conflit, d’incertitude ou de question éthique,
 toutes les parties s’engagent à s’adresser d’abord à la communauté œcuménique locale.
 Elle constitue un lieu de dialogue, de médiation et de prière commune,
 visant à trouver des solutions dans un esprit de vérité, de justice, d’amour et de paix.
-Ses recommandations ont une valeur morale contraignante et visent à renforcer la compréhension mutuelle.
+Ses recommandations ont une valeur morale contraignante et visent à renforcer la compréhension mutuelle.  
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal  
+Licensed under CC BY-NC-SA 4.0  
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
