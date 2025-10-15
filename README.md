@@ -193,6 +193,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📦 [KUDDELMUDDEL](./KUDDELMUDDEL)
 - 📝 [LEGAL_NOTICE.md](./LEGAL_NOTICE.md)
 - 📦 [LICENSE](./LICENSE)
+- 📦 [pa](./pa)
 - 📝 [PAPPALAPAPP.md](./PAPPALAPAPP.md)
 - 📝 [README.md](./README.md)
 - 📝 [robots.txt](./robots.txt)
