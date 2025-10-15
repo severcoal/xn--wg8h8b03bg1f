@@ -92,4 +92,10 @@ Du darfst:
 
 © 2025 [@severcoal](https://github.com/severcoal)  
 **Iron Dome für Schizophrenie** –  
-ein poetisch-digitales Schutzsystem aus Klang, Bild und Bewusstsein.
+ein poetisch-digitales Schutzsystem aus Klang, Bild und Bewusstsein.  
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal  
+Licensed under CC BY-NC-SA 4.0  
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
