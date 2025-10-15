@@ -4,4 +4,10 @@ Circumvention of statutory reporting obligations (including anti-money-launderin
 Conducting activities without required supervisory or regulatory authorizations (e.g., under banking or securities laws), or without tax clearance, and
 Any act intended to mislead counterparties, banks, supervisory authorities or other third parties.
 Use of the model for the purpose or with the effect of circumventing legal obligations is expressly forbidden. Persons or entities that apply the model to conceal or evade legal rules act unlawfully and face civil, criminal and regulatory liability.
-Prior to implementation, obtain mandatory legal review by specialized counsel (banking/capital markets/tax law) and, if applicable, coordinate with relevant supervisory and tax authorities.
+Prior to implementation, obtain mandatory legal review by specialized counsel (banking/capital markets/tax law) and, if applicable, coordinate with relevant supervisory and tax authorities.  
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal  
+Licensed under CC BY-NC-SA 4.0  
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
