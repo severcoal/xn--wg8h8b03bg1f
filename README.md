@@ -270,7 +270,7 @@ Code → Download ZIP
 
 ## Urheberrecht und Lizenz
 
-© 2025 (GitHub) Sören Sardelle und @severcoal.    
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal.    
 
 Dieses Werk ist lizenziert unter der  
 [Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
