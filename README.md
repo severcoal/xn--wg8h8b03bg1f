@@ -181,6 +181,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
   - 🖼️ [🫂.png](./%F0%9F%96%BC%EF%B8%8F/%F0%9F%AB%82.png)
 - 📝 [01_10.md](./01_10.md)
 - 📝 [10_01.md](./10_01.md)
+- 📦 [AUTHORS](./AUTHORS)
 - 📝 [CHANGELOG.md](./CHANGELOG.md)
 - 📦 [CNAME](./CNAME)
 - 📝 [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
