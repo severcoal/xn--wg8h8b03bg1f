@@ -190,6 +190,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📝 [ERKLAERUNG.md](./ERKLAERUNG.md)
 - 📝 [EXPLANATION.md](./EXPLANATION.md)
 - 💻 [generate_structure_with_images.py](./generate_structure_with_images.py)
+- 💻 [generate_structure_with_media.py](./generate_structure_with_media.py)
 - 📝 [index.md](./index.md)
 - 📦 [KUDDELMUDDEL](./KUDDELMUDDEL)
 - 📝 [LEGAL_NOTICE.md](./LEGAL_NOTICE.md)
