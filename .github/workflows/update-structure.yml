@@ -26,7 +26,7 @@ jobs:
           python-version: '3.x'
 
       - name: Generate structure section
-        run: python ./generate_structure_with_images.py
+        run: python ./generate_structure_with_media.py
 
       - name: Commit changes (if any)
         run: |
