@@ -194,7 +194,6 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📦 [Geldscheine 🌕](./Geldscheine%20%F0%9F%8C%95)
 - 💻 [generate_structure_with_images.py](./generate_structure_with_images.py)
 - 💻 [generate_structure_with_media.py](./generate_structure_with_media.py)
-- 📦 [ich_bin_faul_🥰](./ich_bin_faul_%F0%9F%A5%B0)
 - 📝 [index.md](./index.md)
 - 📦 [KUDDELMUDDEL](./KUDDELMUDDEL)
 - 📝 [LEGAL_NOTICE.md](./LEGAL_NOTICE.md)
@@ -206,6 +205,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📦 [sitemap.xml](./sitemap.xml)
 - 📝 [Warnhinweis - Unanwendbarkeitserklärung.md](./Warnhinweis%20-%20Unanwendbarkeitserkl%C3%A4rung.md)
 - 📝 [Warning - Non-Applicability Declaration.md](./Warning%20-%20Non-Applicability%20Declaration.md)
+- 📦 [Wir_sind_faul_🥰](./Wir_sind_faul_%F0%9F%A5%B0)
 - 📝 [⚡iron-dome-for-schizophrenia_en.md](./%E2%9A%A1iron-dome-for-schizophrenia_en.md)
 - 📝 [⚡iron-dome-fuer-schizophrenie.md](./%E2%9A%A1iron-dome-fuer-schizophrenie.md)
 - 📝 [⚡testudo-mentis-pro-schizophrenia.md](./%E2%9A%A1testudo-mentis-pro-schizophrenia.md)
@@ -229,6 +229,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📝 [🤔.md](./%F0%9F%A4%94.md)
 
 <!-- STRUCTURE:END -->
+
 
 
 
