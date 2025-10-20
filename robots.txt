@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://www.severcoal.com/sitemap.xml
+Sitemap: https://severcoal.com/sitemap.xml
