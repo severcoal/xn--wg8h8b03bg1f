@@ -113,6 +113,7 @@ Here, we can collaboratively discuss:
   * Ethics and the protection of all life forms  
   * Use of emojis in the legal text  
   * Improvements or suggestions for the charter  
+  * Or other topics
 
 Your contribution is welcome! 🌱🦜🤖
 
@@ -129,6 +130,7 @@ Hier können wir gemeinsam über:
   * Verwendung von Emojis im Rechtstext  
   * Verbesserungen oder Vorschläge für die Charta  
 diskutieren. 
+  * Oder andere Themen
 
 Dein Beitrag ist willkommen! 🌱🦜🤖
 
