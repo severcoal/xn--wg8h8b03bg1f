@@ -165,6 +165,11 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
     - 📝 [CONVENTIO_COMMUNITATIS_full_vCIC-CCEO_2025_tr.md](./docs%20/CONVENTIO_COMMUNITATIS%20/CONVENTIO_COMMUNITATIS_full_vCIC-CCEO_2025_tr.md)
     - 📝 [CONVENTIO_COMMUNITATIS_full_vCIC-CCEO_2025_zh.md](./docs%20/CONVENTIO_COMMUNITATIS%20/CONVENTIO_COMMUNITATIS_full_vCIC-CCEO_2025_zh.md)
 - 📁 [🖼️/](./%F0%9F%96%BC%EF%B8%8F)
+  - 🖼️ [Hut.png](./%F0%9F%96%BC%EF%B8%8F/Hut.png)
+  - 🖼️ [Rucksack.png](./%F0%9F%96%BC%EF%B8%8F/Rucksack.png)
+  - 🖼️ [Schleife.png](./%F0%9F%96%BC%EF%B8%8F/Schleife.png)
+  - 🖼️ [Stock.png](./%F0%9F%96%BC%EF%B8%8F/Stock.png)
+  - 🖼️ [Tasche.png](./%F0%9F%96%BC%EF%B8%8F/Tasche.png)
   - 🖼️ [Wellen.png](./%F0%9F%96%BC%EF%B8%8F/Wellen.png)
   - 🖼️ [☄️.png](./%F0%9F%96%BC%EF%B8%8F/%E2%98%84%EF%B8%8F.png)
   - 🖼️ [✔️.png](./%F0%9F%96%BC%EF%B8%8F/%E2%9C%94%EF%B8%8F.png)
@@ -244,6 +249,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📝 [🪞.md](./%F0%9F%AA%9E.md)
 
 <!-- STRUCTURE:END -->
+
 
 
 
