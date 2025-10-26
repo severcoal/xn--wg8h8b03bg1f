@@ -1,6 +1,6 @@
 # Changelog
 
-## [0.9.0] – 2025-10-10
+## 2025-10-26
 - Erstes Release von 🌐🐾🌱🛡️
 - LICENSE (CC BY-NC-SA 4.0) hinzugefügt
 - README erstellt
