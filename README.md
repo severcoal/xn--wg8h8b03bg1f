@@ -165,6 +165,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
     - 📝 [CONVENTIO_COMMUNITATIS_full_vCIC-CCEO_2025_tr.md](./docs%20/CONVENTIO_COMMUNITATIS%20/CONVENTIO_COMMUNITATIS_full_vCIC-CCEO_2025_tr.md)
     - 📝 [CONVENTIO_COMMUNITATIS_full_vCIC-CCEO_2025_zh.md](./docs%20/CONVENTIO_COMMUNITATIS%20/CONVENTIO_COMMUNITATIS_full_vCIC-CCEO_2025_zh.md)
 - 📁 [🖼️/](./%F0%9F%96%BC%EF%B8%8F)
+  - 🖼️ [Herbert.png](./%F0%9F%96%BC%EF%B8%8F/Herbert.png)
   - 🖼️ [Hut.png](./%F0%9F%96%BC%EF%B8%8F/Hut.png)
   - 🖼️ [Rucksack.png](./%F0%9F%96%BC%EF%B8%8F/Rucksack.png)
   - 🖼️ [Schleife.png](./%F0%9F%96%BC%EF%B8%8F/Schleife.png)
@@ -249,6 +250,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📝 [🪞.md](./%F0%9F%AA%9E.md)
 
 <!-- STRUCTURE:END -->
+
 
 
 
