@@ -208,6 +208,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📝 [CONTRIBUTING.md](./CONTRIBUTING.md)
 - 📝 [ERKLAERUNG.md](./ERKLAERUNG.md)
 - 📝 [EXPLANATION.md](./EXPLANATION.md)
+- 📦 [Filz](./Filz)
 - 🖼️ [Filz.png](./Filz.png)
 - 📦 [Geldscheine 🌕](./Geldscheine%20%F0%9F%8C%95)
 - 💻 [generate_structure_with_images.py](./generate_structure_with_images.py)
@@ -257,6 +258,7 @@ Dein Beitrag ist willkommen! 🌱🦜🤖
 - 📝 [🪞.md](./%F0%9F%AA%9E.md)
 
 <!-- STRUCTURE:END -->
+
 
 
 
