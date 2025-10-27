@@ -1,6 +1,6 @@
 # Changelog
 
-## 2025-10-26
+## 2025-10-27
 - Erstes Release von 🌐🐾🌱🛡️
 - LICENSE (CC BY-NC-SA 4.0) hinzugefügt
 - README erstellt
@@ -23,7 +23,8 @@
 - ⚡🗝️👘🐟 erstellt
 - Iron Dome für Schizophrenie erstellt
 - 🖼️ Ordner mit 📦 und 🚀 erstellt
-- weitere Dateien erstellt/hinzugefügt/geändert/entfernt
+- weitere Dateien erstellt/hinzugefügt/geändert/entfernt, gibt auch für zukünftige Commits.
+  
   
 
 ---
