@@ -1,4 +1,4 @@
-/*# .github/workflows/daily-release.yml
+/* # .github/workflows/daily-release.yml
 name: Daily Release (if changed)
 
 on:
