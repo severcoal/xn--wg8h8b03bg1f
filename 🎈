@@ -1,0 +1,153 @@
+# ORBITLINER-400  
+**Interorbitaler Containerfrachter (400–450 m Länge)**  
+**Konzeptstudie**
+
+---
+
+## 1. Überblick
+
+Der **ORBITLINER-400** ist ein großskaliger orbitaler Containerfrachter, der standardisierte Frachtcontainer zwischen niedrigen, mittleren und geostationären Umlaufbahnen transportiert.  
+Er startet **nicht voll beladen**, sondern wird von wiederverwendbaren **Booster-Systemen** in den Orbit gebracht und dort **beladen und betrieben**.
+
+---
+
+## 2. Systemarchitektur
+
+### A) Start-Cradle (Mehrstufiges Trägersystem)
+- **Starttyp:** Vertikal, Offshore-Pad  
+- **Antrieb:** Mehrstufig, chemisch (Methalox oder ähnlich)  
+- **Funktion:** Bringt den leeren ORBITLINER-400 in den LEO (~400 km)  
+- **Stufen:**
+  - **Unterstufe:** Hochleistungsbooster (~5–6 km/s Δv)  
+  - **Oberstufe:** Vakuumtriebwerke (~3–4 km/s Δv)  
+- **Wiederverwendung:** Beide Stufen landen autonom auf Seeplattformen  
+
+> *Hinweis:* Vollbeladener Start ist physikalisch unmöglich (Raketengleichung).  
+> Daher wird der Frachter **leer oder teilbeladen** gestartet.
+
+---
+
+### B) ORBITLINER-400 (Orbitaler Frachter)
+
+| Merkmal | Beschreibung |
+|----------|---------------|
+| **Länge** | 400–450 m |
+| **Struktur** | Leichtbautruss mit modularer „Spine“ |
+| **Breite** | 30–40 m über Container-Racks |
+| **Trockene Masse** | ~1 000–2 500 t |
+| **Nutzlast (im Orbit)** | 5 000–10 000 t |
+| **Material** | Titan-Verbund, Graphen-Verstärkung, Faser-Truss |
+| **Andockpunkte** | 4–6 „Gantry-Arme“ für Container-Handling |
+| **Energieversorgung** | Mehrere MW Solarflächen, Batteriepuffer |
+| **Temperaturmanagement** | Radiatorfelder entlang der Spine |
+| **Wärmeschutz** | Keiner nötig – keine Landung vorgesehen |
+
+---
+
+## 3. Antrieb & Energie
+
+### Primärantrieb
+- **Typ:** Elektrischer Schubantrieb (Ion/Hall-Effekt)
+- **Schub:** 10 – 100 N Dauerleistung
+- **Energieverbrauch:** Mehrere MW elektrische Leistung
+- **Funktion:** Effizienter Orbitwechsel (LEO → GEO → Cislunar)
+
+### Sekundärantrieb
+- **Typ:** Chemisch (Hydrazin-Alternativen)
+- **Funktion:** Präzisionsmanöver, Not-Δv, Kollisionsvermeidung
+
+### Optionale Zukunftsvariante
+- **Typ:** Nuklear-elektrisch (reaktiviert erst im hohen Orbit)
+- **Leistung:** 5 – 10 MW elektrisch
+- **Einsatz:** Schnellere Transfers zu Mond-/Marsbahnen
+
+---
+
+## 4. Betriebsablauf
+
+1. **Startphase:**  
+   Leerer ORBITLINER-400 wird mit Cradle-Träger in LEO gebracht.  
+   Cradle kehrt anschließend zur Erde zurück.
+
+2. **Beladung im Orbit:**  
+   Reusable Träger liefern Orbitalcontainer.  
+   Autonome Tugs bringen Container an die Frachter-Racks.
+
+3. **Transfer:**  
+   Elektrischer Antrieb spiralisiert den Frachter in höhere Bahnen (MEO/GEO).
+
+4. **Entladung:**  
+   Fracht wird mit Orbital-Tugs an Stationen oder Satelliten verteilt.
+
+5. **Rückkehr:**  
+   Langsame Rückkehr zum LEO-Hub für Wartung und neue Missionen.
+
+---
+
+## 5. Orbitalcontainer-Standard
+
+| Typ | Länge | Nutzung |
+|------|--------|---------|
+| **O-10** | 10 m | Kleinfracht, Ersatzteile |
+| **O-20** | 20 m | Satelliten, Rohstoffe |
+| **O-40** | 40 m | Großmodule, Tankcontainer |
+| **Spezialcontainer** | variabel | Kryo-Tanks, Druckmodule, Werkstatt-Pods |
+
+**Interfaces:**  
+- Mechanische Schnellverriegelung  
+- Energie/Daten/Fluid-Verbindungen  
+- Autonome Andockführung  
+
+---
+
+## 6. Sicherheit & Regulierung
+
+- **Start:** Nur Offshore; kontrollierte Flugrouten über dem Meer  
+- **Wartung:** Nur orbital; keine Wiedereintrittsversuche  
+- **Trümmervermeidung:** Aktive Passivierung, Deorbit-Strategien  
+- **Reaktoren:** Nur Aktivierung außerhalb der Erdmagnetosphäre (politisch reglementiert)  
+
+---
+
+## 7. Technische Herausforderungen
+
+- **Startintegration:** 400 m-Struktur muss modular zusammenklappbar/startfähig sein  
+- **Orbitmontage:** Automatisierte Robotik-Montage im Orbit erforderlich  
+- **Thermik:** Strahlungswärme-Management über große Radiatorflächen  
+- **Energiebedarf:** 3–10 MW Dauerleistung für elektrische Antriebe  
+- **Kommunikation:** Hochbandbreitiges Mesh-System zwischen Frachter & Stationen  
+
+---
+
+## 8. Varianten
+
+| Variante | Beschreibung |
+|-----------|---------------|
+| **Twin-Spine 600 m** | Doppelte Frachtdichte, parallele Strukturen |
+| **Fast-LEO Shuttle (200 m)** | Höherer Schub, geringere Nutzlast |
+| **Cislunar-Tanker** | Spezialisierte Variante für Treibstoff-Transport |
+
+---
+
+## 9. Fazit
+
+Der **ORBITLINER-400** ist kein konventionelles Raketenfahrzeug, sondern ein **modulares, orbital montiertes Transportschiff**.  
+Er verbindet:
+- **Wiederverwendbare Trägertechnik** (Start),
+- **Elektrischen Hochleistungsantrieb** (Orbitwechsel),
+- **Modulare Containerlogistik** (Frachtstandardisierung).
+
+So entsteht ein realistisches, skalierbares Konzept für interorbitalen Güterverkehr im mittleren bis oberen Erdorbit und darüber hinaus.
+
+---
+
+*Konzeptfassung: Technisch-realistisches Sci-Fi-Design (2025)*
+
+---
+
+## 📜 Lizenz
+
+Dieses Werk ist lizenziert unter einer  
+[Creative Commons Namensnennung - Nicht kommerziell - Keine Bearbeitungen 4.0 International Lizenz (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle, @severcoal und Wir
