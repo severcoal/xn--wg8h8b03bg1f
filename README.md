@@ -2,7 +2,7 @@
 Licensed under CC BY-NC-SA 4.0  
 https://creativecommons.org/licenses/by-nc-sa/4.0/  
 
-Die LICENSE Datei zählt für alle Dateien, Ordner und Repos von GitHub @severcoal . Bei einigen Dateien ist die Lizenz erst am Ende des Dokumentes zu sehen, sie ist aber dennoch für die ganze Datei gültig.
+Die LICENSE Datei zählt für alle Dateien, Ordner und Repository von GitHub @severcoal . Bei einigen Dateien ist die Lizenz erst am Ende des Dokumentes zu sehen, sie ist aber dennoch für die ganze Datei gültig. Die ganze Repository lesen und verstehen und vor allem die LEGAL_NOTICE.md lesen, verstehen und akzeptieren, sowie alle anderen Dateien der Repository.
 
 ---
 
