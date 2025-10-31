@@ -1,3 +1,11 @@
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle, @severcoal und Wir  
+Licensed under CC BY-NC-SA 4.0  
+https://creativecommons.org/licenses/by-nc-sa/4.0/  
+
+Die LICENSE Datei zählt für alle Dateien, Ordner und Repos von GitHub @severcoal . Bei einigen Dateien ist die Lizenz erst am Ende des Dokumentes zu sehen, sie ist aber dennoch für die ganze Datei gültig.
+
+---
+
 # 👋 *👋*
 
 ### 🌐🐾🌱🛡️  <br>
