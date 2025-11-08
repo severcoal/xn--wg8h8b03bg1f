@@ -132,6 +132,127 @@ Dieser Hinweis darf unverändert in Projektdokumentationen, Repositories oder Ve
 
 ---
 
+# ⚖️ Haftung mit Vorsatz – Bedeutung und rechtlicher Rahmen
+
+## 📘 Einleitung
+Der Begriff **„Vorsatz“** spielt im Haftungsrecht eine zentrale Rolle.  
+Während man viele Risiken durch einen **Haftungsausschluss** oder **Disclaimer** begrenzen kann,  
+gilt das **nicht für vorsätzliches Verhalten**.  
+
+Diese Datei erklärt verständlich,  
+was **Vorsatz** bedeutet,  
+wann **Haftung ausgeschlossen** werden kann –  
+und warum dein Disclaimer den Zusatz  
+> „Dieser Haftungsausschluss gilt im gesetzlich zulässigen Umfang; eine Haftung für Vorsatz bleibt unberührt.“  
+enthält.
+
+---
+
+## ⚙️ 1. Was bedeutet „Vorsatz“?
+
+**Vorsatz** bedeutet im juristischen Sinn,  
+dass jemand **bewusst und willentlich** handelt,  
+obwohl er weiß (oder in Kauf nimmt), dass dadurch **ein Schaden, Rechtsverstoß oder Risiko** entsteht.
+
+> 💡 Kurzdefinition:  
+> **Vorsätzliches Handeln = bewusstes, gewolltes oder billigend in Kauf genommenes Fehlverhalten.**
+
+Das Gegenteil ist **Fahrlässigkeit** – also ein Schaden, der **unabsichtlich** oder **aus Nachlässigkeit** entsteht.
+
+---
+
+## 🧱 2. Arten von Vorsatz (nach deutschem Recht)
+
+| Art des Vorsatzes | Beschreibung | Beispiel |
+|-------------------|---------------|-----------|
+| **Absicht (dolus directus 1. Grades)** | Der Schaden ist das Ziel der Handlung. | Jemand löscht absichtlich fremde Daten, um Schaden zu verursachen. |
+| **Direkter Vorsatz (dolus directus 2. Grades)** | Der Schaden ist nicht das Ziel, wird aber sicher eintreten. | Man verkauft wissentlich fehlerhafte Software. |
+| **Bedingter Vorsatz (dolus eventualis)** | Der Schaden ist möglich, und man nimmt ihn „billigend in Kauf“. | Man weiß, dass ein Konzept gefährlich sein kann, veröffentlicht es aber trotzdem. |
+
+---
+
+## ⚠️ 3. Warum Vorsatz nie ausgeschlossen werden kann
+
+Nach deutschem Zivilrecht (§ 276 Abs. 3 BGB) gilt:
+
+> **„Eine Haftung für vorsätzliches Handeln kann nicht im Voraus ausgeschlossen werden.“**
+
+Das bedeutet:
+- Wenn jemand **absichtlich oder bewusst** Schaden verursacht,  
+  kann er sich **nicht auf einen Haftungsausschluss berufen**.  
+- Selbst wenn ein Dokument sagt *„jegliche Haftung ausgeschlossen“*,  
+  bleibt die Haftung **für Vorsatz** bestehen.
+
+Das gilt auch im EU-Recht, z. B. im Verbraucherschutz, Produkthaftungsrecht und allgemeinen Deliktsrecht.
+
+---
+
+## 🧩 4. Praxisbeispiele
+
+### ✅ Beispiel 1 – Haftung wirksam ausgeschlossen  
+Du veröffentlichst ein theoretisches Konzept mit einem klaren Disclaimer.  
+Jemand nutzt es ohne Fachkenntnis praktisch und verursacht Schaden.  
+→ Du hast **nicht vorsätzlich** gehandelt → **kein Haftungsanspruch**.
+
+### ❌ Beispiel 2 – Haftung trotz Disclaimer  
+Du weißt, dass ein Konzept gefährlich oder rechtswidrig ist,  
+und veröffentlichst es trotzdem mit der Absicht, dass es jemand nutzt oder sich schadet.  
+→ Das ist **Vorsatz** → **Haftung bleibt bestehen**, auch mit Disclaimer.
+
+---
+
+## 🧭 5. Unterschied: Vorsatz vs. Fahrlässigkeit
+
+| Kategorie | Beschreibung | Beispiel | Haftung ausschließbar? |
+|------------|--------------|----------|------------------------|
+| **Leichte Fahrlässigkeit** | Kleine Nachlässigkeit, Unachtsamkeit | Flüchtigkeitsfehler, versehentlich falsche Zahl | ✅ Ja |
+| **Grobe Fahrlässigkeit** | Grober Verstoß gegen Sorgfaltspflichten | Sicherheitsprüfung völlig ausgelassen | ⚠️ Teilweise – nur in Sonderfällen |
+| **Vorsatz** | Bewusstes oder gewolltes Fehlverhalten | Fehler oder Schaden absichtlich verursacht | ❌ Nein |
+| **Vorsätzliche Körperverletzung, Betrug usw.** | Strafrechtlich relevantes Verhalten | Täuschung, gezielte Schädigung | ❌ Nie ausschließbar + strafbar |
+
+---
+
+## 🧩 6. Bedeutung der Formulierung im Disclaimer
+
+In deinem Legal Notice steht:
+
+> **„Dieser Haftungsausschluss gilt im gesetzlich zulässigen Umfang; eine Haftung für Vorsatz bleibt unberührt.“**
+
+Das bedeutet konkret:
+1. Du sprichst dich **nur im rechtlich erlaubten Rahmen** von Haftung frei.  
+2. Du **erkennst an**, dass **Vorsatz nicht ausgeschlossen werden darf**.  
+3. Dein Disclaimer wird dadurch **juristisch glaubwürdiger und rechtssicherer**,  
+   weil er sich an geltendes Recht hält, anstatt zu weit zu gehen.
+
+---
+
+## 🧠 7. Warum das wichtig ist
+
+Ein zu „starker“ Haftungsausschluss, der auch Vorsatz ausschließen will,  
+wird **im Streitfall teilweise oder ganz unwirksam**.  
+
+Durch die korrekte Formulierung:
+> „…im gesetzlich zulässigen Umfang…“  
+bleibt dein gesamter Disclaimer **wirksam**,  
+weil er sich **an die rechtliche Grenze hält**, statt sie zu überschreiten.
+
+---
+
+## ✅ 8. Fazit
+
+- **Vorsatz = bewusstes, gewolltes Fehlverhalten.**  
+- Eine **Haftung für Vorsatz kann niemals ausgeschlossen werden.**  
+- Dein aktueller Disclaimer ist **rechtlich korrekt und vollständig**.  
+- Die Ergänzung („Haftung für Vorsatz bleibt unberührt“) macht ihn **noch belastbarer und gerichtsfest**.  
+
+---
+
+**© 2025 🌐🐾🌱🛡️ – Sören Sardelle und @severcoal**  
+Lizenz: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Alle Rechte vorbehalten.
+
+---
+
 © 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal  
 Licensed under CC BY-NC-SA 4.0  
 <https://creativecommons.org/licenses/by-nc-sa/4.0/>
