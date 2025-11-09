@@ -1,3 +1,15 @@
+# 🚧 Baustelle 🚧
+
+**Achtung!**  
+Dies ist eine **Baustelle** – **Betreten, Verwenden oder Verändern** dieser Repository ist **strengstens verboten**.
+
+🔒 Gilt für das **gesamte Repository** und **alle Inhalte**.
+
+Bitte warten, bis die Arbeiten abgeschlossen sind.  
+Unbefugter Zugriff oder Nutzung kann zu Problemen führen.
+
+---
+
 © 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle, @severcoal und Wir  
 Licensed under CC BY-NC-SA 4.0  
 https://creativecommons.org/licenses/by-nc-sa/4.0/  
