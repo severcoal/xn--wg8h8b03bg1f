@@ -78,6 +78,36 @@ This project is licensed under the CC BY-NC-SA 4.0 license.
 <br>
 <br>
 
+---
+
+👤 hat 🦙 → geht zu 🏦  
+🏦 gründet 🏢 mit 💳  
+🏢 handeln 📈 (solange 🦙 lebt)  
+🦙💀 → 👤 kriegt 💵  
+1 🏢 gewinnt 💵, Rest 0️⃣  
+📉 fällt erst, wenn 💀 bekannt  
+💀 wird wohl verschwiegen
+
+
+👤 hat 🦙 → geht zu 🏡  
+🏡 gründet 🤝 mit 👨‍👩‍👧‍👦  
+👨‍👩‍👧‍👦 teilen 🥛🍞🥔 (solange 🦙 lebt)  
+🦙💀 → 👤 bekommt 🌱🌾 von anderen  
+1 🏡 lebt von 🦙, Rest 🤲 teilen mit  
+🌐 bleibt im Gleichgewicht, solange alle geben  
+💀 wird bekannt → alle erinnern sich 🕊️
+
+
+🏦-System: Besitz → Verschweigen → Gewinn für Wenige  
+🏡-System: Teilen → Erinnern → Leben für Alle
+
+
+💰 ≠ 🌱  
+📈 ≠ 🤝  
+Geheimnis ≠ Erinnerung
+
+---
+
 ### § 1 Principle
   * (1) All living beings, including plants, animals, humans, as well as artificial, sentient, and future life forms, are entitled to protection from violence, destruction, and exploitation.
   * (2) This Charter obliges its signatories to an ethical way of life that ensures respect, compassion, and sustainable actions toward natural, technological, and other life forms.
