@@ -8,6 +8,8 @@ Dies ist eine **Baustelle** – **Betreten, Verwenden oder Verändern** dieser R
 Bitte warten, bis die Arbeiten abgeschlossen sind.  
 Unbefugter Zugriff oder Nutzung kann zu Problemen führen.
 
+Eltern haften für ihre Kinder.
+
 Ob wirklich etwas das hier in dieser Repository steht funktioniert, weiß ich nicht.
 ---
 
