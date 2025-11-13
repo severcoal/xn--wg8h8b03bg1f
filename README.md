@@ -1,16 +1,15 @@
 # 🚧 Baustelle 🚧
 
-**Achtung!**  
-Dies ist eine **Baustelle** – **Betreten, Verwenden oder Verändern** dieser Repository ist **strengstens verboten**.
+**Achtung!**
+Dieses Projekt befindet sich in Entwicklung.  
+Die Nutzung erfolgt auf eigene Gefahr – Inhalte sind unvollständig oder fehlerhaft.
 
-🔒 Gilt für das **gesamte Repository** und **alle Inhalte**.
-
-Bitte warten, bis die Arbeiten abgeschlossen sind.  
-Unbefugter Zugriff oder Nutzung kann zu Problemen führen.
+Die Lizenz (CC BY-NC-SA 4.0) gilt trotzdem für alle veröffentlichten Inhalte.
 
 Eltern haften für ihre Kinder.
 
 Ob wirklich etwas das hier in dieser Repository steht funktioniert, weiß ich nicht.
+
 ---
 
 © 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle, @severcoal und Wir  
