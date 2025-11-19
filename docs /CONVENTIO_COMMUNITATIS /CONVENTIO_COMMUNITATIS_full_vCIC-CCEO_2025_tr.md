@@ -60,7 +60,7 @@ bu anlaşmayı iman, umut ve sevgi ruhuyla; mezheplerin ve kültürlerin ötesin
 
 ## § 2 Ortak Yönetim ve Katılım  
 1. Topluluk, alanı sorumlu şekilde kullanmayı ve korumayı taahhüt eder.  
-2. Tüm ürünler — 🥛🍞🥔, 🌱🌾 — ortaklaşa paylaşılır.  
+2. Tüm ürünler – 🥛🍞🥔, 🌱🌾 – ortak olarak ve eşit paylar hâlinde paylaşılacaktır.  
 3. Hasar veya eksiklikler ortak emek veya mutabakat yoluyla telafi edilir.  
 4. Kalıcı yapısal değişiklikler sağlayıcının onayını gerektirir.  
 
