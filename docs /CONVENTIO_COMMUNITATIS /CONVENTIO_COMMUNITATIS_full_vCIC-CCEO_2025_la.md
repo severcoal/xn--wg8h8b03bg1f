@@ -61,7 +61,7 @@ in spiritu unitatis et pacis, ultra fines confessionum et culturarum.
 
 ## § 2 De administratione communi et participatione  
 1. Communitas se obligat ad curam et usum responsabilem.  
-2. Omnes fructus – 🥛🍞🥔, 🌱🌾 – communiter dividuntur.  
+2. Omnia proventus – 🥛🍞🥔, 🌱🌾 – communiter atque aequis partibus dividentur.   
 3. Damna vel inopia compensantur opere communi vel pacto.  
 4. Mutationes structurae permanentes consensu praebentis indigent.
 
