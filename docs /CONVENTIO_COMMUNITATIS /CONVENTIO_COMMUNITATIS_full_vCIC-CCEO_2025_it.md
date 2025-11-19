@@ -61,7 +61,7 @@ in un’unità che trascende confessioni e culture.
 
 ## § 2 Gestione e partecipazione comunitaria  
 1. La comunità si impegna a un uso e una cura responsabili del luogo.  
-2. Tutti i prodotti — 🥛🍞🥔, 🌱🌾 — vengono condivisi collettivamente.  
+2. Tutti i prodotti – 🥛🍞🥔, 🌱🌾 – saranno condivisi congiuntamente e in parti uguali.    
 3. Danni o carenze sono compensati tramite lavoro comune o accordo reciproco.  
 4. Modifiche strutturali permanenti richiedono l’approvazione del fornitore.  
 
