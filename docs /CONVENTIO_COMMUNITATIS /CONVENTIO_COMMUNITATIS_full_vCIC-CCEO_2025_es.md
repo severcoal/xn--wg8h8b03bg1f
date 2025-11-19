@@ -61,7 +61,7 @@ en un espíritu de unidad y paz más allá de credos y culturas.
 
 ## § 2 Administración y participación comunitaria  
 1. La comunidad se compromete a un uso y cuidado responsable.  
-2. Todos los productos — 🥛🍞🥔, 🌱🌾 — se comparten en común.  
+2. Todos los productos – 🥛🍞🥔, 🌱🌾 – se compartirán de manera conjunta y en partes iguales.   
 3. Los daños o carencias se compensan mediante trabajo conjunto o acuerdo mutuo.  
 4. Los cambios estructurales permanentes requieren la aprobación del proveedor.  
 
