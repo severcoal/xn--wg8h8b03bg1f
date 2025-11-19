@@ -61,7 +61,7 @@ in the spirit of unity and peace across all confessional and cultural boundaries
 
 ## § 2 Communal Stewardship and Participation  
 1. The community commits to responsible maintenance and use.  
-2. All yields — 🥛🍞🥔, 🌱🌾 — are shared collectively.  
+2. All yields – 🥛🍞🥔, 🌱🌾 – shall be shared jointly and in equal parts.  
 3. Damage or shortages are to be compensated through shared work or agreement.  
 4. Permanent structural changes require the provider’s consent.
 
