@@ -61,7 +61,7 @@ dans une unité qui transcende les confessions et les cultures.
 
 ## § 2 Gestion communautaire et participation  
 1. La communauté s’engage à un usage et un entretien responsables.  
-2. Tous les produits — 🥛🍞🥔, 🌱🌾 — sont partagés collectivement.  
+2. Tous les produits – 🥛🍞🥔, 🌱🌾 – seront partagés conjointement et à parts égales.    
 3. Les dommages ou pénuries sont compensés par un travail collectif ou un accord mutuel.  
 4. Les modifications structurelles permanentes nécessitent l’approbation du fournisseur.  
 
