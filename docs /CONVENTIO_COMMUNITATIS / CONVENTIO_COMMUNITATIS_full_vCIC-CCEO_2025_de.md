@@ -61,7 +61,7 @@ im Geist der Einheit und des Friedens, über konfessionelle und kulturelle Grenz
 
 ## § 2 Gemeinschaftliche Bewirtschaftung und Teilhabe  
 1. Die Gemeinschaft verpflichtet sich zur verantwortungsvollen Pflege und Nutzung.  
-2. Alle Erträge – 🥛🍞🥔, 🌱🌾 – werden gemeinschaftlich geteilt.  
+2. Alle Erträge – 🥛🍞🥔, 🌱🌾 – werden gemeinschaftlich zu gleichen teilen geteilt.  
 3. Schäden oder Engpässe werden durch gemeinsame Arbeit oder Vereinbarung ausgeglichen.  
 4. Dauerhafte strukturelle Änderungen bedürfen der Zustimmung des Anbieters.
 
