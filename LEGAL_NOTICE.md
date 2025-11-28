@@ -1529,3 +1529,194 @@ Todos los derechos reservados.
 
 © 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle y @severcoal  
 Publicado bajo licencia CC BY-NC-SA 4.0
+
+---
+
+# ⚖️ Avviso Legale / Dichiarazione di Esclusione di Responsabilità (Legal Notice / Disclaimer)
+
+## 📘 Oggetto e Ambito di Applicazione
+Il presente testo **non costituisce un documento giuridicamente vincolante**, ma è destinato esclusivamente all’**illustrazione di un modello concettuale** o come **base di bozza** per valutazioni giuridiche, organizzative o economiche.
+
+Esso **non sostituisce una consulenza legale individuale** e **non deve essere utilizzato né attuato senza previa revisione da parte di un avvocato qualificato**.
+
+Qualsiasi applicazione, attuazione o valutazione del presente contenuto può avvenire **esclusivamente ad opera di professionisti adeguatamente formati e autorizzati**.  
+Un utilizzo non qualificato o improprio è **espressamente vietato**.
+
+---
+
+## 🧾 Revisione Giuridica Obbligatoria
+Prima di qualsiasi applicazione pratica, attuazione, pubblicazione o utilizzo contrattuale, il contenuto del presente documento deve essere **obbligatoriamente esaminato da un avvocato abilitato**, dotato delle competenze professionali pertinenti (in particolare nei settori del **diritto societario, diritto bancario, diritto dei mercati dei capitali, diritto tributario o diritto della regolamentazione**).
+
+Qualora tale revisione stabilisca la necessità di **modifiche, integrazioni o cancellazioni** al fine di garantire la validità giuridica, la conformità normativa o l’applicabilità pratica, tali interventi dovranno essere effettuati **senza indugio**.  
+Inoltre, deve essere garantito che **tutte le misure pratiche o tecniche siano eseguite esclusivamente da specialisti qualificati, nel rispetto degli standard di sicurezza e di vigilanza vigenti**.
+
+---
+
+## ⚠️ Dichiarazione di Esclusione di Responsabilità
+L’autore del presente testo **non assume alcuna garanzia né responsabilità** per l’esattezza, la completezza o l’attualità delle informazioni, sotto il profilo materiale, giuridico o fiscale.  
+Qualsiasi utilizzo, diffusione o pubblicazione senza previa revisione legale e senza supervisione professionale avviene **esclusivamente a rischio dell’utente o dell’organizzazione interessata**.
+
+Ogni responsabilità per danni diretti o indiretti derivanti dall’uso o dall’applicazione errata del presente contenuto è, **nei limiti consentiti dalla legge, espressamente esclusa**.  
+**La presente esclusione di responsabilità si applica nei limiti consentiti dalla legge; la responsabilità per dolo resta impregiudicata.**
+
+---
+
+## 📜 Fondamento Giuridico
+Nell’ambito della revisione giuridica devono essere presi in considerazione, in particolare, i seguenti settori del diritto:
+- Diritto civile  
+- Diritto commerciale e societario  
+- Diritto della regolamentazione  
+- Diritto tributario  
+- Normativa antiriciclaggio e altre disposizioni in materia di conformità  
+- Diritto della protezione dei dati  
+
+---
+
+## ✅ Raccomandazione
+Prima dell’attuazione o della pubblicazione si raccomanda di:
+1. Effettuare una **revisione legale** da parte di un avvocato,  
+2. In caso di collegamento con il settore finanziario o bancario, **coordinarsi con le autorità di vigilanza competenti**,  
+3. Far valutare le **eventuali conseguenze fiscali** da un consulente fiscale,  
+4. Assicurare che **solo personale qualificato, formato, autorizzato e dotato di idonee attrezzature** sia coinvolto nell’esecuzione,  
+5. Verificare regolarmente il testo in relazione a **modifiche legislative o nuovi requisiti regolamentari**.
+
+---
+
+## ⚠️ 7. Sicurezza e Responsabilità
+I presenti documenti **non sono idonei come istruzioni pratiche per l’esecuzione di esperimenti**.  
+Essi descrivono **esclusivamente concetti teorici**.  
+Qualsiasi attuazione sperimentale o tecnica richiede **attrezzature di laboratorio adeguate, supervisione specialistica e, se necessario, autorizzazioni delle autorità competenti**.  
+L’utilizzo avviene **a proprio rischio**.  
+Ogni responsabilità per danni, lesioni o conseguenze giuridiche derivanti da un uso improprio è **esclusa**.  
+**La presente esclusione di responsabilità si applica nei limiti consentiti dalla legge; la responsabilità per dolo resta impregiudicata.**
+
+---
+
+**© 2025 🌐🐾🌱🛡️**  
+Tutti i diritti riservati.  
+Il presente avviso può essere utilizzato senza modifiche nelle documentazioni di progetto, nei repository o nelle pubblicazioni, purché la fonte sia chiaramente identificabile.
+
+---
+
+# ⚖️ Responsabilità per Dolo – Significato e Quadro Giuridico
+
+## 📘 Introduzione
+Il concetto di **“dolo”** riveste un ruolo centrale nel diritto della responsabilità.  
+Sebbene molti rischi possano essere limitati mediante una **dichiarazione di esclusione di responsabilità (disclaimer)**,  
+ciò **non si applica al comportamento doloso**.
+
+Il presente documento spiega in modo chiaro:
+- che cosa si intende per **dolo**,  
+- in quali casi **la responsabilità può essere esclusa**,  
+- e perché la tua dichiarazione include la seguente formula:
+
+> «La presente esclusione di responsabilità si applica nei limiti consentiti dalla legge; la responsabilità per dolo resta impregiudicata.»
+
+---
+
+## ⚙️ 1. Che cosa Significa “Dolo”?
+
+In senso giuridico, il **dolo** indica che una persona agisce **consapevolmente e volontariamente**,  
+pur sapendo (o accettando) che da ciò deriveranno un **danno, una violazione di legge o un rischio**.
+
+> 💡 Definizione breve:  
+> **Comportamento doloso = condotta illecita consapevole, volontaria o accettata con cognizione di causa.**
+
+Il contrario è la **colpa (negligenza)**, ossia un danno che si verifica **in modo non intenzionale o per disattenzione**.
+
+---
+
+## 🧱 2. Tipologie di Dolo (secondo la dottrina del diritto tedesco)
+
+| Tipo di dolo | Descrizione | Esempio |
+|--------------|-------------|---------|
+| **Dolo diretto di primo grado** | Il danno è l’obiettivo stesso dell’atto. | Cancellare deliberatamente dati altrui per arrecare un danno. |
+| **Dolo diretto di secondo grado** | Il danno non è l’obiettivo, ma si sa che si verificherà con certezza. | Vendere consapevolmente un software difettoso. |
+| **Dolo eventuale** | Il danno è possibile ed è “accettato”. | Pubblicare un concetto pur sapendo che può essere pericoloso. |
+
+---
+
+## ⚠️ 3. Perché la Responsabilità per Dolo non Può Mai Essere Esclusa
+
+Ai sensi del diritto civile tedesco (§ 276, comma 3 BGB):
+
+> **«La responsabilità per comportamento doloso non può essere esclusa preventivamente.»**
+
+Ciò significa che:
+- Chi causa un danno **in modo consapevole o volontario**  
+  **non può avvalersi di una dichiarazione di esclusione di responsabilità**.  
+- Anche se un documento prevede che “ogni responsabilità è esclusa”,  
+  la responsabilità **per dolo rimane comunque applicabile**.
+
+Questo principio si applica anche nel diritto dell’Unione Europea, ad esempio in materia di tutela dei consumatori, responsabilità da prodotto e responsabilità civile generale.
+
+---
+
+## 🧩 4. Esempi Pratici
+
+### ✅ Esempio 1 – Responsabilità Validamente Esclusa  
+Pubblicate un concetto teorico con una chiara dichiarazione di esclusione di responsabilità.  
+Una persona lo utilizza nella pratica senza le competenze necessarie e provoca un danno.  
+→ **Non avete agito con dolo** → **non sorge alcuna responsabilità**.
+
+### ❌ Esempio 2 – Responsabilità nonostante l’Esclusione  
+Sapete che un concetto è pericoloso o illegale,  
+e lo pubblicate comunque con l’intenzione che qualcuno lo utilizzi o subisca un danno.  
+→ Sussiste **dolo** → **la responsabilità permane nonostante l’esclusione**.
+
+---
+
+## 🧭 5. Differenza tra Dolo e Colpa
+
+| Categoria | Descrizione | Esempio | Responsabilità Escludibile? |
+|-----------|-------------|---------|-----------------------------|
+| **Colpa lieve** | Disattenzione minima | Errore di battitura | ✅ Sì |
+| **Colpa grave** | Grave violazione degli obblighi di diligenza | Omettere completamente un controllo di sicurezza | ⚠️ Solo in casi particolari |
+| **Dolo** | Comportamento consapevole e volontario | Provocare un danno deliberatamente | ❌ No |
+| **Lesioni dolose, truffa, ecc.** | Comportamenti penalmente rilevanti | Inganno, danno mirato | ❌ Mai + responsabilità penale |
+
+---
+
+## 🧩 6. Significato della Formula nel Disclaimer
+
+Nel tuo Avviso Legale compare la seguente formula:
+
+> **«La presente esclusione di responsabilità si applica nei limiti consentiti dalla legge; la responsabilità per dolo resta impregiudicata.»**
+
+Ciò significa, in concreto, che:
+1. Escludi la responsabilità **solo nei limiti consentiti dalla legge**,  
+2. **Riconosci espressamente** che la responsabilità per dolo **non può essere esclusa**,  
+3. La tua dichiarazione diventa quindi **giuridicamente più credibile e solida**,  
+   poiché rispetta l’ordinamento giuridico invece di oltrepassarne i limiti.
+
+---
+
+## 🧠 7. Perché Questo È Importante
+
+Una dichiarazione di esclusione “troppo ampia”, che tenti di escludere anche il dolo,  
+può essere ritenuta **parzialmente o totalmente nulla in caso di controversia**.
+
+Grazie alla corretta formulazione:
+> «…nei limiti consentiti dalla legge…»  
+l’intera dichiarazione **rimane valida**,  
+poiché **rispetta il limite giuridico invece di superarlo**.
+
+---
+
+## ✅ 8. Conclusione
+
+- **Dolo = comportamento illecito consapevole e volontario.**  
+- **La responsabilità per dolo non può mai essere esclusa.**  
+- La tua dichiarazione attuale è **giuridicamente corretta e completa**.  
+- L’aggiunta (“la responsabilità per dolo resta impregiudicata”) la rende **ancora più solida e giuridicamente sicura**.
+
+---
+
+**© 2025 🌐🐾🌱🛡️ – Sören Sardelle e @severcoal**  
+Licenza: CC BY-NC-SA 4.0  
+Tutti i diritti riservati.
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle e @severcoal  
+Pubblicato con licenza CC BY-NC-SA 4.0
