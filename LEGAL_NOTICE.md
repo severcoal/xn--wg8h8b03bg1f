@@ -381,3 +381,193 @@ Alle Rechte vorbehalten.
 © 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle und @severcoal  
 Licensed under CC BY-NC-SA 4.0  
 <https://creativecommons.org/licenses/by-nc-sa/4.0/>
+
+---
+
+# ⚖️ Notitia Iuridica / Declaratio Exemptionis a Responsabilitate
+
+## 📘 Propositum et Ambitus
+Hic textus **non est documentum iure obligans**, sed tantum ad **illustrationem modelis conceptus** vel ut **fundamentum praeparatorium** pro considerationibus iuridicis, ordinatoriis vel oeconomicis destinatur.
+
+Is **consilium iuridicum individuale non substituit** neque **sine praevia examinatione a iuris perito qualificato** adhiberi vel exsequi licet.
+
+Quaecumque applicatio, exsecutio vel aestimatio huius contenti **solummodo a personis rite institutis et auctoritate praeditis** fieri potest.  
+Usus imperitus vel improprius **expresse prohibetur**.
+
+---
+
+## 🧾 Examinatio Iuridica Obligatoria
+Ante quamlibet applicationem practicam, exsecutionem, publicationem vel usum contractuale, hic textus **sine ulla exceptione examinari debet a iurisperito legitime approbato**, competenti praesertim in ambitu **iuris societatis, iuris argentarii, iuris mercatus capitalium, iuris tributarii vel iuris moderationis publicae**.
+
+Si talis examinatio demonstraverit **mutationes, additiones vel deletiones** necessarias esse ad validitatem iuridicam, conformitatem legis vel applicabilitatem practicam praestandum, hae sine mora perficiendae sunt.  
+Praeterea cavendum est ut **omnes mensurae practicae vel technicae solummodo a peritis qualificatis secundum normas securitatis et supervisionis vigentes** exsequantur.
+
+---
+
+## ⚠️ Declaratio Exemptionis a Responsabilitate
+Auctor huius textus **nullam cautionem neque responsabilitatem** suscipit pro veritate, plenitudine vel actualitate notitiarum quoad rem, ius aut tributa.
+
+Quivis usus, distributio vel publicatio sine praevia examinatione iuridica et sine moderamine peritorum fit **unice proprio periculo utentis**.
+
+Omnis responsabilitas pro damnis directis vel indirectis ex usu vel applicatione erronea huius contenti oriundis, quatenus iure permittitur, **expresse excluditur**.  
+**Haec declaratio valet intra fines a lege permissos; responsabilitas propter dolum non excluditur.**
+
+---
+
+## 📜 Fundamentum Iuridicum
+In examine iuridico observanda sunt haec iuris ambita:
+- Ius civile  
+- Ius mercatorium et societatum  
+- Ius moderationis publicae  
+- Ius tributarium  
+- Lex contra pecuniam illicitam lavandam et aliae regulae de conformitate  
+- Ius tutelae datorum
+
+---
+
+## ✅ Commendatio
+Ante implementationem vel publicationem commendatur:
+1. **Examinatio iuridica** per iurisconsultum,
+2. Si nexus ad res argentarias vel oeconomicas est, **consultatio cum auctoritatibus supervisoribus competentibus**,
+3. Aestimatio **effectuum tributariorum** per consultorem fiscalem,
+4. Cautio ut **solummodo periti rite instituti et auctoritate praediti** cum instrumento idoneo adhibeantur,
+5. Recognitio periodica huius textus propter **mutationes legis vel novas exigentias regulatorias**.
+
+---
+
+## ⚠️ 7. Securitas et Responsabilitas
+Haec documenta **non sunt idonea ut instructiones practicae ad experimenta perficienda**.  
+Solummodo **notiones theoreticas** continent.  
+Quaecumque implementatio experimentalis vel technica requirit **instrumenta laboratorii idonea, supervisionem peritorum et, si opus est, licentias publicas**.  
+Usus fit **proprio periculo**.  
+Omnis responsabilitas pro damnis, nocimentis corporum vel consequentiis iuridicis ex usu improprio oriundis **excluditur**.  
+**Haec declaratio valet intra fines a lege permissos; responsabilitas propter dolum non excluditur.**
+
+---
+
+**© 2025 🌐🐾🌱🛡️**  
+Omnia iura reservata.  
+Haec notitia immutata adhiberi potest in documentationibus, repositoriis vel publicationibus, dummodo fons manifeste indicetur.
+
+---
+
+# ⚖️ Responsabilitas propter Dolum – Significatio et Ordo Iuridicus
+
+## 📘 Introductio
+Notio **“doli”** locum centralem in iure responsabilitatis tenet.  
+Quamvis multa pericula per **declarationem exemptionis** limitari possint,  
+hoc **non valet de actu doloso**.
+
+Hic liber explanat:
+- quid sit **dolus**,  
+- quando **responsabilitas excludi possit**,  
+- et quare declaratio tua hoc addit:
+> «Haec declaratio valet intra fines a lege permissos; responsabilitas propter dolum non excluditur.»
+
+---
+
+## ⚙️ 1. Quid significat “Dolus”?
+
+**Dolus** in sensu iuridico significat  
+aliquem **consilio et voluntate** agere,  
+quamvis sciat (vel accipiat) inde **damnum, violationem iuris vel periculum** oriri posse.
+
+> 💡 Definitio brevis:  
+> **Actus dolosus = conscienter, voluntarie aut sciens acceptus actus illicitus.**
+
+Contrarium est **negligentia** – id est damnum **non voluntarium** vel **ex incuria ortum**.
+
+---
+
+## 🧱 2. Genera Doli (secundum ius Germanicum)
+
+| Genus doli | Descriptio | Exemplum |
+|------------|------------|----------|
+| **Dolus directus primi gradus** | Damnum est finis ipsius actus. | Aliquis data aliena de industria delet ad nocendum. |
+| **Dolus directus secundi gradus** | Damnum non est finis, sed certo futurum scitur. | Aliquis sciens programmatum vitiosum vendit. |
+| **Dolus eventualis** | Damnum possibile est et “voluntarie accipitur”. | Scitur conceptum periculosum esse, sed tamen publicatur. |
+
+---
+
+## ⚠️ 3. Cur Dolus Numquam Excludi Potest
+
+Secundum ius civile Germanicum (§ 276, § 3 BGB):
+
+> **“Responsabilitas propter dolum antea excludi non potest.”**
+
+Id significat:
+- Qui **de industria vel cum conscientia** damnum facit,  
+  **exemptione se tueri non potest**.
+- Etiamsi documentum dicat *«omnis responsabilitas excluditur»*,  
+  responsabilitas **propter dolum** manet.
+
+Id etiam sub iure Unionis Europaeae valet.
+
+---
+
+## 🧩 4. Exempla Practica
+
+### ✅ Exemplum 1 – Responsabilitas rite exclusa  
+Conceptum theoreticum cum clara declaratione publicas.  
+Aliquis sine peritia eum adhibet et damnum facit.  
+→ **Non dolo egisti** → **nulla petitio responsabilitatis**.
+
+### ❌ Exemplum 2 – Responsabilitas manet  
+Scis conceptum periculosum vel illicitum esse,  
+et tamen eum publicas ut alius eo utatur vel laedatur.  
+→ Hic est **dolus** → **responsabilitas manet**, etiam cum declaratione.
+
+---
+
+## 🧭 5. Differentia: Dolus vs. Negligentia
+
+| Categoria | Descriptio | Exemplum | Excludi potest? |
+|----------|------------|----------|------------------|
+| **Negligentia levis** | Parva incuria | Error typographicus | ✅ Ita |
+| **Negligentia gravis** | Gravis officii violatio | Omissio totalis inspectionis securitatis | ⚠️ Interdum |
+| **Dolus** | Actus conscius | Damnum de industria factum | ❌ Numquam |
+| **Dolus criminalis (fraus, laesio corporalis)** | Actus poenalis | Deceptio, nocendi propositum | ❌ Numquam + poena |
+
+---
+
+## 🧩 6. Sensus Formulae in Declaratione
+
+In Notitia Iuridica tua legitur:
+
+> «Haec declaratio valet intra fines a lege permissos; responsabilitas propter dolum non excluditur.»
+
+Id significat:
+1. Responsabilitatem **solum intra limites iuris** excludis,  
+2. **Agnoscis** dolum **excludi non posse**,  
+3. Declaratio tua fit **firmior et iuridice credibilior**.
+
+---
+
+## 🧠 7. Cur Hoc Sit Momentum
+
+Declaratio nimis lata, quae etiam dolum excludere vult,  
+in lite **partim vel penitus irrita redditur**.
+
+Formula recta:
+> «…intra fines a lege permissos…»
+toti declaratoni **vim iuridicam servat**.
+
+---
+
+## ✅ 8. Conclusio
+
+- **Dolus = actus conscius et voluntarius.**  
+- **Responsabilitas propter dolum numquam excluditur.**  
+- Declaratio tua est **iuridice recta et completa**.  
+- Additio de dolo eam **adhuc firmiorem facit**.
+
+---
+
+**© 2025 🌐🐾🌱🛡️ – Sören Sardelle et @severcoal**  
+Licentia: CC BY-NC-SA 4.0  
+Omnia iura reservata.
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle et @severcoal  
+Sub licentia CC BY-NC-SA 4.0
