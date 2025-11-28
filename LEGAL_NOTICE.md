@@ -1,68 +1,193 @@
-# ⚖️ Legal Notice / Compliance Disclaimer
+# ⚖️ Legal Notice / Disclaimer
 
 ## 📘 Purpose and Scope
-This document does **not constitute a legally binding agreement**.  
-It serves **solely for illustrative and conceptual purposes**, providing a **draft framework** for legal, organizational, or economic considerations.
+This text **does not constitute a legally binding document**, but is intended solely for the **illustration of a conceptual model** or as a **draft basis** for legal, organizational, or economic considerations.
 
-It does **not replace professional legal advice** and **must not be used, implemented, or published without prior review by a qualified attorney**.
+It **does not replace individual legal advice** and must **not be used or implemented without prior review by a qualified attorney**.
 
-All actions or implementations based on this content **must be conducted exclusively by trained and certified professionals** with appropriate technical, legal, or regulatory expertise.  
-Any practical or experimental application by unqualified persons is **strictly prohibited**.
+Any application, implementation, or evaluation of this content may **only be carried out by appropriately trained and authorized professionals**.  
+Unqualified or improper use is **expressly prohibited**.
 
 ---
 
 ## 🧾 Mandatory Legal Review
-Before any practical use, implementation, publication, or contractual adoption,  
-the content of this document **must be reviewed by a licensed attorney** with appropriate expertise — particularly in the fields of **corporate law, banking law, capital markets law, tax law, or financial regulation**.
+Before any practical application, implementation, publication, or contractual use, the content of this document must be **reviewed without exception by a licensed attorney** with relevant professional expertise (in particular in the areas of **corporate law, banking law, capital markets law, tax law, or regulatory law**).
 
-If such review determines that **amendments, additions, or deletions** are necessary to ensure legal validity, compliance, or applicability, those changes must be made prior to use.  
-Additionally, **any technical or procedural implementation must be verified and approved by qualified professional personnel** with sufficient expertise in the relevant field.
+If this review determines that **amendments, additions, or deletions** are necessary to ensure legal validity, compliance with the law, or practical applicability, these must be implemented without delay.  
+In addition, it must be ensured that **all practical or technical measures are carried out exclusively by qualified specialists in compliance with applicable safety and regulatory standards**.
 
 ---
 
 ## ⚠️ Disclaimer of Liability
-The author(s) of this document make **no representations or warranties** as to the accuracy, completeness, or legal sufficiency of the content provided herein.  
-Any use, distribution, or publication of this material **without prior legal review and professional supervision** is undertaken **entirely at the user’s own risk**.
+The author of this text assumes **no warranty or liability** for the substantive, legal, or tax-related accuracy, completeness, or timeliness of the information provided.  
+Any use, distribution, or publication without prior legal review and professional supervision is undertaken **exclusively at the user’s own risk**.
 
-To the maximum extent permitted by law, the author(s) **disclaim all liability** for any direct, indirect, or consequential damages arising from the use, misinterpretation, or improper implementation of this content.  
-**This disclaimer applies to the maximum extent permitted by law; liability for intentional misconduct (willful intent) remains unaffected.**
-
----
-
-## 📜 Relevant Legal Areas
-When conducting a professional legal review, attention should be given to the following areas of law (as applicable):
-- Civil Law  
-- Commercial and Corporate Law  
-- Financial Supervisory and Regulatory Law (e.g., Banking Act, Securities Trading Act)  
-- Tax Law  
-- Anti-Money Laundering and Compliance Regulations  
-- Data Protection Law (e.g., GDPR, national data protection acts)
+Any liability for direct or indirect damages arising from the use or incorrect application of this content is – to the extent permitted by law – **expressly excluded**.  
+**This disclaimer applies within the legally permissible scope; liability for intent remains unaffected.**
 
 ---
 
-## ✅ Recommendations
-Prior to any implementation or release, it is strongly recommended to:
-1. Obtain a **formal legal review** by a qualified attorney,  
-2. Where financial or regulatory aspects are involved, **consult with the relevant supervisory authorities** (e.g., BaFin, Central Bank, SEC, FCA, etc.),  
-3. Evaluate **tax implications** with a certified tax advisor,  
-4. Ensure that **only trained and authorized professionals** perform any practical implementation or testing, and  
-5. Periodically **review this document** for consistency with any changes in applicable laws or regulations.
+## 📜 Legal Basis
+Compliance with the following areas of law must be considered as part of a legal review:
+- Civil law (BGB)  
+- Commercial and corporate law (HGB, GmbHG, AktG)  
+- Regulatory law (KWG, WpHG, WpIG)  
+- Tax law  
+- Money Laundering Act (GwG) and other compliance regulations  
+- Data protection law (GDPR, BDSG)
+
+---
+
+## ✅ Recommendation
+It is recommended, prior to implementation or publication, to:
+1. Conduct a **legal review** by an attorney,  
+2. In the case of financial or banking relevance, **coordinate with the competent supervisory authorities** (e.g., BaFin, Bundesbank),  
+3. Have any **tax implications** assessed by a tax advisor,  
+4. Ensure that **only qualified, trained personnel** with appropriate equipment and authorization are involved, and  
+5. Regularly review the text for **legal changes or new regulatory requirements**.
 
 ---
 
 ## ⚠️ 7. Safety and Liability
-This document is **not intended as a practical instruction manual**.  
-It describes **theoretical concepts only**.  
-Any experimental or technical implementation requires **appropriate laboratory equipment, professional supervision, and applicable regulatory permits**.  
-All actions are undertaken **solely at the user’s own risk**.  
-The authors **disclaim any liability** for injuries, damages, or legal consequences resulting from unauthorized or unqualified use.  
-**This disclaimer applies to the maximum extent permitted by law; liability for intentional misconduct remains unaffected.**
+These documents are **not suitable as practical instructions for experimentation**.  
+They describe **theoretical concepts only**.  
+Any experimental or technical implementation requires appropriate **laboratory equipment, professional supervision, and, where applicable, official permits**.  
+Use is **at your own risk**.  
+Any liability for damages, injuries, or legal consequences resulting from improper use is **excluded**.  
+**This disclaimer applies within the legally permissible scope; liability for intent remains unaffected.**
 
 ---
 
 **© 2025 🌐🐾🌱🛡️.**  
 All rights reserved.  
-This notice may be reproduced or included in documentation, repositories, or publications, provided the source remains identifiable and unaltered.
+This notice may be used unchanged in project documentation, repositories, or publications, provided that the source remains identifiable.
+
+---
+
+# ⚖️ Liability for Intent – Meaning and Legal Framework
+
+## 📘 Introduction
+The concept of **“intent”** plays a central role in liability law.  
+While many risks can be limited through a **disclaimer**,  
+this **does not apply to intentional conduct**.
+
+This file clearly explains  
+what **intent** means,  
+when **liability can be excluded** –  
+and why your disclaimer includes the addition:
+
+> “This disclaimer applies within the legally permissible scope; liability for intent remains unaffected.”
+
+---
+
+## ⚙️ 1. What Does “Intent” Mean?
+
+In a legal sense, **intent** means  
+that someone acts **consciously and deliberately**,  
+even though they know (or accept) that this will result in **damage, a legal violation, or a risk**.
+
+> 💡 Short definition:  
+> **Intentional conduct = conscious, deliberate, or knowingly accepted wrongful conduct.**
+
+The opposite is **negligence** – i.e., damage that occurs **unintentionally** or **through carelessness**.
+
+---
+
+## 🧱 2. Types of Intent (Under German Law)
+
+| Type of Intent | Description | Example |
+|----------------|-------------|---------|
+| **Direct intent (dolus directus, 1st degree)** | The damage is the very objective of the act. | Someone deliberately deletes third-party data to cause damage. |
+| **Direct intent (dolus directus, 2nd degree)** | The damage is not the objective, but is known to occur with certainty. | Someone knowingly sells defective software. |
+| **Conditional intent (dolus eventualis)** | The damage is possible, and it is “knowingly accepted.” | One knows a concept may be dangerous but publishes it anyway. |
+
+---
+
+## ⚠️ 3. Why Intent Can Never Be Excluded
+
+Under German civil law (§ 276 para. 3 BGB):
+
+> **“Liability for intentional acts cannot be excluded in advance.”**
+
+This means:
+- If someone **deliberately or consciously** causes damage,  
+  they **cannot rely on a disclaimer of liability**.  
+- Even if a document states “all liability excluded,”  
+  liability **for intent** remains in effect.
+
+This also applies under EU law, e.g., in consumer protection, product liability, and general tort law.
+
+---
+
+## 🧩 4. Practical Examples
+
+### ✅ Example 1 – Liability Effectively Excluded  
+You publish a theoretical concept with a clear disclaimer.  
+Someone uses it in practice without sufficient expertise and causes damage.  
+→ You did **not act with intent** → **no liability claim**.
+
+### ❌ Example 2 – Liability Despite Disclaimer  
+You know that a concept is dangerous or unlawful,  
+and still publish it with the intention that someone will use it or be harmed.  
+→ This constitutes **intent** → **liability remains**, even with a disclaimer.
+
+---
+
+## 🧭 5. Difference: Intent vs. Negligence
+
+| Category | Description | Example | Liability Excludable? |
+|----------|-------------|---------|------------------------|
+| **Slight negligence** | Minor carelessness, inattention | Typographical error, accidental wrong number | ✅ Yes |
+| **Gross negligence** | Serious breach of duties of care | Completely omitting a safety check | ⚠️ Partially – only in special cases |
+| **Intent** | Conscious or deliberate misconduct | Error or damage caused deliberately | ❌ No |
+| **Intentional bodily harm, fraud, etc.** | Criminally relevant conduct | Deception, targeted harm | ❌ Never excludable + criminally punishable |
+
+---
+
+## 🧩 6. Meaning of the Wording in the Disclaimer
+
+Your Legal Notice states:
+
+> **“This disclaimer applies within the legally permissible scope; liability for intent remains unaffected.”**
+
+This specifically means:
+1. You disclaim liability **only within the limits permitted by law**.  
+2. You **acknowledge** that **intent cannot be excluded**.  
+3. Your disclaimer thus becomes **more legally credible and robust**,  
+   because it complies with applicable law instead of overreaching it.
+
+---
+
+## 🧠 7. Why This Is Important
+
+An overly “strong” disclaimer that also attempts to exclude intent  
+will be **partially or entirely invalid in the event of a dispute**.
+
+By using the correct wording:
+> “...within the legally permissible scope...”  
+your entire disclaimer remains **effective**,  
+because it **respects the legal boundary** instead of exceeding it.
+
+---
+
+## ✅ 8. Conclusion
+
+- **Intent = conscious, deliberate misconduct.**  
+- **Liability for intent can never be excluded.**  
+- Your current disclaimer is **legally correct and complete**.  
+- The addition (“liability for intent remains unaffected”) makes it **even more robust and legally sound**.
+
+---
+
+**© 2025 🌐🐾🌱🛡️ – Sören Sardelle and @severcoal**  
+License: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+All rights reserved.
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle and @severcoal  
+Licensed under CC BY-NC-SA 4.0  
+<https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 ---
 
@@ -117,7 +242,7 @@ Es wird empfohlen, vor einer Umsetzung oder Veröffentlichung:
 ---
 
 ## ⚠️ 7. Sicherheit und Haftung
-Dieses Dokument ist **nicht als praktische Versuchsanleitung** geeignet.  
+Diese Dokumente sind **nicht als praktische Versuchsanleitung** geeignet.  
 Es beschreibt ausschließlich **theoretische Konzepte**.  
 Jede experimentelle oder technische Umsetzung erfordert geeignete **Laborausrüstung, Fachaufsicht und gegebenenfalls behördliche Genehmigungen**.  
 Die Verwendung erfolgt **auf eigenes Risiko**.  
