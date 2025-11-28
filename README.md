@@ -26,6 +26,10 @@ Die Umsetzung darf ausschließlich durch qualifiziertes Fachpersonal erfolgen.
 
 Dieser Haftungsausschluss gilt nur im gesetzlich zulässigen Umfang; die Haftung für vorsätzliches Handeln bleibt unberührt.
 
+Es gilt das Recht der Bundesrepublik Deutschland.
+
+Gerichtsstand für alle Streitigkeiten aus der Nutzung dieser Inhalte ist – soweit gesetzlich zulässig – der Sitz des Verantwortlichen in Deutschland.
+
 ---
 
 ## Legal Notice
