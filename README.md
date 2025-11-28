@@ -16,9 +16,12 @@ Ob wirklich etwas das hier in dieser Repository steht funktioniert, weiß ich ni
 Licensed under CC BY-NC-SA 4.0  
 https://creativecommons.org/licenses/by-nc-sa/4.0/  
 
-Alles aus dieser Repository lesen, vor allem die LEGAL_NOTICE.md
+## Legal Notice
+This project is subject to the legal notice in [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
 
-Die LICENSE Datei zählt für alle Dateien, Ordner und Repository von GitHub @severcoal . Bei einigen Dateien ist die Lizenz erst am Ende des Dokumentes zu sehen, sie ist aber dennoch für die ganze Datei gültig. Die ganze Repository lesen und verstehen und vor allem die LEGAL_NOTICE.md lesen, verstehen und akzeptieren, sowie alle anderen Dateien der Repository.
+## Rechtlicher Hinweis
+Dieses Projekt unterliegt dem rechtlichen Hinweis in [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
+
 
 ---
 
