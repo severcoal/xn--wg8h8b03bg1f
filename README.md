@@ -2,7 +2,7 @@
 
 **Achtung!**
 Dieses Projekt befindet sich in Entwicklung.  
-Die Nutzung erfolgt auf eigene Gefahr – Inhalte sind unvollständig oder fehlerhaft.
+Die Nutzung erfolgt auf eigene Gefahr – Inhalte sind unvollständig oder fehlerhaft. Für alle Dateien gilt die [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
 
 Die Lizenz (CC BY-NC-SA 4.0) gilt trotzdem für alle veröffentlichten Inhalte.
 
