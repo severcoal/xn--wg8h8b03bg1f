@@ -22,6 +22,30 @@ This project is subject to the legal notice in [LEGAL_NOTICE.md](./LEGAL_NOTICE.
 ## Rechtlicher Hinweis
 Dieses Projekt unterliegt dem rechtlichen Hinweis in [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
 
+## Notitia Iuridica
+Hoc opus subicitur notitiae iuridicae in [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
+
+## 法律声明
+本项目受 [LEGAL_NOTICE.md](./LEGAL_NOTICE.md) 中所载法律声明的约束。
+
+## कानूनी सूचना
+यह परियोजना [LEGAL_NOTICE.md](./LEGAL_NOTICE.md) में दिए गए कानूनी नोटिस के अधीन है।
+
+## Hukuki Bildirim
+Bu proje, [LEGAL_NOTICE.md](./LEGAL_NOTICE.md) dosyasında yer alan hukuki bildirime tabidir.
+
+## Mention légale
+Ce projet est soumis à la mention légale figurant dans [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
+
+## Aviso legal
+Este proyecto está sujeto al aviso legal contenido en [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
+
+## Avviso legale
+Il presente progetto è soggetto all’avviso legale contenuto in [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
+
+## Юридическое уведомление
+Настоящий проект подпадает под действие юридического уведомления, изложенного в [LEGAL_NOTICE.md](./LEGAL_NOTICE.md).
+
 
 ---
 
