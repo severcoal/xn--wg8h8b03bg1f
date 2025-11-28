@@ -954,3 +954,194 @@ Sub licentia CC BY-NC-SA 4.0
 
 © 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle एवं @severcoal  
 CC BY-NC-SA 4.0 के अंतर्गत लाइसेंस प्राप्त
+
+---
+
+# ⚖️ Hukuki Bildirim / Sorumluluk Reddi (Legal Notice / Disclaimer)
+
+## 📘 Amaç ve Kapsam
+Bu metin **hukuken bağlayıcı bir belge teşkil etmez**, yalnızca **kavramsal bir modelin açıklanması** veya **hukuki, organizasyonel ya da ekonomik değerlendirmeler için taslak bir temel** olarak hazırlanmıştır.
+
+Bu metin **kişisel hukuki danışmanlığın yerine geçmez** ve **yetkili bir avukat tarafından önceden incelenmeden kullanılamaz veya uygulanamaz**.
+
+Bu içeriğin her türlü uygulanması, yürütülmesi veya değerlendirilmesi **yalnızca gerekli eğitime sahip ve yetkilendirilmiş uzman kişiler tarafından yapılabilir**.  
+Niteliksiz veya usulsüz kullanım **açıkça yasaktır**.
+
+---
+
+## 🧾 Zorunlu Hukuki İnceleme
+Her türlü pratik uygulama, yürütme, yayınlama veya sözleşmeye dayalı kullanımdan önce, bu belgenin içeriği **alanında yetkili bir ruhsatlı avukat tarafından mutlaka incelenmelidir** (özellikle **şirketler hukuku, bankacılık hukuku, sermaye piyasası hukuku, vergi hukuku veya düzenleyici hukuk** alanlarında).
+
+Bu inceleme sonucunda hukuki geçerlilik, mevzuata uygunluk veya uygulanabilirliğin sağlanması için **değişiklik, ekleme veya çıkarma** yapılması gerekiyorsa, bunlar **derhal uygulanmalıdır**.  
+Ayrıca, **tüm pratik veya teknik önlemlerin yalnızca yürürlükteki güvenlik ve denetim standartlarına uygun şekilde, yetkin uzmanlar tarafından gerçekleştirilmesi** sağlanmalıdır.
+
+---
+
+## ⚠️ Sorumluluk Reddi
+Bu metnin yazarı, içeriğin **maddi, hukuki veya vergisel doğruluğu, eksiksizliği ya da güncelliği konusunda herhangi bir garanti veya sorumluluk kabul etmez**.  
+Önceden hukuki inceleme ve uzman denetimi olmaksızın yapılan her türlü kullanım, dağıtım veya yayın **tamamen kullanıcı veya ilgili kuruluşun kendi sorumluluğundadır**.
+
+Bu içeriğin kullanılması veya hatalı kullanımı sonucu doğabilecek doğrudan ya da dolaylı her türlü zarar için, **kanunun izin verdiği ölçüde sorumluluk açıkça hariç tutulmuştur**.  
+**Bu sorumluluk reddi yalnızca hukuken izin verilen kapsamda geçerlidir; kasten gerçekleştirilen fiillere ilişkin sorumluluk saklıdır.**
+
+---
+
+## 📜 Hukuki Dayanak
+Hukuki inceleme kapsamında aşağıdaki hukuk alanlarına uyulması dikkate alınmalıdır:
+- Medeni hukuk  
+- Ticaret ve şirketler hukuku  
+- Düzenleyici hukuk  
+- Vergi hukuku  
+- Kara para aklamanın önlenmesine ilişkin mevzuat ve diğer uyum düzenlemeleri  
+- Veri koruma hukuku  
+
+---
+
+## ✅ Tavsiye
+Uygulama veya yayım öncesinde aşağıdaki hususlar tavsiye edilir:
+1. Bir avukat tarafından **hukuki inceleme yapılması**,  
+2. Finansal veya bankacılık bağlantısı olması durumunda **yetkili denetim kurumlarıyla koordinasyon sağlanması**,  
+3. Olası **vergisel etkilerin bir mali müşavir tarafından değerlendirilmesi**,  
+4. **Yalnızca yetkin, eğitimli ve gerekli ekipmana sahip, yetkilendirilmiş personelin görevlendirilmesinin sağlanması**,  
+5. Metnin **mevzuat değişiklikleri veya yeni düzenleyici gereklilikler** açısından düzenli olarak gözden geçirilmesi.
+
+---
+
+## ⚠️ 7. Güvenlik ve Sorumluluk
+Bu belgeler **pratik deney veya uygulama talimatı olarak uygun değildir**.  
+Yalnızca **teorik kavramları açıklamaktadır**.  
+Her türlü deneysel veya teknik uygulama için **uygun laboratuvar donanımı, uzman gözetimi ve gerekiyorsa resmi izinler** zorunludur.  
+Kullanım **tamamen kişinin kendi riskindedir**.  
+Usulsüz kullanım sonucu ortaya çıkabilecek her türlü zarar, yaralanma veya hukuki sonuç için **her türlü sorumluluk reddedilmektedir**.  
+**Bu sorumluluk reddi yalnızca hukuken izin verilen kapsamda geçerlidir; kasten işlenen fiillere ilişkin sorumluluk saklıdır.**
+
+---
+
+**© 2025 🌐🐾🌱🛡️**  
+Tüm hakları saklıdır.  
+Kaynağın açıkça belirtilmesi koşuluyla bu bildirim, proje dokümantasyonlarında, depolarda (repository) veya yayınlarda değiştirilmeden kullanılabilir.
+
+---
+
+# ⚖️ Kasten İşlenen Fiillerde Sorumluluk – Anlamı ve Hukuki Çerçeve
+
+## 📘 Giriş
+**“Kast (intent)”** kavramı, sorumluluk hukukunda merkezi bir role sahiptir.  
+Birçok risk **sorumluluk reddi (disclaimer)** ile sınırlandırılabilirken,  
+bu durum **kasten gerçekleştirilen fiiller için geçerli değildir**.
+
+Bu belge açık bir şekilde şunları açıklar:
+- **Kastın ne anlama geldiği**,  
+- **Hangi durumlarda sorumluluğun hariç tutulabileceği**,  
+- Ve sorumluluk reddinde neden şu ifadenin yer aldığı:
+
+> “Bu sorumluluk reddi yalnızca hukuken izin verilen kapsamda geçerlidir; kasten gerçekleştirilen fiillere ilişkin sorumluluk saklıdır.”
+
+---
+
+## ⚙️ 1. “Kast” Ne Anlama Gelir?
+
+Hukuki anlamda **kast**, bir kişinin  
+**bilinçli ve istekli olarak hareket etmesini**,  
+bu davranışın **zarara, hukuka aykırılığa veya riske yol açacağını bilmesine rağmen** yapılmasını ifade eder.
+
+> 💡 Kısa tanım:  
+> **Kasten işlenen fiil = Bilinçli, isteyerek veya sonucu kabullenerek yapılan hukuka aykırı davranış.**
+
+Bunun karşıtı **ihmal (taksir)**dir – yani zararın **kasıtsız veya dikkatsizlik sonucu oluşmasıdır**.
+
+---
+
+## 🧱 2. Kast Türleri (Alman Hukuku Öğretisine Göre)
+
+| Kast Türü | Açıklama | Örnek |
+|-----------|-----------|--------|
+| **Doğrudan kast (1. derece)** | Zarar, fiilin bizzat amacıdır | Zarar vermek için başkasının verilerini bilerek silmek |
+| **Doğrudan kast (2. derece)** | Zarar amaç değildir, ancak kesin olarak gerçekleşeceği bilinir | Kusurlu yazılımı bilerek satmak |
+| **Olası kast (dolus eventualis)** | Zarar ihtimali vardır ve sonuç kabullenilir | Tehlikeli olduğunu bildiği bir konsepti yine de yayımlamak |
+
+---
+
+## ⚠️ 3. Kast Halinde Sorumluluk Neden Asla Kaldırılamaz?
+
+Alman Medeni Kanunu’na göre (§ 276/3 BGB):
+
+> **“Kasten yapılan fiillerden doğan sorumluluk önceden kaldırılamaz.”**
+
+Bu şu anlama gelir:
+- Bir kişi **bilinçli veya isteyerek zarar verirse**,  
+  **hiçbir sorumluluk reddine dayanamaz**.  
+- Bir belgede “tüm sorumluluklar hariçtir” yazsa bile,  
+  **kasten işlenen fiiller için sorumluluk devam eder**.
+
+Bu ilke aynı zamanda AB hukukunda, tüketici korunması, ürün sorumluluğu ve genel haksız fiil hukukunda da geçerlidir.
+
+---
+
+## 🧩 4. Uygulamalı Örnekler
+
+### ✅ Örnek 1 – Sorumluluğun Geçerli Şekilde Hariç Tutulması  
+Teorik bir konsepti açık bir sorumluluk reddi ile yayımlarsınız.  
+Bir kişi yeterli uzmanlığı olmadan bunu uygular ve zarar oluşur.  
+→ **Kast yoktur** → **sorumluluk doğmaz**.
+
+### ❌ Örnek 2 – Sorumluluk Reddine Rağmen Sorumluluk  
+Bir konseptin tehlikeli veya hukuka aykırı olduğunu bilmenize rağmen,  
+başkalarının bunu kullanması veya zarar görmesi amacıyla yayımlarsınız.  
+→ Bu durum **kasttır** → **sorumluluk reddine rağmen sorumluluk devam eder**.
+
+---
+
+## 🧭 5. Kast ile İhmal Arasındaki Fark
+
+| Kategori | Açıklama | Örnek | Sorumluluk Hariç Tutulabilir mi? |
+|----------|-----------|--------|-----------------------------------|
+| **Hafif ihmal** | Küçük dikkatsizlik | Yazım hatası | ✅ Evet |
+| **Ağır ihmal** | Özen yükümlülüğünün ciddi ihlali | Güvenlik kontrolünü tamamen atlamak | ⚠️ Sadece özel durumlarda |
+| **Kast** | Bilinçli ve isteyerek yapılan fiil | Bilerek zarar vermek | ❌ Hayır |
+| **Kasten yaralama, dolandırıcılık vb.** | Cezai nitelikte fiiller | Aldatma, hedefli zarar | ❌ Asla + cezai sorumluluk |
+
+---
+
+## 🧩 6. Sorumluluk Reddindeki İfadenin Anlamı
+
+Hukuki bildiriminde şu ifade yer almaktadır:
+
+> **“Bu sorumluluk reddi yalnızca hukuken izin verilen kapsamda geçerlidir; kasten gerçekleştirilen fiillere ilişkin sorumluluk saklıdır.”**
+
+Bunun anlamı şudur:
+1. Sorumluluğu **yalnızca hukukun izin verdiği ölçüde** hariç tutmaktasın,  
+2. **Kast halinde sorumluluğun kaldırılamayacağını açıkça kabul etmektesin**,  
+3. Bu sayede sorumluluk reddin **hukuken daha güvenilir ve güçlü hale gelmektedir**.
+
+---
+
+## 🧠 7. Neden Bu Kadar Önemlidir?
+
+Kastı da kapsayacak şekilde düzenlenmiş “aşırı güçlü” bir sorumluluk reddi,  
+uyuşmazlık halinde **kısmen veya tamamen geçersiz sayılabilir**.
+
+Doğru ifade:
+> “…… hukuken izin verilen kapsamda ……”
+ifadesi, tüm sorumluluk reddinin **geçerliliğini korumasını sağlar**,  
+çünkü **hukuki sınırları aşmaz**.
+
+---
+
+## ✅ 8. Sonuç
+
+- **Kast = bilinçli ve isteyerek yapılan hukuka aykırı davranış.**  
+- **Kasten işlenen fiillerden doğan sorumluluk asla hariç tutulamaz.**  
+- Mevcut sorumluluk reddin **hukuken doğru ve eksiksizdir**.  
+- “Kast sorumluluğu saklıdır” ibaresi onu **daha da güçlü ve dava güvenli hale getirir**.
+
+---
+
+**© 2025 🌐🐾🌱🛡️ – Sören Sardelle ve @severcoal**  
+Lisans: CC BY-NC-SA 4.0  
+Tüm hakları saklıdır.
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle ve @severcoal  
+CC BY-NC-SA 4.0 kapsamında lisanslanmıştır
