@@ -1337,3 +1337,195 @@ Tous droits réservés.
 
 © 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle et @severcoal  
 Publié sous licence CC BY-NC-SA 4.0
+
+---
+
+# ⚖️ Aviso Legal / Exención de Responsabilidad (Legal Notice / Disclaimer)
+
+## 📘 Objeto y Ámbito de Aplicación
+El presente texto **no constituye un documento jurídicamente vinculante**, sino que sirve únicamente para la **ilustración de un modelo conceptual** o como **base de borrador** para consideraciones jurídicas, organizativas o económicas.
+
+Este documento **no sustituye el asesoramiento jurídico individual** y **no debe utilizarse ni implementarse sin una revisión previa por parte de un abogado cualificado**.
+
+Cualquier aplicación, implementación o evaluación de este contenido **solo podrá ser realizada por profesionales debidamente formados y autorizados**.  
+El uso no cualificado o inadecuado está **expresamente prohibido**.
+
+---
+
+## 🧾 Revisión Jurídica Obligatoria
+Antes de cualquier aplicación práctica, implementación, publicación o uso contractual, el contenido de este documento deberá ser **revisado sin excepción por un abogado debidamente habilitado**, con la correspondiente competencia profesional (en particular en los ámbitos del **derecho societario, derecho bancario, derecho del mercado de capitales, derecho fiscal o derecho regulatorio**).
+
+En la medida en que dicha revisión determine que son necesarias **modificaciones, adiciones o supresiones** para garantizar la validez jurídica, la conformidad legal o la aplicabilidad práctica, estas deberán llevarse a cabo **de inmediato**.  
+Asimismo, deberá garantizarse que **todas las medidas prácticas o técnicas se realicen exclusivamente por especialistas cualificados, en cumplimiento de las normas de seguridad y supervisión vigentes**.
+
+---
+
+## ⚠️ Exención de Responsabilidad
+El autor de este texto **no asume garantía ni responsabilidad alguna** por la exactitud, integridad o actualidad de la información, ya sea de carácter material, jurídico o fiscal.  
+Cualquier uso, distribución o publicación sin una revisión jurídica previa y sin supervisión profesional se realiza **exclusivamente bajo el propio riesgo del usuario o de la organización correspondiente**.
+
+Toda responsabilidad por daños directos o indirectos derivados del uso o de la aplicación incorrecta de este contenido queda, **en la medida permitida por la ley, expresamente excluida**.  
+**Esta exención de responsabilidad se aplica dentro de los límites legalmente permitidos; la responsabilidad por dolo permanece inalterada.**
+
+---
+
+## 📜 Base Jurídica
+En el marco de una revisión jurídica deberán tenerse en cuenta, en particular, los siguientes ámbitos del derecho:
+- Derecho civil  
+- Derecho mercantil y societario  
+- Derecho regulatorio  
+- Derecho fiscal  
+- Legislación sobre prevención del blanqueo de capitales y demás normativas de cumplimiento  
+- Derecho de protección de datos  
+
+---
+
+## ✅ Recomendación
+Antes de la implementación o publicación, se recomienda:
+1. Realizar una **revisión jurídica** por parte de un abogado,  
+2. En caso de relación con el ámbito financiero o bancario, **coordinarse con las autoridades supervisoras competentes**,  
+3. Evaluar las **posibles consecuencias fiscales** mediante un asesor fiscal,  
+4. Garantizar que **solo personal cualificado, debidamente formado, autorizado y con el equipamiento adecuado participe en la ejecución**,  
+5. Revisar periódicamente el texto en relación con **cambios legislativos o nuevos requisitos regulatorios**.
+
+---
+
+## ⚠️ 7. Seguridad y Responsabilidad
+Estos documentos **no son adecuados como instrucciones prácticas para la realización de experimentos**.  
+Describen **exclusivamente conceptos teóricos**.  
+Cualquier implementación experimental o técnica requiere **equipamiento de laboratorio adecuado, supervisión especializada y, en su caso, autorizaciones oficiales**.  
+El uso se realiza **bajo el propio riesgo del usuario**.  
+Cualquier responsabilidad por daños, lesiones o consecuencias jurídicas derivadas de un uso indebido queda **excluida**.  
+**Esta exención de responsabilidad se aplica dentro de los límites legalmente permitidos; la responsabilidad por dolo permanece inalterada.**
+
+---
+
+**© 2025 🌐🐾🌱🛡️**  
+Todos los derechos reservados.  
+Este aviso podrá utilizarse sin modificaciones en documentaciones de proyectos, repositorios o publicaciones, siempre que la fuente sea claramente identificable.
+
+---
+
+# ⚖️ Responsabilidad por Dolo – Significado y Marco Jurídico
+
+## 📘 Introducción
+El concepto de **“dolo”** desempeña un papel central en el derecho de la responsabilidad.  
+Si bien muchos riesgos pueden limitarse mediante una **exención de responsabilidad (disclaimer)**,  
+esto **no se aplica a la conducta dolosa**.
+
+Este documento explica de forma clara:
+- qué significa el **dolo**,  
+- en qué casos **la responsabilidad puede ser excluida**,  
+- y por qué tu exención de responsabilidad incluye la siguiente adición:
+
+> “Esta exención de responsabilidad se aplica dentro de los límites legalmente permitidos; la responsabilidad por dolo permanece inalterada.”
+
+---
+
+## ⚙️ 1. ¿Qué Significa “Dolo”?
+
+En sentido jurídico, el **dolo** significa  
+que una persona actúa **consciente y voluntariamente**,  
+aun sabiendo (o aceptando) que de ello se derivará un **daño, una infracción legal o un riesgo**.
+
+> 💡 Definición breve:  
+> **Conducta dolosa = comportamiento incorrecto consciente, voluntario o aceptado a sabiendas.**
+
+Lo contrario es la **negligencia**, es decir, un daño que se produce **de forma no intencionada o por descuido**.
+
+---
+
+## 🧱 2. Tipos de Dolo (según el Derecho Alemán)
+
+| Tipo de dolo | Descripción | Ejemplo |
+|--------------|-------------|---------|
+| **Dolo directo de primer grado** | El daño es el objetivo directo del acto. | Eliminar deliberadamente datos ajenos para causar un daño. |
+| **Dolo directo de segundo grado** | El daño no es el objetivo, pero se sabe que ocurrirá con certeza. | Vender conscientemente un software defectuoso. |
+| **Dolo eventual** | El daño es posible y se acepta conscientemente. | Publicar un concepto aun sabiendo que puede ser peligroso. |
+
+---
+
+## ⚠️ 3. Por Qué el Dolo Nunca Puede Ser Excluido
+
+Conforme al derecho civil alemán (§ 276, apdo. 3 BGB):
+
+> **“La responsabilidad por actos dolosos no puede excluirse con carácter previo.”**
+
+Esto significa que:
+- Quien cause un daño **de forma consciente o intencionada**  
+  **no puede ampararse en una exención de responsabilidad**.  
+- Incluso si un documento indica “se excluye toda responsabilidad”,  
+  la responsabilidad **por dolo permanece vigente**.
+
+Este principio también resulta aplicable en el derecho de la Unión Europea, por ejemplo, en materia de protección de consumidores, responsabilidad por productos y responsabilidad civil extracontractual general.
+
+---
+
+## 🧩 4. Ejemplos Prácticos
+
+### ✅ Ejemplo 1 – Responsabilidad Válidamente Excluida  
+Publicas un concepto teórico con una exención de responsabilidad clara.  
+Una persona lo utiliza en la práctica sin los conocimientos necesarios y causa un daño.  
+→ **No actuaste con dolo** → **no existe reclamación de responsabilidad**.
+
+### ❌ Ejemplo 2 – Responsabilidad a Pesar de la Exención  
+Sabes que un concepto es peligroso o ilegal,  
+y aun así lo publicas con la intención de que alguien lo utilice o resulte perjudicado.  
+→ Existe **dolo** → **la responsabilidad subsiste incluso con exención**.
+
+---
+
+## 🧭 5. Diferencia entre Dolo y Negligencia
+
+| Categoría | Descripción | Ejemplo | ¿Responsabilidad Excluible? |
+|-----------|-------------|---------|------------------------------|
+| **Negligencia leve** | Descuido menor | Error tipográfico | ✅ Sí |
+| **Negligencia grave** | Infracción grave del deber de diligencia | Omitir por completo un control de seguridad | ⚠️ Solo en casos especiales |
+| **Dolo** | Conducta consciente e intencionada | Provocar un daño deliberadamente | ❌ No |
+| **Lesiones dolosas, fraude, etc.** | Conducta penalmente relevante | Engaño, daño dirigido | ❌ Nunca + responsabilidad penal |
+
+---
+
+## 🧩 6. Significado de la Redacción en la Exención
+
+En tu Aviso Legal figura la siguiente redacción:
+
+> **“Esta exención de responsabilidad se aplica dentro de los límites legalmente permitidos; la responsabilidad por dolo permanece inalterada.”**
+
+Esto significa concretamente que:
+1. Excluyes la responsabilidad **únicamente dentro de los límites permitidos por la ley**,  
+2. **Reconoces expresamente** que la responsabilidad por dolo **no puede ser excluida**,  
+3. Tu exención de responsabilidad se vuelve así **jurídicamente más creíble y sólida**,  
+   al ajustarse al derecho vigente en lugar de sobrepasarlo.
+
+---
+
+## 🧠 7. Por Qué Esto es Importante
+
+Una exención de responsabilidad “demasiado amplia” que pretenda excluir incluso el dolo  
+puede ser declarada **parcial o totalmente nula en caso de litigio**.
+
+Gracias a la redacción correcta:
+> “... dentro de los límites legalmente permitidos ...”  
+toda tu exención de responsabilidad **permanece válida**,  
+ya que **respeta el límite jurídico en lugar de superarlo**.
+
+---
+
+## ✅ 8. Conclusión
+
+- **Dolo = conducta incorrecta consciente e intencionada.**  
+- **La responsabilidad por dolo nunca puede ser excluida.**  
+- Tu exención de responsabilidad actual es **jurídicamente correcta y completa**.  
+- La adición (“la responsabilidad por dolo permanece inalterada”) la hace **aún más sólida y jurídicamente segura**.
+
+---
+
+**© 2025 🌐🐾🌱🛡️ – Sören Sardelle y @severcoal**  
+Licencia: CC BY-NC-SA 4.0  
+Todos los derechos reservados.
+
+---
+
+© 2025 (GitHub, xn--wg8h8b03bg1f) Sören Sardelle y @severcoal  
+Publicado bajo licencia CC BY-NC-SA 4.0
