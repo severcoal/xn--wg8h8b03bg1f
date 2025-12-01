@@ -1,3 +1,5 @@
+Siehe LEGAL_NOTICE.md
+
 Die Emoji-Kette beschreibt sinngemäß folgendes Modell: <br>
 Eine Person (👤) überträgt oder nutzt ein Vermögensgut (🦙), um über eine Bank (🏦) eine Gesellschaft (🏢) zu gründen. <br>
 Diese Gesellschaft handelt aktiv am Markt (📈), solange das Vermögensgut besteht oder lebt. <br>
