@@ -1,3 +1,6 @@
+See LEGAL_NOTICE.md
+
+
 The sequence of emojis symbolically represents the following model: <br>
 A person (👤) transfers or utilizes an asset (🦙) through a bank (🏦) to establish a company (🏢). <br>
 This company operates actively in the market (📈) as long as the asset continues to exist or “lives.” <br>
