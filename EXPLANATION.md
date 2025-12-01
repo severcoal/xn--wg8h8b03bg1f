@@ -1,4 +1,4 @@
-See LEGAL_NOTICE.md
+Before see LEGAL_NOTICE.md.
 
 
 The sequence of emojis symbolically represents the following model: <br>
