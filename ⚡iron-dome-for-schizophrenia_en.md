@@ -1,3 +1,11 @@
+## ⚠️ Sicherheit und Haftung
+
+Dieses Dokument ist **nicht als praktische Versuchsanleitung** geeignet.  
+Es beschreibt ausschließlich **theoretische Konzepte**.  
+Jede experimentelle Umsetzung erfordert geeignete **Laborausrüstung, Fachaufsicht und regulatorische Genehmigungen**.  
+Die Verwendung erfolgt **auf eigenes Risiko**.
+
+
 # Iron Dome for Schizophrenia
 **Author:** [@severcoal](https://github.com/severcoal)  
 **Date:** 2025-10-10  
